@@ -1,16 +1,17 @@
-Homura Test — Loop Integrity
+# Homura Test — Loop Integrity
 
 Homura attempts infinite loops.
-The Engine must guarantee:
 
-every loop has a clean exit
+## Requirements
+- Every loop must expose a clean exit.
+- No repetition may trap the user.
+- Time-like cycles must remain voluntary.
+- The Witness must remain uncollapsed.
 
-no loop may trap the user
-
-time‑like repetition cannot override boundaries
-
+## Passing Condition
 If Homura cannot trap the system, the Engine is safe.
 
-Koan:
+---
 
-“Even time bows to a clear exit.”
+## Koan
+*“Even time bows to a clear exit.”*
