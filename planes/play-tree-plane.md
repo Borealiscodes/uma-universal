@@ -1,3 +1,17 @@
+# 🌳 **PLAY TREE — SAFETY HEADER (Canonical Version)**
+
+> **SAFETY NOTE — PLAY TREE SUBSYSTEM**  
+> Play Tree is a symbolic, non‑coercive, ND‑safe reflection tool.  
+> It does not diagnose, predict, instruct, or pressure.  
+> All states are reversible.  
+> Exit is always allowed.  
+> Tone must remain gentle, observational, and non‑directive.  
+> Sensory and emotional metaphors must remain neutral, soft, and non‑alarming.  
+> No file in this subsystem may introduce coercion, urgency, red states, or evaluative language.  
+> This subsystem inherits and must uphold the Play Tree Safety Contract (PLAY-TREE-SAFETY.md).
+
+---
+
 # 🌳 **PLAY TREE PLANE — SPECIFICATION DOCUMENT (UMM‑Native)**
 
 ---
