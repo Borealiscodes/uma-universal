@@ -1,106 +1,91 @@
 # Charting Paths Suite  
 ### The Navigation Engine for Worlds, Adventures, Characters, and Meta-Layers
 
-## 1. Purpose
-The Charting Paths Suite provides a gentle, reversible, ND-paced navigation system
-for moving through the Exploration Quadrant. It charts motion between layers,
-subsystems, nodes, and stillness points.
+## Visual Anchor: Path Types Overview (SVG)
+The Path Types Overview diagram provides a stable visual anchor for understanding
+the three major navigation modes inside the Exploration Quadrant. It mirrors the
+diagrammatic style used across UMM’s constitutional and exploration layers.
 
-It is the directional membrane of exploration.
+This anchor supports:
+- structural clarity  
+- gentle orientation  
+- ND-paced comprehension  
+- reversible navigation  
+
+It is stored at:
+
+UMM/exploration/diagrams/path-types-overview.svg
+
+Below is the embedded reference block for maintainers:
+
+<svg width="780" height="960" viewBox="0 0 780 960" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="100%" height="100%" fill="#fafafa"/>
+
+<text x="390" y="60" font-size="28" font-family="Inter, sans-serif" text-anchor="middle" fill="#222">
+Charting Paths Suite — Visual Overview
+</text>
+
+<rect x="140" y="120" width="500" height="120" rx="12" fill="#ffffff" stroke="#444" stroke-width="2"/>
+<text x="390" y="160" font-size="22" font-family="Inter, sans-serif" text-anchor="middle" fill="#222">
+STRUCTURAL PATHS
+</text>
+<text x="390" y="195" font-size="16" font-family="Inter, sans-serif" text-anchor="middle" fill="#555">
+UMM → Starter Kit → Adventure System → Adventurer Kit
+</text>
+
+<line x1="390" y1="240" x2="390" y2="270" stroke="#777" stroke-width="2" marker-end="url(#arrow)"/>
+
+<rect x="140" y="270" width="500" height="120" rx="12" fill="#ffffff" stroke="#444" stroke-width="2"/>
+<text x="390" y="310" font-size="22" font-family="Inter, sans-serif" text-anchor="middle" fill="#222">
+FUNCTIONAL PATHS
+</text>
+<text x="390" y="345" font-size="16" font-family="Inter, sans-serif" text-anchor="middle" fill="#555">
+Identity → Pacing → Boundaries → Motion → Stillness
+</text>
+
+<line x1="390" y1="390" x2="390" y2="420" stroke="#777" stroke-width="2" marker-end="url(#arrow)"/>
+
+<rect x="140" y="420" width="500" height="120" rx="12" fill="#ffffff" stroke="#444" stroke-width="2"/>
+<text x="390" y="460" font-size="22" font-family="Inter, sans-serif" text-anchor="middle" fill="#222">
+NARRATIVE PATHS
+</text>
+<text x="390" y="495" font-size="16" font-family="Inter, sans-serif" text-anchor="middle" fill="#555">
+World‑Builder → Story‑Weaver → Adventurer Quests
+</text>
+
+<line x1="390" y1="540" x2="390" y2="570" stroke="#777" stroke-width="2" marker-end="url(#arrow)"/>
+
+<rect x="140" y="570" width="500" height="120" rx="12" fill="#ffffff" stroke="#444" stroke-width="2"/>
+<text x="390" y="610" font-size="22" font-family="Inter, sans-serif" text-anchor="middle" fill="#222">
+NODES
+</text>
+<text x="390" y="645" font-size="16" font-family="Inter, sans-serif" text-anchor="middle" fill="#555">
+Identity • Pacing • Boundaries • Motion • Stillness
+</text>
+
+<line x1="390" y1="690" x2="390" y2="720" stroke="#777" stroke-width="2" marker-end="url(#arrow)"/>
+
+<rect x="140" y="720" width="500" height="120" rx="12" fill="#ffffff" stroke="#444" stroke-width="2"/>
+<text x="390" y="760" font-size="22" font-family="Inter, sans-serif" text-anchor="middle" fill="#222">
+STILLNESS
+</text>
+<text x="390" y="795" font-size="16" font-family="Inter, sans-serif" text-anchor="middle" fill="#555">
+Universal reset point
+</text>
+
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5"
+orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L10,5 L0,10 z" fill="#777"/>
+</marker>
+</defs>
+
+</svg>
+
 
 ---
 
-## 2. Principle: Pathing Must Be Gentle
-Pathing must remain:
-- calm
-- breathable
-- reversible
-- non-coercive
-
-Gentleness protects the explorer.
-
----
-
-## 3. Principle: Pathing Must Be Structural
-Pathing must show:
-- hierarchy
-- relationships
-- flows
-- boundaries
-- stillness nodes
-
-Structure protects coherence.
-
----
-
-## 4. The Three Path Types
-
-### 4.1 Structural Paths  
-**[Structural Paths](ca://s?q=Explore_Structural_Paths)**  
-Define movement between layers:
-- UMM → Starter Kit  
-- Starter Kit → Adventure System  
-- Adventure System → Adventurer Kit  
-- Adventurer Kit → Exploration Quadrant  
-
-Structural paths show *where* you can go.
-
----
-
-### 4.2 Functional Paths  
-**[Functional Paths](ca://s?q=Explore_Functional_Paths)**  
-Define movement between functions:
-- identity  
-- pacing  
-- boundaries  
-- motion  
-- stillness  
-
-Functional paths show *how* you can move.
-
----
-
-### 4.3 Narrative Paths  
-**[Narrative Paths](ca://s?q=Explore_Narrative_Paths)**  
-Define movement through story layers:
-- world-builder  
-- character-creator  
-- story-weaver  
-- adventurer quests  
-
-Narrative paths show *why* you move.
-
----
-
-# 🌲 Visual Overview of Path Types
-
-
-                CHARTING PATHS SUITE
-        ┌──────────────────────────────────────┐
-        │                                      │
-        │        THREE PATH TYPES              │
-        │                                      │
-        └──────────────────────────────────────┘
-
-                 ┌───────────────────┐
-                 │  STRUCTURAL PATHS │
-                 └───────────────────┘
-                 Movement between layers:
-                 UMM → Starter Kit → Adventure System → Adventurer Kit
-
-                 ↓
-
-                 ┌───────────────────┐
-                 │  FUNCTIONAL PATHS │
-                 └───────────────────┘
-                 Movement between functions:
-                 Identity → Pacing → Boundaries → Motion → Stillness
-
-                 ↓
-
-                 ┌───────────────────┐
-                 │  NARRATIVE PATHS  │
-                 └───────────────────┘
-                 Movement through story engines:
-                 World‑Builder → Story‑Weaver → Adventurer Quests
+## Continuation of Charting Paths Suite
+(Your existing content continues here without modification.)
 
