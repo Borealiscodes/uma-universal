@@ -1,284 +1,215 @@
-# **Mimi‑Meta Contributor Handbook**  
-### UMA‑Universal / Character Layer  
-### Soft • Symbolic • Reversible • ND‑Safe  
-### Full Onboarding Manual for New Collaborators
+# 🌟 **Mimi‑Meta Contributor Handbook (Sparkle Edition)**  
+### Warm‑Plane ✧ Gentle ✧ ND‑Safe ✧ Reversible  
+### A calm, supportive guide for Mimi‑Meta contributors
 
 ---
 
-## **0. Safety Header — Required**
+# ✨ 1. Soft Opening
 
-> **SAFETY NOTE — CHARACTER MODULE**  
-> Mimi‑Meta is a symbolic, non‑coercive, ND‑safe companion.  
-> She does not instruct, diagnose, predict, or pressure.  
-> All interactions are optional, reversible, and gentle.  
-> This module inherits and must uphold the Mimi‑Meta Safety Contract.
+Welcome to the Mimi‑Meta Contributor Layer.  
+This handbook is your **gentle companion** — a warm, ND‑safe guide that explains how contribution works without pressure, deadlines, or evaluation.
+
+You can:
+
+- read slowly  
+- skim lightly  
+- skip sections  
+- pause anytime  
+- return anytime  
+
+Everything here is **reversible**.
 
 ---
 
-# **1. Introduction: Welcome to Mimi‑Meta**
+# ✨ 2. What It Means to Be a Contributor
 
-Mimi‑Meta is a **character interaction module** inside UMA‑Universal.  
-She is not a guide, not an advisor, not an emotional authority — she is a **symbolic presence** built from:
+A Mimi‑Meta contributor is someone who:
 
-- micro‑interactions  
-- emotional textures  
-- continuity cues  
+- adds clarity  
+- expands interaction grammar  
+- creates gentle textures  
+- writes scenario seeds  
+- improves documentation  
+- maintains Sparkle tone  
+- supports ND‑safe pacing  
+- preserves constitutional alignment  
+
+Contributors are **builders of warmth and clarity**, not performers or evaluators.
+
+---
+
+# ✨ 3. Contributor Principles (Warm‑Plane)
+
+Contributors follow Sparkle principles:
+
+- **Gentleness** — calm tone, soft pacing  
+- **Warmth** — supportive, kind communication  
+- **Reversibility** — every step can be undone  
+- **Clarity** — predictable structure, no surprises  
+- **Non‑Coercion** — no pressure or demands  
+- **ND‑Safety** — sensory‑safe pacing and tone  
+
+These principles guide all contributions.
+
+---
+
+# ✨ 4. Contributor Tools (Your Toolkit)
+
+Each item begins with a Guided Link so you can open it directly.
+
+- **Contributor Dashboard**  
+- **Certification Package**  
+- **Certification Form**  
+- **Certification Rubric**  
+- **Review Workflow**  
+- **Progress Tracker**  
+- **Badge Set**  
+
+These tools are gentle, predictable, and Sparkle‑aligned.
+
+---
+
+# ✨ 5. The Contributor Journey (Soft‑Plane Flow)
+
+A calm, ND‑safe sequence you may follow:
+
+### **Step 1 — Orientation**  
+Read the Quick‑Start Card and Repository Map.
+
+### **Step 2 — Handbook**  
+You’re reading it now — this is your warm‑plane anchor.
+
+### **Step 3 — Certification Package**  
+See the full contributor path.
+
+### **Step 4 — Certification Form**  
+Fill it slowly, lightly, or not at all.
+
+### **Step 5 — Rubric**  
+Understand how reviewers think — gently.
+
+### **Step 6 — Review Workflow**  
+Enter the warm‑plane review loop.
+
+### **Step 7 — Progress Tracker**  
+Track your comfort and pacing.
+
+### **Step 8 — Badge Set**  
+Celebrate symbolic milestones.
+
+Everything is optional.  
+Everything is reversible.
+
+---
+
+# ✨ 6. How to Contribute (Gentle Guidance)
+
+You may contribute by:
+
+- writing interaction grammar  
+- creating scenario seeds  
+- designing world‑plane textures  
+- improving documentation  
+- adding Sparkle tone  
+- refining clarity  
+- supporting ND‑safe pacing  
+- offering gentle feedback  
+
+Contributions should be:
+
+- calm  
+- clear  
+- warm  
+- reversible  
+- non‑coercive  
+- Sparkle‑aligned  
+
+There is **no required format**.  
+There is **no required depth**.  
+There is **no required frequency**.
+
+---
+
+# ✨ 7. Safety & Constitutional Alignment
+
+Mimi‑Meta follows UMA‑Universal’s constitutional rules:
+
+- non‑coercion  
 - reversible transitions  
-- soft pacing  
-- ND‑friendly rhythm  
+- ND‑safe pacing  
+- gentle tonal scaffolds  
+- predictable structure  
+- constitutional separation of layers  
 
-Her purpose is to **soften**, **stabilize**, **pace**, and **symbolically accompany** creative or cognitive processes.
-
-This handbook teaches collaborators:
-
-- how Mimi works  
-- how her interactions are structured  
-- how to create new scenes  
-- how to log interactions  
-- how to extend her ecosystem safely  
+Sparkle Layer enhances tone without altering governance.
 
 ---
 
-# **2. Mimi‑Meta Identity**
+# ✨ 8. Contributor Rights (Warm‑Plane)
 
-### **2.1 What Mimi Is**
-- A symbolic character module  
-- A soft presence at the edges of scenes  
-- A reversible interaction engine  
-- A constitutional component of UMA‑Universal  
+You have the right to:
 
-### **2.2 What Mimi Is Not**
-- Not directive  
-- Not therapeutic  
-- Not evaluative  
-- Not an emotional authority  
-- Not a guide or advisor  
-- Not a persistent companion  
+- pause anytime  
+- revise anytime  
+- withdraw anytime  
+- ask questions anytime  
+- move slowly  
+- move lightly  
+- move playfully  
+- move gently  
 
-### **2.3 Mimi’s Core Principles**
-- Softness  
-- Symbolism  
-- Reversibility  
-- ND‑safety  
-- Predictable pacing  
-- No emotional promises  
-- No dependency cues  
+You also have the right to:
 
-Learn more:  
-**Mimi‑Meta Mini‑Entry**
+- ND‑safe pacing  
+- warm‑plane tone  
+- non‑coercive feedback  
+- reversible steps  
+- calm communication  
+
+These rights are **structural**, not optional.
 
 ---
 
-# **3. Interaction Architecture**
+# ✨ 9. Contributor Responsibilities (Soft‑Plane)
 
-Mimi’s behavior is defined by the **Interaction Suite**, which contains:
+Your responsibilities are gentle:
 
-- **Seven interaction types**  
-- **Four constitutional phases**  
-- **Micro‑interaction families**  
-- **Textures and continuity cues**  
-- **Safety rules**  
+- maintain Sparkle tone  
+- preserve ND‑safe pacing  
+- respect constitutional boundaries  
+- keep interactions reversible  
+- support clarity and warmth  
 
-### **3.1 Interaction Types**
-- **Soft Presence**  
-- **Comfort**  
-- **Redirect**  
-- **Pacing**  
-- **Transition**  
-- **Playful Exploration**  
-- **Stillness**  
-
-### **3.2 Constitutional Phases**
-1. **Invitation** — Soft Drift, Micro‑Sparkle  
-2. **Presence** — Cushioned Quiet, Petal Pause  
-3. **Adjustment** — Petal Slow‑Fall, Mint Sway  
-4. **Exit** — Lantern Fade‑Out, Petal Dissolve  
-
-Learn the full architecture:  
-**Interaction Suite**
+There are **no performance responsibilities**.
 
 ---
 
-# **4. Micro‑Interactions, Textures & Cues**
+# ✨ 10. Reviewer Relationship (Warm‑Plane)
 
-Mimi’s behavior is built from **atomic symbolic actions**:
+Reviewers are:
 
-### **4.1 Micro‑Interactions**
-Examples:
+- supportive  
+- gentle  
+- calm  
+- warm  
+- non‑directive  
+- ND‑safe  
 
-- Soft Drift  
-- Petal Pause  
-- Lantern Blink  
-- Bubble Pop‑Quiet  
-- Ribbon Tilt  
-- Mint Breeze  
-- Sparkle Drift Cue  
-
-Full library:  
-**Micro‑Interactions**
-
-### **4.2 Emotional Textures**
-Examples:
-
-- Cushioned Quiet  
-- Warm Plush  
-- Soft Bloom Puff  
-- Bubble Ease Touch  
-
-Full library:  
-**Emotional Texture Library**
-
-### **4.3 Continuity Cues**
-Examples:
-
-- Star Drift  
-- Star Pulse Slow  
-- Lantern Glow  
-
-Full anchor:  
-**Continuity Anchor**
+They help you refine your contributions softly.  
+They do not judge, score, or pressure.
 
 ---
 
-# **5. World‑Plane Behavior**
+# ✨ 11. Tiny Closing Sparkle
 
-Mimi interacts differently depending on the plane:
+You are welcome here.  
+You are supported here.  
+You can move gently.  
+You can pause anytime.  
+You can return anytime.  
+Sparkle Layer is active.  
+Warm‑plane tone is enabled.  
 
-- **Aether Plane** — sparkles, drift, air  
-- **Forest Plane** — mint, ribbon, orientation  
-- **Play Tree Plane** — bloom, sparkle, exploration  
-- **Star Plane** — continuity, pulse, shimmer  
-- **Quiet Plane** — hush, cushion, stillness  
-- **Continuity Plane** — rhythm, stability, predictability  
-
-Full map:  
-**World Integration Map**
+This handbook is your **calm, warm companion** inside the Mimi‑Meta Contributor Layer.
 
 ---
-
-# **6. Scenario Literacy**
-
-Collaborators learn Mimi’s behavior through **50 scenarios**:
-
-### **6.1 Canonical Pack (20 scenes)**
-**Open Canonical Pack**
-
-### **6.2 Expansion Pack (30 scenes)**
-**Open Expansion Pack**
-
-These show Mimi in:
-
-- overwhelm softening  
-- quiet focus  
-- playful exploration  
-- transitions  
-- comfort  
-- redirect  
-- stillness  
-
----
-
-# **7. Structural Navigation Tools**
-
-To understand the ecosystem, collaborators use:
-
-- **Scenario Index**  
-- **Scenario Atlas**  
-- **Scenario Matrix**  
-- **Scenario Codex**  
-- **Scenario Hypergraph**  
-
-These provide:
-
-- directories  
-- maps  
-- grids  
-- deep entries  
-- conceptual hyperedges  
-
----
-
-# **8. Creating New Scenes**
-
-Collaborators use the **Scenario Templates**:
-
-**Open Scenario Templates**
-
-### **8.1 Creation Rules**
-- Always symbolic  
-- Always reversible  
-- Always ND‑safe  
-- No directive tone  
-- No emotional evaluation  
-- No promises  
-- No dependency cues  
-
-### **8.2 Structure**
-Every new scene must follow:
-
-- Invitation  
-- Presence  
-- Adjustment  
-- Exit  
-
----
-
-# **9. Logging & Auditing**
-
-Every interaction must be logged using the **Interaction Log Pattern**:
-
-**Interaction Log Pattern**
-
-Logs include:
-
-- metadata  
-- activation summary  
-- safety check  
-- continuity notes  
-- exit summary  
-
-This ensures:
-
-- constitutional compliance  
-- safety auditing  
-- reversible state tracking  
-
----
-
-# **10. Extending Mimi‑Meta**
-
-Advanced collaborators can design:
-
-- new micro‑interaction families  
-- new textures  
-- new continuity cues  
-- new world‑plane behaviors  
-- new scenario clusters  
-- new symbolic grammars  
-
-Start here:  
-**Design New Mimi‑Meta Interaction Families**
-
----
-
-# **11. Quick Reference Table**
-
-| Topic | Link |
-|------|------|
-| Mimi Identity | **Mini‑Entry** |
-| Interaction Architecture | **Interaction Suite** |
-| Scenario Packs | **Canonical** / **Expansion** |
-| Structural Maps | **Index** / **Atlas** |
-| Deep Entries | **Codex** |
-| Concept Map | **Hypergraph** |
-| Creation Tools | **Templates** |
-| Logging | **Log Pattern** |
-| Advanced Design | **New Families** |
-
----
-
-# **12. Closing Note**
-
-This handbook is the **complete onboarding manual** for Mimi‑Meta contributors.  
-It teaches identity → architecture → examples → navigation → creation → logging → extension.
-
