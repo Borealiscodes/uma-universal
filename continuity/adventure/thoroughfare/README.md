@@ -23,3 +23,6 @@ Define the primary passageways and navigable routes that guide:
 Thoroughfare references act as gentle, reversible, ND-safe guides
 for how Adventure System components establish, maintain,
 and traverse primary routes without enforcing directionality.
+
+## Atlas
+See the visual atlas in the [atlas folder](atlas/visual-atlas-thicketry-thoroughfare.svg).
