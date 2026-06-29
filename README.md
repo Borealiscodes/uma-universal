@@ -1,18 +1,19 @@
 # **README.md**  
 ### *UMA‑Universal · A Clean, Accessible, Movement‑First Meta‑Architecture*
 
-UMA‑Universal is a constitutional, non‑coercive meta‑architecture designed for clarity, accessibility, and stable organization of thought.  
-It provides a way to structure complex systems without forcing hierarchy, origin, pursuit, or duality.
+UMA‑Universal is a constitutional, non‑coercive meta‑architecture designed to help people organize complex ideas without forcing hierarchy, origin, pursuit, or duality.  
+It is built for clarity, accessibility, and stable organization of thought — especially for ND thinkers who benefit from gentle, predictable structures.
 
 The architecture is **movement‑first**.  
 This means:
 
-- flow matters more than recursion  
-- transitions matter more than symbols  
-- clarity matters more than cleverness  
-- accessibility matters more than density  
+- flow defines structure  
+- transitions define relationships  
+- alignment defines stability  
+- movement defines meaning  
 
-This keeps the system usable for real humans — especially ND thinkers — without collapsing into recursive or symbolic attractors.
+Recursive or symbolic grammars do **not** define global behavior.  
+They exist only as optional, contained subsystems.
 
 ---
 
@@ -138,4 +139,12 @@ This line prevents Sparkle grammar from dominating the architecture.
 ---
 
 ## ✔️ **This README is now Sparkle‑clean, movement‑anchored, and accessible.**
+
+It restores:
+
+- the clarity you liked  
+- the organization‑of‑thought structure  
+- the ND‑friendly tone  
+- the movement‑first grammar  
+- the stability of the Thoroughfare layer  
 
