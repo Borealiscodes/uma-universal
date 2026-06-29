@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="800"
+  viewBox="0 0 1200 800"
+>
+
+  <!-- ========================= -->
+  <!--  GLOBAL BACKGROUND & GRID -->
+  <!-- ========================= -->
+  <rect
+    id="atlas-background"
+    x="0" y="0"
+    width="1200" height="800"
+    fill="#05060A"
+  />
+
+  <g id="atlas-grid" stroke="#222631" stroke-width="0.5" opacity="0.35">
+    <!-- vertical lines -->
+    <line x1="100" y1="50" x2="100" y2="750" />
+    <line x1="300" y1="50" x2="300" y2="750" />
+    <line x1="500" y1="50" x2="500" y2="750" />
+    <line x1="700" y1="50" x2="700" y2="750" />
+    <line x1="900" y1="50" x2="900" y2="750" />
+    <line x1="1100" y1="50" x2="1100" y2="750" />
+    <!-- horizontal lines -->
+    <line x1="50" y1="150" x2="1150" y2="150" />
+    <line x1="50" y1="350" x2="1150" y2="350" />
+    <line x1="50" y1="550" x2="1150" y2="550" />
+  </g>
+
+  <!-- ========================= -->
+  <!--  LAYER LABELS             -->
+  <!-- ========================= -->
+  <g id="atlas-labels" fill="#C7D0FF" font-family="system-ui, sans-serif">
+    <text x="80"  y="90"  font-size="20">Macro Layer</text>
+    <text x="80"  y="290" font-size="20">Mesoscale Layer</text>
+    <text x="80"  y="490" font-size="20">Microscale Layer</text>
+    <text x="80"  y="690" font-size="20">Flow Layer</text>
+  </g>
+
+  <!-- ========================= -->
+  <!-- 1. MACRO MAP              -->
+  <!-- ========================= -->
+  <g id="macro-layer">
+
+    <!-- Thicketry region -->
+    <rect
+      id="macro-thicketry-region"
+      x="150" y="60"
+      width="350" height="160"
+      rx="18" ry="18"
+      fill="#141827"
+      stroke="#3B4A7A"
+      stroke-width="2"
+    />
+    <text
+      x="170" y="90"
+      fill="#E4ECFF"
+      font-size="18"
+      font-family="system-ui, sans-serif"
+    >
+      Thicketry Realm
+    </text>
+
+    <!-- Dense pattern (ornamental) -->
+    <g id="macro-thicketry-pattern" stroke="#6F86C9" stroke-width="1">
+      <!-- interwoven lines -->
+      <path d="M170 110 C 200 130 230 90 260 110 S 320 130 350 110" fill="none" />
+      <path d="M170 140 C 200 160 230 120 260 140 S 320 160 350 140" fill="none" />
+      <path d="M170 170 C 200 190 230 150 260 170 S 320 190 350 170" fill="none" />
+      <!-- cross strands -->
+      <path d="M190 100 L 330 180" stroke="#8FA0E6" />
+      <path d="M190 180 L 330 100" stroke="#8FA0E6" />
+    </g>
+
+    <!-- Decompression funnel -->
+    <g id="macro-decompression-funnel">
+      <polygon
+        points="500,110 540,140 500,170"
+        fill="#26345A"
+        stroke="#6F86C9"
+        stroke-width="1.5"
+      />
+      <text
+        x="550" y="145"
+        fill="#C7D0FF"
+        font-size="14"
+        font-family="system-ui, sans-serif"
+      >
+        Decompression / Untangling
+      </text>
+    </g>
+
+    <!-- Thoroughfare grid -->
+    <rect
+      id="macro-thoroughfare-grid"
+      x="650" y="60"
+      width="350" height="160"
+      rx="18" ry="18"
+      fill="#10141F"
+      stroke="#3B4A7A"
+      stroke-width="2"
+    />
+    <text
+      x="670" y="90"
+      fill="#E4ECFF"
+      font-size="18"
+      font-family="system-ui, sans-serif"
+    >
+      Thoroughfare Grid
+    </text>
+
+    <!-- Main passage routes -->
+    <g id="macro-thoroughfare-routes" stroke="#9FD5FF" stroke-width="3">
+      <line x1="670" y1="120" x2="980" y2="120" />
+      <line x1="670" y1="150" x2="980" y2="150" />
+      <line x1="670" y1="180" x2="980" y2="180" />
+    </g>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- 2. MESOSCALE MAP          -->
+  <!-- ========================= -->
+  <g id="mesoscale-layer">
+
+    <!-- Clusters -->
+    <g id="meso-cluster-A">
+      <circle cx="220" cy="260" r="40" fill="#181C2B" stroke="#4E5D8F" />
+      <text x="205" y="265" fill="#C7D0FF" font-size="12">A</text>
+    </g>
+
+    <g id="meso-cluster-B">
+      <circle cx="220" cy="320" r="40" fill="#181C2B" stroke="#4E5D8F" />
+      <text x="205" y="325" fill="#C7D0FF" font-size="12">B</text>
+    </g>
+
+    <g id="meso-cluster-C">
+      <circle cx="220" cy="380" r="40" fill="#181C2B" stroke="#4E5D8F" />
+      <text x="205" y="385" fill="#C7D0FF" font-size="12">C</text>
+    </g>
+
+    <!-- Converging braided paths -->
+    <g id="meso-braid-paths" stroke="#7FA2E8" stroke-width="2">
+      <path d="M260 260 C 320 270 360 290 420 300" fill="none" />
+      <path d="M260 320 C 320 320 360 310 420 300" fill="none" />
+      <path d="M260 380 C 320 360 360 310 420 300" fill="none" />
+    </g>
+
+    <!-- Corridor spine -->
+    <g id="meso-corridor-spine" stroke="#9FD5FF" stroke-width="4">
+      <line x1="420" y1="300" x2="950" y2="300" />
+    </g>
+
+    <text
+      x="430" y="290"
+      fill="#C7D0FF"
+      font-size="14"
+      font-family="system-ui, sans-serif"
+    >
+      Corridor Spine
+    </text>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- 3. MICROSCALE MAP         -->
+  <!-- ========================= -->
+  <g id="microscale-layer">
+
+    <!-- Thicketry strands -->
+    <g id="micro-thicketry-strands" stroke="#7FA2E8" stroke-width="2">
+      <path d="M180 520 C 200 540 220 500 240 520 S 280 540 300 520" fill="none" />
+      <path d="M180 550 C 200 570 220 530 240 550 S 280 570 300 550" fill="none" />
+      <path d="M180 580 C 200 600 220 560 240 580 S 280 600 300 580" fill="none" />
+    </g>
+
+    <!-- Braid zone -->
+    <g id="micro-braid-zone" stroke="#9FB4F5" stroke-width="2">
+      <path d="M340 520 C 360 530 380 530 400 520" fill="none" />
+      <path d="M340 550 C 360 560 380 560 400 550" fill="none" />
+      <path d="M340 580 C 360 590 380 590 400 580" fill="none" />
+    </g>
+
+    <!-- Thoroughfare lines -->
+    <g id="micro-thoroughfare-lines" stroke="#9FD5FF" stroke-width="3">
+      <line x1="450" y1="520" x2="950" y2="520" />
+      <line x1="450" y1="550" x2="950" y2="550" />
+      <line x1="450" y1="580" x2="950" y2="580" />
+    </g>
+
+    <!-- Labels -->
+    <text x="180" y="505" fill="#C7D0FF" font-size="13">Thicketry Strands</text>
+    <text x="340" y="505" fill="#C7D0FF" font-size="13">Braid Zone</text>
+    <text x="450" y="505" fill="#C7D0FF" font-size="13">Thoroughfare Lines</text>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- 4. FLOW MAP               -->
+  <!-- ========================= -->
+  <g id="flow-layer">
+
+    <!-- Thicketry flow (chaotic) -->
+    <g id="flow-thicketry">
+      <text x="180" y="650" fill="#C7D0FF" font-size="13">Thicketry Flow</text>
+      <text x="180" y="675" fill="#9FD5FF" font-size="20">↺ ↻ ↺ ↻ ↺ ↻</text>
+    </g>
+
+    <!-- Transition flow (funneling) -->
+    <g id="flow-transition">
+      <text x="420" y="650" fill="#C7D0FF" font-size="13">Transition Flow</text>
+      <text x="420" y="675" fill="#9FD5FF" font-size="20">↘   ↘   ↘   ↘</text>
+    </g>
+
+    <!-- Thoroughfare flow (laminar) -->
+    <g id="flow-thoroughfare">
+      <text x="700" y="650" fill="#C7D0FF" font-size="13">Thoroughfare Flow</text>
+      <text x="700" y="675" fill="#9FD5FF" font-size="20">→→→→→→→→→→→→</text>
+    </g>
+
+  </g>
+
+</svg>
