@@ -17,3 +17,15 @@
   </text>
 </svg>
 
+  <!-- Step 13: Direction Anchor -->
+  <g id="direction-anchor">
+    <line
+      x1="100"
+      y1="120"
+      x2="300"
+      y2="120"
+      stroke="#8FA8FF"
+      stroke-width="2"
+      stroke-dasharray="6 6"
+    />
+  </g>
