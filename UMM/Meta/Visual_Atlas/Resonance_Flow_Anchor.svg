@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1000 1000"
+     width="1000" height="1000">
+
+  <!-- Center Node -->
+  <circle cx="500" cy="500" r="40"
+          fill="white"
+          opacity="0.95" />
+
+  <!-- Upward Spiral (Gold) -->
+  <path
+    d="M 500 500
+       C 525 455, 560 420, 600 400
+       C 640 380, 690 380, 740 400
+       C 780 420, 810 450, 830 490"
+    fill="none"
+    stroke="#FFD34A"
+    stroke-width="14"
+    stroke-linecap="round"
+    opacity="0.95" />
+
+  <!-- Downward Spiral (Blue) -->
+  <path
+    d="M 500 500
+       C 525 545, 560 580, 600 600
+       C 640 620, 690 620, 740 600
+       C 780 580, 810 550, 830 510"
+    fill="none"
+    stroke="#3A7BD5"
+    stroke-width="14"
+    stroke-linecap="round"
+    opacity="0.95" />
+
+  <!-- Inward Spiral (Violet) -->
+  <path
+    d="M 780 500
+       C 700 470, 630 460, 580 480
+       C 540 495, 515 500, 500 500"
+    fill="none"
+    stroke="#9B59B6"
+    stroke-width="11"
+    stroke-linecap="round"
+    opacity="0.9" />
+
+  <!-- Outward Spiral (Green) -->
+  <path
+    d="M 500 500
+       C 460 460, 420 430, 380 410
+       C 340 390, 290 390, 240 410
+       C 200 430, 170 460, 150 500"
+    fill="none"
+    stroke="#4CAF50"
+    stroke-width="12"
+    stroke-linecap="round"
+    opacity="0.9" />
+
+  <!-- Left Drift Wave -->
+  <path
+    d="M 500 500
+       C 460 515, 420 530, 380 535
+       C 340 540, 300 535, 260 520"
+    fill="none"
+    stroke="#88A4C4"
+    stroke-width="8"
+    stroke-linecap="round"
+    opacity="0.6" />
+
+  <!-- Right Drift Wave -->
+  <path
+    d="M 500 500
+       C 540 515, 580 530, 620 535
+       C 660 540, 700 535, 740 520"
+    fill="none"
+    stroke="#88A4C4"
+    stroke-width="8"
+    stroke-linecap="round"
+    opacity="0.6" />
+
+</svg>
+
