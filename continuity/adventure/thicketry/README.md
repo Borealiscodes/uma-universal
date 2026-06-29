@@ -23,3 +23,11 @@ Define the artful, patterned complexity‑craft that guides:
 Thicketry references act as gentle, reversible, ND-safe guides
 for how Adventure System components express refined, intricate,
 non-binding complexity patterns without imposing structure.
+
+        ╔═══════════ THICKETRY ═══════════╗
+        ║    Interwoven • Ornate • Dense   ║
+╔═══════╩══════════════════════════════════╩═══════╗
+║   ╱╲╱╲   ╱╲╱╲   ╱╲╱╲   ╱╲╱╲   ╱╲╱╲   ╱╲╱╲   ╱╲╱╲  ║
+║  ╱╳╳╳╲  ╱╳╳╳╲  ╱╳╳╳╲  ╱╳╳╳╲  ╱╳╳╳╲  ╱╳╳╳╲  ╱╳╳╳╲ ║
+║   ╲╱╲╱   ╲╱╲╱   ╲╱╲╱   ╲╱╲╱   ╲╱╲╱   ╲╱╲╱   ╲╱╲╱  ║
+╚═══════════════════════════════════════════════════╝
