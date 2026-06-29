@@ -1,3 +1,8 @@
+# **Meta_Layer_Interaction_Map.md**  
+Movement is primary. This subsystem does not define recursion, planes, or affective grammar.
+
+---
+
 ## 1. Meta layer identity
 
 **Meta layer:**  
