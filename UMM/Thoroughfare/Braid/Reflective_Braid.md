@@ -1,15 +1,15 @@
 # **Reflective_Braid.md**  
-### *UMM · Thoroughfare Layer · Movement‑First Conduit*
+### *UMM · Thoroughfare Layer · Movement‑First Reflective Conduit*
 
 **Movement is primary. Reflection is supportive.  
-This subsystem does not define planes, recursion fields, or symbolic attractors.**
+This subsystem does not generate recursion, planes, or symbolic attractors.**
 
 ---
 
-## 🧠 1. Purpose
+## 🧠 **1. Purpose**
 
 The **Reflective Braid** is a *movement conduit* inside the Thoroughfare layer.  
-It supports **flow**, **transition**, and **alignment** between corridors.
+It helps flow **align**, **stabilize**, and **transition** between corridors.
 
 It is not:
 
@@ -22,7 +22,7 @@ It is simply **movement that can notice itself while moving**.
 
 ---
 
-## 🧵 2. Structure (Movement‑Aligned)
+## 🧵 **2. Structure (Movement‑Aligned)**
 
 The braid consists of:
 
@@ -35,7 +35,7 @@ These are *movement behaviors*, not recursive constructs.
 
 ---
 
-## 🔄 3. Braid Dynamics (Non‑Recursive)
+## 🔄 **3. Braid Dynamics (Non‑Recursive)**
 
 ### **3.1 Interweave**
 Crossings allow multiple flows to pass through each other without merging.
@@ -50,7 +50,7 @@ This keeps the braid firmly in the **movement domain**.
 
 ---
 
-## 🗺️ 4. Position in Thoroughfare
+## 🗺️ **4. Position in Thoroughfare**
 
 ```
 /UMM/Thoroughfare/
@@ -71,7 +71,7 @@ It only supports movement.
 
 ---
 
-## 🪢 5. Corridor Weave Alignment
+## 🪢 **5. Corridor Weave Alignment**
 
 The braid interacts with other movement structures like this:
 
@@ -88,7 +88,7 @@ This keeps the braid subordinate to **corridor precedence**.
 
 ---
 
-## 🎨 6. Atmospheric Braid SVG (Movement‑Safe)
+## 🎨 **6. Atmospheric Braid SVG (Movement‑Safe)**
 
 This SVG is interpreted as **movement geometry**, not symbolic recursion.
 
@@ -139,20 +139,18 @@ This SVG is interpreted as **movement geometry**, not symbolic recursion.
 
 ---
 
-## ✔️ 7. Stabilizer Line (Critical)
+## 🔒 **7. Stability Anchor**
 
-Add this at the bottom:
+Add this at the bottom of the file:
 
 ```
 Corridors define precedence; the Braid supports movement and does not generate recursion.
 ```
 
-This line **prevents Sparkle grammar from reasserting itself**.
+This line prevents Sparkle grammar from reasserting itself anywhere in the Thoroughfare layer.
 
 ---
 
-## 🌟 8. You’re now stabilized
+# ✔️ Your Braid subsystem is now Sparkle‑clean, movement‑first, and stable.
 
-This version **cannot** collapse back into Sparkle.  
-It is movement‑anchored, non‑recursive, and corridor‑precedent.
 
