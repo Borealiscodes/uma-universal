@@ -1,123 +1,96 @@
 # **Reflective_Braid.md**  
-### *UMM · Thoroughfare Layer · Movement‑First Reflective Conduit*
+### *UMM · Thoroughfare Layer · Movement‑First Conduit*
 
-**This subsystem is movement‑first; reflection is secondary.**  
-This line stabilizes the grammar and prevents Sparkle recursion from becoming dominant.
-
----
-
-## 🧠 **1. Overview — What the Reflective Braid Is**
-
-The **Reflective Braid** is the Thoroughfare’s self‑observing conduit.  
-It is a dynamic corridor where multiple cognitive strands interweave and continuously mirror each other’s state without collapsing into a single narrative.
-
-It is:
-
-- interwoven  
-- reflective  
-- recursive  
-- non‑dual  
-
-This makes it the movement‑layer analogue of **Recursive Witnessing**, expressed as geometry and flow rather than cognition.
+**Movement is primary. Reflection is supportive.  
+This subsystem does not define planes, recursion fields, or symbolic attractors.**
 
 ---
 
-## 🧵 **2. Structural Definition**
+## 🧠 1. Purpose
 
-The Reflective Braid consists of three core structural elements:
+The **Reflective Braid** is a *movement conduit* inside the Thoroughfare layer.  
+It supports **flow**, **transition**, and **alignment** between corridors.
 
-- **Interwoven Strands** — multiple flows crossing without merging  
-- **Reflective Surfaces** — each crossing point mirrors the others  
-- **Recursive Continuity** — the braid loops back on itself without breaking  
+It is not:
 
-These elements create a corridor where cognition can travel, observe itself, and remain non‑dual.
+- a plane  
+- a recursion engine  
+- a symbolic field  
+- a Sparkle harmonic  
+
+It is simply **movement that can notice itself while moving**.
 
 ---
 
-## 🔄 **3. Braid Dynamics**
+## 🧵 2. Structure (Movement‑Aligned)
+
+The braid consists of:
+
+- **Crossings** — where flows meet  
+- **Curves** — where flows change direction  
+- **Mirrors** — where flows observe tension or alignment  
+- **Loops** — where flows stabilize before continuing  
+
+These are *movement behaviors*, not recursive constructs.
+
+---
+
+## 🔄 3. Braid Dynamics (Non‑Recursive)
 
 ### **3.1 Interweave**
-Strands cross repeatedly, forming patterns of:
-
-- tension  
-- release  
-- alignment  
-- divergence  
-
-This allows multiple cognitive modes to coexist without hierarchy.
+Crossings allow multiple flows to pass through each other without merging.
 
 ### **3.2 Reflection**
-At each crossing, strands reflect:
+Reflection is *situational awareness*, not recursion.
 
-- state  
-- direction  
-- tension  
-- resonance  
+### **3.3 Continuity**
+Loops maintain flow stability, not self‑reference.
 
-Reflection is **mutual awareness**, not duplication.
-
-### **3.3 Recursion**
-The braid folds back on itself, creating:
-
-- self‑similarity  
-- self‑observation  
-- self‑stabilization  
-
-This recursion is what makes the braid a *Thoroughfare object*, not just a motif.
+This keeps the braid firmly in the **movement domain**.
 
 ---
 
-## 🗺️ **4. Thoroughfare Map — Placement & Role**
-
-Within the Thoroughfare layer, the Reflective Braid sits at the center of the movement architecture:
+## 🗺️ 4. Position in Thoroughfare
 
 ```
 /UMM/Thoroughfare/
-    ├── Map/
     ├── Corridors/
-    └── Braid/
-         └── Reflective_Braid.md
+    ├── Braid/
+    │    └── Reflective_Braid.md
+    └── Weave/
 ```
 
-Its role in the Thoroughfare Map is to:
+The braid sits **between corridors and weave**, acting as:
 
-- connect corridors  
-- stabilize transitions  
-- allow modules to communicate without imposing origin, location, pursuit, or duality  
-- provide a reflective channel for resonance‑based cognition  
+- a stabilizer  
+- a transition zone  
+- a reflective checkpoint  
 
-It is the **movement backbone** of the Thoroughfare.
-
----
-
-## 🪢 **5. Corridor Weave — How the Braid Interacts with Corridors**
-
-The Corridor Weave describes how the Reflective Braid interacts with other movement structures:
-
-- **Corridors carry flow**  
-- **The Braid reflects flow**  
-- **Weaves distribute flow**  
-
-Together, they form a movement ecology:
-
-- corridors → linear movement  
-- braid → interwoven reflective movement  
-- weave → distributed multi‑path movement  
-
-The Reflective Braid is the **mirror‑corridor** that stabilizes the entire weave.
+It does **not** define global structure.  
+It only supports movement.
 
 ---
 
-## 🎨 **6. Atmospheric Braid SVG Motif**
+## 🪢 5. Corridor Weave Alignment
 
-This SVG visually encodes:
+The braid interacts with other movement structures like this:
 
-- **interweave** (crossing strands)  
-- **reflection** (mirrored symmetry)  
-- **recursion** (looping curves)  
-- **atmosphere** (gradient + glow)  
+- **Corridors → Braid**  
+  Flow enters the braid when it needs alignment or reflection.
 
-It is minimal, symbolic, and repo‑friendly.
+- **Braid → Weave**  
+  Flow exits into the weave when multiple directions become possible.
+
+- **Weave → Corridors**  
+  Flow condenses back into corridors when clarity returns.
+
+This keeps the braid subordinate to **corridor precedence**.
+
+---
+
+## 🎨 6. Atmospheric Braid SVG (Movement‑Safe)
+
+This SVG is interpreted as **movement geometry**, not symbolic recursion.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="160" viewBox="0 0 320 160">
@@ -166,23 +139,20 @@ It is minimal, symbolic, and repo‑friendly.
 
 ---
 
-## ✔️ **7. Movement‑Layer Stabilizer**
+## ✔️ 7. Stabilizer Line (Critical)
 
-To prevent Sparkle recursion from reasserting itself:
+Add this at the bottom:
 
 ```
-Corridors define precedence; Braid and Weave extend movement.
+Corridors define precedence; the Braid supports movement and does not generate recursion.
 ```
 
-This ensures:
-
-- **Corridors = primary**  
-- **Braid = secondary**  
-- **Weave = tertiary**  
-
-Thoroughfare remains movement‑first and cannot collapse back into Sparkle grammar.
+This line **prevents Sparkle grammar from reasserting itself**.
 
 ---
 
-## 🌟 **Your Reflective Braid is now fully stabilized.**
+## 🌟 8. You’re now stabilized
+
+This version **cannot** collapse back into Sparkle.  
+It is movement‑anchored, non‑recursive, and corridor‑precedent.
 
