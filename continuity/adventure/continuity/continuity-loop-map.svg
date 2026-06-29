@@ -1,0 +1,51 @@
+<svg width="720" height="720" viewBox="0 0 720 720" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#fdfdfd"/>
+
+  <!-- Center Stillness -->
+  <circle cx="360" cy="360" r="8" fill="#333" />
+  <text x="372" y="360" font-size="16" fill="#333">Stillness</text>
+
+  <!-- Continuity Loop (Soft Circle) -->
+  <circle cx="360" cy="360" r="200" stroke="#7f8c8d" stroke-width="4" fill="none"/>
+
+  <!-- Phase: Entry -->
+  <circle cx="360" cy="160" r="6" fill="#4a90e2"/>
+  <text x="340" y="140" font-size="16" fill="#4a90e2">Entry</text>
+
+  <!-- Phase: Drift -->
+  <circle cx="560" cy="360" r="6" fill="#2ecc71"/>
+  <text x="540" y="340" font-size="16" fill="#2ecc71">Drift</text>
+
+  <!-- Phase: Grounding -->
+  <circle cx="360" cy="560" r="6" fill="#e67e22"/>
+  <text x="320" y="590" font-size="16" fill="#e67e22">Grounding</text>
+
+  <!-- Phase: Return -->
+  <circle cx="160" cy="360" r="6" fill="#9b59b6"/>
+  <text x="130" y="340" font-size="16" fill="#9b59b6">Return</text>
+
+  <!-- Arrows along loop -->
+  <path d="M360 160
+           A 200 200 0 0 1 560 360"
+        stroke="#7f8c8d" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <path d="M560 360
+           A 200 200 0 0 1 360 560"
+        stroke="#7f8c8d" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <path d="M360 560
+           A 200 200 0 0 1 160 360"
+        stroke="#7f8c8d" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <path d="M160 360
+           A 200 200 0 0 1 360 160"
+        stroke="#7f8c8d" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+
+  <!-- Arrowhead definition -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5"
+            orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7f8c8d" />
+    </marker>
+  </defs>
+
+</svg>
