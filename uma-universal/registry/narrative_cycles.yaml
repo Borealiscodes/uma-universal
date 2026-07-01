@@ -1,0 +1,9 @@
+- id: noodle_arc
+  pinned: true
+  status: complete
+  terminal: "arcs/noodle_arc/terminal_entry.md"
+  manifest: "arcs/noodle_arc/arc_manifest.yaml"
+  changelog: "arcs/noodle_arc/CHANGELOG.md"
+  upgrades:
+    - mark3_mesh
+  notes: "Canonical example of arc structure and upgrade documentation."
