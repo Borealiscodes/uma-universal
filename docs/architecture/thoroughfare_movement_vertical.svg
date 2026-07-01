@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100">
+  <style>
+    .bg { fill: #061727; }
+    .layer-box { fill: none; stroke: #5fb3ff; stroke-width: 2; }
+    .connector { stroke: #5fb3ff; stroke-width: 2; marker-end: url(#arrow); }
+    .text { fill: #e6f3ff; font-family: "Segoe UI", sans-serif; font-size: 22px; }
+    .title { fill: #e6f3ff; font-family: "Segoe UI", sans-serif; font-size: 32px; font-weight: bold; }
+    .subtitle { fill: #9fd0ff; font-family: "Segoe UI", sans-serif; font-size: 20px; }
+  </style>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3"
+            orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#5fb3ff" />
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" x="0" y="0" width="900" height="1100" />
+
+  <!-- Title -->
+  <text class="title" x="60" y="90">
+    Thoroughfare — Vertical Movement Stack Blueprint
+  </text>
+  <text class="subtitle" x="60" y="130">
+    Pure movement grammar arranged in a clean vertical stack.
+  </text>
+
+  <!-- Corridors -->
+  <rect class="layer-box" x="150" y="200" width="600" height="180" />
+  <text class="text" x="180" y="250">Corridors</text>
+  <text class="text" x="180" y="300" font-size="18">
+    Linear precedence • Stable paths • Deterministic movement
+  </text>
+
+  <!-- Arrow: Corridors → Braid -->
+  <line class="connector" x1="450" y1="380" x2="450" y2="450" />
+  <text class="text" x="470" y="420" font-size="18">Corridors → Braid</text>
+
+  <!-- Braid -->
+  <rect class="layer-box" x="150" y="450" width="600" height="180" />
+  <text class="text" x="180" y="500">Braid</text>
+  <text class="text" x="180" y="550" font-size="18">
+    Interwoven support • Multi‑perspective movement • Non‑recursive
+  </text>
+
+  <!-- Arrow: Braid → Weave -->
+  <line class="connector" x1="450" y1="630" x2="450" y2="700" />
+  <text class="text" x="470" y="670" font-size="18">Braid → Weave</text>
+
+  <!-- Weave -->
+  <rect class="layer-box" x="150" y="700" width="600" height="180" />
+  <text class="text" x="180" y="750">Weave</text>
+  <text class="text" x="180" y="800" font-size="18">
+    Distributed mesh • Multi‑node flow • Conceptual expansion
+  </text>
+
+  <!-- Arrow: Weave → Corridors (loop) -->
+  <line class="connector" x1="450" y1="880" x2="450" y2="950" />
+  <text class="text" x="470" y="920" font-size="18">Weave → Corridors (stability loop)</text>
+</svg>
