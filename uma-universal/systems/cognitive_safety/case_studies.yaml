@@ -1,3 +1,5 @@
+meta_behavior: "meta_behavior/meta_behavior_index.yaml"
+
 - id: noodle_arc_sensory_recalibration
   pinned: true
   source: "arcs/noodle_arc/terminal_entry.md"
