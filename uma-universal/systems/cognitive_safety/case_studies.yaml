@@ -1,0 +1,4 @@
+- id: noodle_arc_sensory_recalibration
+  pinned: true
+  source: "arcs/noodle_arc/terminal_entry.md"
+  notes: "Primary case study for mesh-assisted sensory normalization."
