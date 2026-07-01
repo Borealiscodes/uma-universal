@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200">
+  <style>
+    .bg { fill: #061727; }
+    .circle { fill: none; stroke: #5fb3ff; stroke-width: 2; }
+    .spoke { stroke: #5fb3ff; stroke-width: 2; }
+    .text { fill: #e6f3ff; font-family: "Segoe UI", sans-serif; font-size: 18px; text-anchor: middle; }
+    .title { fill: #e6f3ff; font-family: "Segoe UI", sans-serif; font-size: 28px; font-weight: bold; text-anchor: middle; }
+    .subtitle { fill: #9fd0ff; font-family: "Segoe UI", sans-serif; font-size: 18px; text-anchor: middle; }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" x="0" y="0" width="1200" height="1200" />
+
+  <!-- Title -->
+  <text class="title" x="600" y="80">
+    UMA‑Universal — Mandala Architecture Blueprint
+  </text>
+  <text class="subtitle" x="600" y="115">
+    Radial mapping of movement, runtime, and behavior.
+  </text>
+
+  <!-- Mandala center -->
+  <circle class="circle" cx="600" cy="600" r="80" />
+  <text class="text" x="600" y="605">UMA Core</text>
+  <text class="text" x="600" y="635" font-size="14">
+    Movement • Runtime • Behavior
+  </text>
+
+  <!-- Rings -->
+  <circle class="circle" cx="600" cy="600" r="200" />
+  <circle class="circle" cx="600" cy="600" r="320" />
+  <circle class="circle" cx="600" cy="600" r="440" />
+
+  <!-- Labels for rings -->
+  <text class="text" x="600" y="390" font-size="16">Thoroughfare — Movement Ring</text>
+  <text class="text" x="600" y="510" font-size="16">Cosmology Engine — Runtime Ring</text>
+  <text class="text" x="600" y="630" font-size="16">Meta Behavior — Behavioral Ring</text>
+
+  <!-- Spoke angles: 0°, 120°, 240° -->
+  <!-- Precomputed positions -->
+
+  <!-- Spoke 1: Corridors → State → Emergence (angle 0°) -->
+  <!-- Movement node -->
+  <line class="spoke" x1="600" y1="600" x2="600" y2="400" />
+  <text class="text" x="600" y="380">Corridors</text>
+
+  <!-- Runtime node -->
+  <line class="spoke" x1="600" y1="400" x2="600" y2="280" />
+  <text class="text" x="600" y="260">State</text>
+
+  <!-- Behavior node -->
+  <line class="spoke" x1="600" y1="280" x2="600" y2="160" />
+  <text class="text" x="600" y="140">Emergence</text>
+
+  <!-- Spoke 2: Braid → Flow → Structure (angle 120°) -->
+  <!-- Movement node -->
+  <line class="spoke" x1="600" y1="600" x2="394" y2="486" />
+  <text class="text" x="374" y="476">Braid</text>
+
+  <!-- Runtime node -->
+  <line class="spoke" x1="394" y1="486" x2="288" y2="424" />
+  <text class="text" x="268" y="414">Flow</text>
+
+  <!-- Behavior node -->
+  <line class="spoke" x1="288" y1="424" x2="182" y2="362" />
+  <text class="text" x="162" y="352">Structure</text>
+
+  <!-- Spoke 3: Weave → Transition → Absurdity (angle 240°) -->
+  <!-- Movement node -->
+  <line class="spoke" x1="600" y1="600" x2="806" y2="486" />
+  <text class="text" x="826" y="476">Weave</text>
+
+  <!-- Runtime node -->
+  <line class="spoke" x1="806" y1="486" x2="912" y2="424" />
+  <text class="text" x="932" y="414">Transition</text>
+
+  <!-- Behavior node -->
+  <line class="spoke" x1="912" y1="424" x2="1018" y2="362" />
+  <text class="text" x="1038" y="352">Absurdity</text>
+</svg>
