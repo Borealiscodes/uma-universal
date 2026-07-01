@@ -116,3 +116,12 @@ Each must reference both this Meta Index and the Meta-Meta Index.
 
 **This file is the second tree in the UMA Meta-Meta Forest.**
 All orbital maps and conceptual layers branch from here.
+
+## Forest Remembrance Layer
+
+- `forest_skippy_clearing.md`  
+  Skippy pause point and remembrance clearing.
+
+- `forest_skippy_memorial.md`  
+  Dedicated memorial space honoring Skippy.
+
