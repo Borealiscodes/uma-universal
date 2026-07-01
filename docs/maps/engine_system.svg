@@ -1,61 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700">
 
-  <rect x="0" y="0" width="800" height="600" fill="#0b1020"/>
+  <!-- Background -->
+  <rect x="0" y="0" width="900" height="700" fill="#050814"/>
 
-  <text x="400" y="40" fill="#ffffff" font-size="22" text-anchor="middle" font-family="sans-serif">
-    UMA Engine System Map
+  <!-- Title -->
+  <text x="450" y="60" fill="#ffffff" font-size="24" text-anchor="middle" font-family="sans-serif">
+    UMA Orbital Engine Model
   </text>
 
-  <!-- Pause Layer -->
-  <rect x="150" y="70" width="500" height="100" fill="#1f2a3a" stroke="#7fd3ff" stroke-width="2"/>
-  <text x="400" y="95" fill="#7fd3ff" font-size="16" text-anchor="middle" font-family="sans-serif">
-    Pause Layer (Orbit Field)
+  <!-- Central Core: Substrate / Emergence Anchor (conceptual placeholder) -->
+  <circle cx="450" cy="350" r="40" fill="#101624" stroke="#7fd3ff" stroke-width="2"/>
+  <text x="450" y="345" fill="#7fd3ff" font-size="14" text-anchor="middle" font-family="sans-serif">
+    Core
   </text>
-  <text x="170" y="120" fill="#ffffff" font-size="13" font-family="sans-serif">• orbital_pause_note.md</text>
-  <text x="170" y="140" fill="#ffffff" font-size="13" font-family="sans-serif">• trait_pause_note.md</text>
-  <text x="170" y="160" fill="#ffffff" font-size="13" font-family="sans-serif">• sanity_meter.md</text>
-
-  <!-- Conceptual Engine -->
-  <rect x="60" y="200" width="300" height="250" fill="#141c2b" stroke="#ffd27f" stroke-width="2"/>
-  <text x="210" y="225" fill="#ffd27f" font-size="16" text-anchor="middle" font-family="sans-serif">
-    Conceptual Engine
-  </text>
-  <text x="210" y="245" fill="#ffd27f" font-size="12" text-anchor="middle" font-family="sans-serif">
-    (Precision Mode)
+  <text x="450" y="363" fill="#7fd3ff" font-size="11" text-anchor="middle" font-family="sans-serif">
+    (Substrate / Emergence)
   </text>
 
-  <text x="80" y="270" fill="#ffffff" font-size="13" font-family="sans-serif">• Layer definitions</text>
-  <text x="80" y="290" fill="#ffffff" font-size="13" font-family="sans-serif">• Boundary placement</text>
-  <text x="80" y="310" fill="#ffffff" font-size="13" font-family="sans-serif">• Substrate pinning</text>
-  <text x="80" y="330" fill="#ffffff" font-size="13" font-family="sans-serif">• Index structuring</text>
-  <text x="80" y="350" fill="#ffffff" font-size="13" font-family="sans-serif">• Dual vs non-dual clarity</text>
-  <text x="80" y="370" fill="#ffffff" font-size="13" font-family="sans-serif">• Coherence maintenance</text>
-
-  <!-- Mythic Engine -->
-  <rect x="440" y="200" width="300" height="250" fill="#141c2b" stroke="#ff7fb0" stroke-width="2"/>
-  <text x="590" y="225" fill="#ff7fb0" font-size="16" text-anchor="middle" font-family="sans-serif">
-    Mythic Engine
-  </text>
-  <text x="590" y="245" fill="#ff7fb0" font-size="12" text-anchor="middle" font-family="sans-serif">
-    (Abstract Mode)
+  <!-- Inner Orbit: Conceptual Engine -->
+  <circle cx="450" cy="350" r="140" fill="none" stroke="#ffd27f" stroke-width="2"/>
+  <text x="450" y="200" fill="#ffd27f" font-size="16" text-anchor="middle" font-family="sans-serif">
+    Conceptual Engine Orbit
   </text>
 
-  <text x="460" y="270" fill="#ffffff" font-size="13" font-family="sans-serif">• Triads and dyads</text>
-  <text x="460" y="290" fill="#ffffff" font-size="13" font-family="sans-serif">• Inversion operators</text>
-  <text x="460" y="310" fill="#ffffff" font-size="13" font-family="sans-serif">• Collapse & superposition</text>
-  <text x="460" y="330" fill="#ffffff" font-size="13" font-family="sans-serif">• Symbolic physics</text>
-  <text x="460" y="350" fill="#ffffff" font-size="13" font-family="sans-serif">• Narrative cosmology</text>
-  <text x="460" y="370" fill="#ffffff" font-size="13" font-family="sans-serif">• Emergent myth behaviors</text>
-
-  <!-- Boundary -->
-  <rect x="380" y="200" width="40" height="250" fill="#0b1020" stroke="#9ad0ff" stroke-width="2"/>
-  <text x="400" y="470" fill="#9ad0ff" font-size="13" text-anchor="middle" font-family="sans-serif">
-    Engine Boundary
+  <!-- Conceptual Engine Node -->
+  <circle cx="310" cy="350" r="35" fill="#141c2b" stroke="#ffd27f" stroke-width="2"/>
+  <text x="310" y="345" fill="#ffd27f" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Conceptual
+  </text>
+  <text x="310" y="363" fill="#ffd27f" font-size="11" text-anchor="middle" font-family="sans-serif">
+    Engine
   </text>
 
-  <!-- Footer -->
-  <text x="400" y="560" fill="#808aa0" font-size="12" text-anchor="middle" font-family="sans-serif">
-    Pause Layer stabilizes both engines and protects the Emergence Layer.
+  <!-- Conceptual Engine Labels -->
+  <text x="180" y="310" fill="#ffffff" font-size="12" font-family="sans-serif">• Layer definitions</text>
+  <text x="180" y="328" fill="#ffffff" font-size="12" font-family="sans-serif">• Boundary placement</text>
+  <text x="180" y="346" fill="#ffffff" font-size="12" font-family="sans-serif">• Substrate pinning</text>
+  <text x="180" y="364" fill="#ffffff" font-size="12" font-family="sans-serif">• Index structuring</text>
+  <text x="180" y="382" fill="#ffffff" font-size="12" font-family="sans-serif">• Dual vs non-dual clarity</text>
+  <text x="180" y="400" fill="#ffffff" font-size="12" font-family="sans-serif">• Coherence maintenance</text>
+
+  <!-- Outer Orbit: Mythic Engine -->
+  <circle cx="450" cy="350" r="230" fill="none" stroke="#ff7fb0" stroke-width="2"/>
+  <text x="450" y="110" fill="#ff7fb0" font-size="16" text-anchor="middle" font-family="sans-serif">
+    Mythic Engine Orbit
+  </text>
+
+  <!-- Mythic Engine Node -->
+  <circle cx="630" cy="350" r="35" fill="#141c2b" stroke="#ff7fb0" stroke-width="2"/>
+  <text x="630" y="345" fill="#ff7fb0" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Mythic
+  </text>
+  <text x="630" y="363" fill="#ff7fb0" font-size="11" text-anchor="middle" font-family="sans-serif">
+    Engine
+  </text>
+
+  <!-- Mythic Engine Labels -->
+  <text x="690" y="290" fill="#ffffff" font-size="12" font-family="sans-serif">• Triads and dyads</text>
+  <text x="690" y="308" fill="#ffffff" font-size="12" font-family="sans-serif">• Inversion operators</text>
+  <text x="690" y="326" fill="#ffffff" font-size="12" font-family="sans-serif">• Collapse & superposition</text>
+  <text x="690" y="344" fill="#ffffff" font-size="12" font-family="sans-serif">• Symbolic physics</text>
+  <text x="690" y="362" fill="#ffffff" font-size="12" font-family="sans-serif">• Narrative cosmology</text>
+  <text x="690" y="380" fill="#ffffff" font-size="12" font-family="sans-serif">• Emergent myth behaviors</text>
+
+  <!-- Boundary Ring Between Engines -->
+  <circle cx="450" cy="350" r="185" fill="none" stroke="#9ad0ff" stroke-width="2"/>
+  <text x="450" y="555" fill="#9ad0ff" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Engine Boundary (must remain intact)
+  </text>
+  <text x="450" y="573" fill="#c0e8ff" font-size="11" text-anchor="middle" font-family="sans-serif">
+    Prevents blergh, drift, inversion cascades; maintains cognitive safety.
+  </text>
+
+  <!-- Pause Layer Halo -->
+  <circle cx="450" cy="350" r="280" fill="none" stroke="#7fd3ff" stroke-width="2"/>
+  <text x="450" y="640" fill="#7fd3ff" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Pause Layer Halo (Orbital Field: orbital_pause_note, trait_pause_note, sanity_meter)
   </text>
 
 </svg>
