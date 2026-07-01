@@ -1,0 +1,110 @@
+# ⭐ UMA Cosmology‑Only Mandala  
+### **Structural Layout (Canonical, Text‑Only)**  
+This is the precise geometry you’ll use when you create the diagram.
+
+---
+
+## 🌐 1. Purpose  
+The Cosmology Mandala expresses the **runtime grammar** of UMA in its pure radial form:
+
+- **State**  
+- **Flow**  
+- **Transition**
+
+No movement ring.  
+No behavior ring.  
+No spokes.  
+No chains.
+
+Just runtime.
+
+---
+
+## 🌀 2. Geometry  
+### **Center**
+- Optional: “UMA Core”  
+- Or left empty  
+- Must remain circular and unobstructed
+
+### **Ring**
+- **Single ring** at the canonical radius defined in the Mandala Specification Note  
+- This is the **Runtime Ring**
+
+### **Node Placement**
+Nodes must be placed at **120° intervals**, exactly matching the angles inherited from the full mandala:
+
+- **0° → State**  
+- **120° → Flow**  
+- **240° → Transition**
+
+These angles are fixed and must not be altered.
+
+### **Radial Distance**
+All nodes sit on the **runtime ring radius**, not closer or farther.
+
+### **Node Size**
+All nodes must be identical in size to the nodes in the full mandala.
+
+---
+
+## 🔧 3. Semantic Rules  
+### **State**
+- Non‑origin state  
+- Stable runtime conditions  
+- Context anchor  
+
+### **Flow**
+- Non‑pursuit flow  
+- Movement through runtime structure  
+- Continuous transitions  
+
+### **Transition**
+- Non‑hierarchical reconfiguration  
+- Phase shifts  
+- Runtime evolution  
+
+These descriptions do **not** appear in the diagram — they are conceptual anchors.
+
+---
+
+## 🧭 4. Inheritance Rules  
+The Cosmology Mandala must inherit:
+
+- ring radius  
+- node angles  
+- node spacing  
+- node alignment  
+- node size  
+- center geometry  
+
+It may **remove**:
+
+- movement ring  
+- behavior ring  
+- spokes  
+- chains  
+- outer labels  
+
+It may **not**:
+
+- change angles  
+- change ring order  
+- change node count  
+- change radial spacing  
+
+This keeps it interoperable with:
+
+- UMA Mandala Blueprint  
+- Interaction Mandala  
+- Behavior Mandala  
+- UMA Orbital Model
+
+---
+
+# ⭐ 5. Recommended File Path  
+`/docs/architecture/uma_cosmology_mandala.svg`
+
+This keeps it aligned with your existing naming scheme.
+
+---
+
