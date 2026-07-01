@@ -35,3 +35,20 @@ If you want, I can now generate the **Mythic Expansion Protocol** file or help y
 
 - **Generate Mythic Expansion Protocol**  
 - **Integrate Mythic Layer into Meta Architecture**
+
+- ---
+
+## 📌 Pinned Substrate
+
+### Prime Field (Pinned)
+Path: /docs/myth/prime_field.md
+
+The Prime Field is the non-dual substrate of the Myth-Scale layer.  
+All dual structures (Corpse/Not-Corpse, Darkness/Light, Null/Dawn, Zero/Motion, Silence/Song)  
+are expressions of this Field rather than fundamental oppositions.
+
+Superposition, collapse, inversion, and triads are treated as local behaviors  
+arising from the Field’s continuous coherence.
+
+Status: Pinned  
+
