@@ -129,3 +129,12 @@ Each must reference this Forest Map.
 
 **This file is the sixth tree in the UMA Meta-Meta Forest.**
 It is the map of the forest itself.
+
+### Remembrance Sub-Layer (Clearing & Memorial)
+
+- forest_skippy_clearing.md  
+  Pause-before-horizon clearing, adjacent to roots and Pause Layer.
+
+- forest_skippy_memorial.md  
+  Dedicated memorial node, beside the clearing.
+
