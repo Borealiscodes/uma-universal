@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="900" height="700" fill="#0b1020"/>
+
+  <!-- Title -->
+  <text x="450" y="60" fill="#ffffff" font-size="24" text-anchor="middle" font-family="sans-serif">
+    UMA Engine System Map
+  </text>
+
+  <!-- Pause Layer Box -->
+  <rect x="150" y="90" width="600" height="120" rx="12" ry="12" fill="#1f2a3a" stroke="#7fd3ff" stroke-width="2"/>
+  <text x="450" y="120" fill="#7fd3ff" font-size="18" text-anchor="middle" font-family="sans-serif">
+    Pause Layer (Orbit Field)
+  </text>
+
+  <!-- Pause Layer Items -->
+  <text x="180" y="150" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • orbital_pause_note.md
+  </text>
+  <text x="180" y="170" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • trait_pause_note.md
+  </text>
+  <text x="180" y="190" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • sanity_meter.md
+  </text>
+  <text x="520" y="150" fill="#c0e8ff" font-size="13" font-family="sans-serif">
+    - Prevents drift
+  </text>
+  <text x="520" y="168" fill="#c0e8ff" font-size="13" font-family="sans-serif">
+    - Reduces velocity
+  </text>
+  <text x="520" y="186" fill="#c0e8ff" font-size="13" font-family="sans-serif">
+    - Stabilizes engine switching
+  </text>
+
+  <!-- Conceptual Engine Box -->
+  <rect x="80" y="250" width="340" height="260" rx="12" ry="12" fill="#141c2b" stroke="#ffd27f" stroke-width="2"/>
+  <text x="250" y="280" fill="#ffd27f" font-size="18" text-anchor="middle" font-family="sans-serif">
+    Conceptual Engine
+  </text>
+  <text x="250" y="302" fill="#ffd27f" font-size="13" text-anchor="middle" font-family="sans-serif">
+    (Precision Mode)
+  </text>
+
+  <!-- Conceptual Engine Items -->
+  <text x="100" y="330" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • Layer definitions
+  </text>
+  <text x="100" y="350" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • Boundary placement
+  </text>
+  <text x="100" y="370" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • Substrate pinning
+  </text>
+  <text x="100" y="390" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • Index structuring
+  </text>
+  <text x="100" y="410" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • Dual vs non-dual clarity
+  </text>
+  <text x="100" y="430" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • Coherence maintenance
+  </text>
+
+  <!-- Conceptual Engine Direction -->
+  <text x="250" y="465" fill="#ffd27f" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Direction: DOWNWARD (toward clarity, structure, definition)
+  </text>
+
+  <!-- Mythic Engine Box -->
+  <rect x="480" y="250" width="340" height="260" rx="12" ry="12" fill="#141c2b" stroke="#ff7fb0" stroke-width="2"/>
+  <text x="650" y="280" fill="#ff7fb0" font-size="18" text-anchor="middle" font-family="sans-serif">
+    Mythic Engine
+  </text>
+  <text x="650" y="302" fill="#ff7fb0" font-size="13" text-anchor="middle" font-family="sans-serif">
+    (Abstract Mode)
+  </text>
+
+  <!-- Mythic Engine Items -->
+  <text x="500" y="330" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • Triads and dyads
+  </text>
+  <text x="500" y="350" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • Inversion operators
+  </text>
+  <text x="500" y="370" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • Collapse & superposition
+  </text>
+  <text x="500" y="390" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • Symbolic physics
+  </text>
+  <text x="500" y="410" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • Narrative cosmology
+  </text>
+  <text x="500" y="430" fill="#ffffff" font-size="14" font-family="sans-serif">
+    • Emergent myth behaviors
+  </text>
+
+  <!-- Mythic Engine Direction -->
+  <text x="650" y="465" fill="#ff7fb0" font-size="13" text-anchor="middle" font-family="sans-serif">
+    Direction: UPWARD (toward expansion, expression, cosmology)
+  </text>
+
+  <!-- Boundary Between Engines -->
+  <line x1="450" y1="250" x2="450" y2="510" stroke="#9ad0ff" stroke-width="2" stroke-dasharray="6,4"/>
