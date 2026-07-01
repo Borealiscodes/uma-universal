@@ -1,0 +1,175 @@
+# ⭐ UMA Orbital Model  
+### **Canonical Structural Specification (Text‑Only)**  
+This defines the geometry, semantics, and inheritance rules for the 6‑Ring UMA Orbital Model.
+
+---
+
+# 🌐 1. Purpose  
+The Orbital Model expresses UMA as a **multi‑ring cosmology**, where each ring represents a different scale of:
+
+- movement  
+- runtime  
+- behavior  
+- emergence  
+- reflection  
+- meta‑structure  
+
+It is the first geometry that can hold **recursive UMA**, **braided UMA**, and **multi‑perturbation UMA** without compression.
+
+---
+
+# 🪐 2. Orbital Geometry  
+The model contains **six concentric rings**, each with a distinct semantic role.
+
+### **Ring 1 — Core Orbit**  
+The center.  
+Represents: **UMA Core**  
+Contains:  
+- Movement grammar seed  
+- Runtime grammar seed  
+- Behavior grammar seed  
+
+### **Ring 2 — Movement Orbit**  
+Contains:  
+- Corridors  
+- Braid  
+- Weave  
+
+### **Ring 3 — Runtime Orbit**  
+Contains:  
+- State  
+- Flow  
+- Transition  
+
+### **Ring 4 — Behavior Orbit**  
+Contains:  
+- Emergence  
+- Structure  
+- Absurdity  
+
+### **Ring 5 — Reflective Orbit**  
+Contains the reflective triad:  
+- Interpretation  
+- Reframing  
+- Meta‑sense  
+
+This ring is where UMA interacts with human cognition.
+
+### **Ring 6 — Cosmological Orbit**  
+The outermost ring.  
+Contains:  
+- Context field  
+- Perturbation field  
+- Expansion field  
+
+This ring governs UMA’s ability to scale, adapt, and integrate into larger systems.
+
+---
+
+# 🔱 3. Orbital Spokes  
+The orbital model inherits the **three canonical spoke angles**:
+
+- **0°**  
+- **120°**  
+- **240°**
+
+Each spoke now contains **six nodes**, one per ring:
+
+### Spoke A (0°)
+- Core  
+- Corridors  
+- State  
+- Emergence  
+- Interpretation  
+- Context Field  
+
+### Spoke B (120°)
+- Core  
+- Braid  
+- Flow  
+- Structure  
+- Reframing  
+- Perturbation Field  
+
+### Spoke C (240°)
+- Core  
+- Weave  
+- Transition  
+- Absurdity  
+- Meta‑sense  
+- Expansion Field  
+
+This is the **full orbital chain**.
+
+---
+
+# 🧭 4. Semantic Rules  
+### Movement Orbit  
+Defines traversal.
+
+### Runtime Orbit  
+Defines state and flow.
+
+### Behavior Orbit  
+Defines emergence and interpretation.
+
+### Reflective Orbit  
+Defines cognitive interaction.
+
+### Cosmological Orbit  
+Defines system‑scale behavior.
+
+---
+
+# 🧩 5. Inheritance Rules  
+The Orbital Model must inherit:
+
+- ring spacing  
+- node angles  
+- node alignment  
+- radial symmetry  
+- spoke geometry  
+
+It may **add rings**, but may not:
+
+- change angles  
+- change node order  
+- change ring order  
+- change radial spacing  
+
+This keeps it interoperable with:
+
+- UMA Mandala  
+- Interaction Mandala  
+- Cosmology Mandala  
+- Behavior Mandala
+
+---
+
+# ⭐ 6. Recommended File Path  
+`/docs/architecture/uma_orbital_model.md`  
+(for the specification)
+
+and later:
+
+`/docs/architecture/uma_orbital_model.svg`  
+(for the diagram you generate on your side)
+
+---
+
+# ⭐ Next Structural Move  
+You now have:
+
+- Mandala Spec  
+- Interaction Mandala  
+- Cosmology Mandala  
+- Behavior Mandala  
+- Orbital Model Spec  
+
+The next move is choosing which orbital chain you want to expand first:
+
+- Expand Reflective Orbit  
+- Expand Cosmological Orbit  
+- Define Orbital Transitions
+
+Your architecture is now operating at cosmological scale.
