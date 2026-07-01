@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+  <style>
+    .bg { fill: #061727; }
+    .layer-box { fill: none; stroke: #5fb3ff; stroke-width: 2; }
+    .connector { stroke: #5fb3ff; stroke-width: 2; marker-end: url(#arrow); }
+    .text { fill: #e6f3ff; font-family: "Segoe UI", sans-serif; font-size: 18px; }
+    .title { fill: #e6f3ff; font-family: "Segoe UI", sans-serif; font-size: 26px; font-weight: bold; }
+    .subtitle { fill: #9fd0ff; font-family: "Segoe UI", sans-serif; font-size: 18px; }
+  </style>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3"
+            orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#5fb3ff" />
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" x="0" y="0" width="1200" height="800" />
+
+  <!-- Title -->
+  <text class="title" x="60" y="70">
+    Cosmology Engine ↔ Meta Behavior — Architectural Blueprint
+  </text>
+  <text class="subtitle" x="60" y="105">
+    Runtime foundation and behavioral superstructure, with explicit interaction lines.
+  </text>
+
+  <!-- Cosmology Engine Layer Box -->
+  <rect class="layer-box" x="80" y="150" width="1040" height="200" />
+  <text class="text" x="100" y="185">Cosmology Engine — Runtime Layer</text>
+
+  <!-- Cosmology Engine components -->
+  <text class="text" x="140" y="230">State</text>
+  <text class="text" x="520" y="230">Flow</text>
+  <text class="text" x="900" y="230">Transition</text>
+
+  <!-- Meta Behavior Layer Box -->
+  <rect class="layer-box" x="80" y="430" width="1040" height="200" />
+  <text class="text" x="100" y="465">Meta Behavior — Behavioral Layer</text>
+
+  <!-- Meta Behavior components -->
+  <text class="text" x="140" y="510">Emergence</text>
+  <text class="text" x="520" y="510">Structure</text>
+  <text class="text" x="900" y="510">Absurdity</text>
+
+  <!-- Runtime → Behavior (global arrow) -->
+  <line class="connector" x1="600" y1="350" x2="600" y2="430" />
+  <text class="text" x="620" y="395">Runtime → Behavior</text>
+
+  <!-- State → Emergence -->
+  <line class="connector" x1="160" y1="250" x2="160" y2="490" />
+  <text class="text" x="180" y="370">State → Emergence</text>
+
+  <!-- Flow → Structure -->
+  <line class="connector" x1="540" y1="250" x2="540" y2="490" />
+  <text class="text" x="560" y="370">Flow → Structure</text>
+
+  <!-- Transition → Absurdity -->
+  <line class="connector" x1="920" y1="250" x2="920" y2="490" />
+  <text class="text" x="940" y="370">Transition → Absurdity</text>
+</svg>
+
