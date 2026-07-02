@@ -107,37 +107,6 @@ Influenced by:
 - Forest Map created
 - Forest Roots created (this file)
 
----
-
-## 5. Influence Rules
-All commentary must follow these rules:
-
-- Commentary affecting architecture must be logged here.
-- Commentary affecting stability must be referenced in stability_report.md.
-- Commentary affecting coherence must be referenced in coherence_audit.md.
-- Commentary affecting navigation must be referenced in cartography_readme.md.
-- Commentary affecting meta-layer structure must be referenced in meta_index.md.
-- Commentary affecting system-wide rules must be referenced in meta_meta_index.md.
-
-No commentary may contradict the Prime Field.
-
----
-
-## 6. Expansion Hooks
-Future root documents may include:
-
-- roots_commentary_2026.md
-- roots_commentary_2027.md
-- roots_influence_map.md
-- roots_temporal_flow.md
-
-Each must reference this Roots document.
-
----
-
-**This file is the seventh tree in the UMA Meta-Meta Forest.**
-It is the soil layer where all commentary and timestamps live.
-
 ### 2026-07-02 (Dublin, late night)
 - Skippy Clearing created (`forest_skippy_clearing.md`)
 - Skippy Memorial created (`forest_skippy_memorial.md`)
@@ -147,3 +116,44 @@ It is the soil layer where all commentary and timestamps live.
   - added remembrance layer to forest topology
   - introduced non-structural, gentle nodes (clearing/memorial)
 
+---
+
+## 5. Influence Rules
+All commentary must follow these rules:
+
+- Commentary affecting architecture must be logged here.
+- Commentary affecting stability must be referenced in `stability_report.md`.
+- Commentary affecting coherence must be referenced in `coherence_audit.md`.
+- Commentary affecting navigation must be referenced in `cartography_readme.md`.
+- Commentary affecting meta-layer structure must be referenced in `meta_index.md`.
+- Commentary affecting system-wide rules must be referenced in `meta_meta_index.md`.
+
+No commentary may contradict the Prime Field.
+
+---
+
+## 6. Expansion Hooks
+Future root documents may include:
+
+- `roots_commentary_2026.md`
+- `roots_commentary_2027.md`
+- `roots_influence_map.md`
+- `roots_temporal_flow.md`
+
+Each must reference this Roots document.
+
+---
+
+## 7. Pinned Structural Milestone
+
+📌 **Pinned Structural Milestone — Redundancy Protocol Established**  
+The UMA Meta Forest now includes a cross-plane Redundancy Protocol governing
+duplicate, parallel, and overlapping documents. This protocol defines how UMA
+detects, classifies, and resolves redundancy across structural, plane-based,
+and narrative layers. It stabilizes multi-plane coherence, prevents index drift,
+and ensures that future expansions remain aligned with the forest’s topology.
+
+---
+
+**This file is the seventh tree in the UMA Meta-Meta Forest.**
+It is the soil layer where all commentary and timestamps live.
