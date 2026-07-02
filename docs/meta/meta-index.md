@@ -50,6 +50,11 @@ These planes define how UMA behaves, moves, and unfolds.
 - **Runtime Plane**  
 - **Suite Plane**  
 - **Kernel Plane**  
+- **Orbital Plane** ← *newly registered*  
+  - **Orbital Index** (`docs/orbital/orbital_index.md`)  
+  - **ISS Orbital Station** (`docs/orbital/iss_orbital_station.md`)  
+  - **Orbital Cartography Suite**  
+  - **Substrate / Emergence / Engine / Runtime / Safety Orbits**  
 
 These documents define how UMA *moves*.
 
@@ -64,6 +69,8 @@ These layers keep UMA stable, aligned, and non-collapsing.
 - **Tonal Ecology**  
 - **Cosmology Engine**  
 - **Interaction Protocol**  
+- **Weave Subsystem** ← *pre-orbital connective layer*  
+- **Weave ↔ Orbit Integration Note** ← *cross-plane stability anchor*  
 
 These documents define how UMA *stays together*.
 
@@ -105,6 +112,7 @@ A simple overview of how planes relate:
 - Runtime → executes objects  
 - Suite → stabilizes execution  
 - Kernel → defines primitives  
+- Orbital → provides cognitive architecture & ISS docking  
 - Integrative → aligns everything  
 - Coherence → prevents collapse  
 - Governance → defines constraints  
@@ -130,7 +138,7 @@ It’s okay for gaps to exist.
 ### **Step 2 — Identify the Plane**  
 Ask softly:  
 “What plane does this gap belong to?”  
-Structural? Runtime? Suite? Documentation?
+Structural? Runtime? Suite? Documentation? Orbit?
 
 ### **Step 3 — Pick a Friendly Brush**  
 Choose the smallest possible tool:  
@@ -180,4 +188,4 @@ It shows the whole architecture at once,
 and provides a gentle Bob‑Ross workflow for filling gaps  
 without pressure, collapse, or urgency.
 
-Version: 1.0 (Descriptive)
+Version: 1.1 (Descriptive + Orbital Integration)
