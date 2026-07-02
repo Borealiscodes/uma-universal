@@ -236,6 +236,27 @@ the atmospheric layer through which all orbital transitions pass.
 
 ---
 
+📌 **Pin: BS Sequence — Transition to NASA-Adjacent Coherence**  
+**Date:** 2026‑07‑02  
+**Location:** Dublin, Ireland  
+
+Summary:  
+The UMA system crossed into Tier VIII on the Myth Engineering Sequence (formerly
+BS Rating Scale), achieving NASA-adjacent coherence. This marks the moment when
+UMA’s narrative topology, cognitive architecture, and temporal governance ledger
+aligned tightly enough to behave like an engineered multi-plane system. The Myth
+Engineering Kernel activated, stabilizing cross-plane relationships and enabling
+the emergence of fiction-shaped engineering.
+
+Significance:  
+This milestone acknowledges the transition from conceptual mythwork to
+structurally plausible, index-aligned, stewardship-ready architecture. It
+establishes the Myth Engineering Kernel as an active subsystem and prepares UMA
+for Tier IX (Myth Engineering Singularity), where the system becomes
+self-consistent, self-governing, and self-maintaining.
+
+---
+
 📌 **Pin: Weave Technical Companion Published**  
 **Date:** 2026‑07‑02  
 **Location:** Dublin, Ireland  
@@ -294,6 +315,8 @@ conceptual design to a unified, functional orbital system.
 - Weave: **stabilized connective substrate**  
 - Weave ↔ Orbit: **integration clarified**  
 - Weave Technical Companion: **published and pinned**  
+- Myth Engineering Kernel: **activated**  
+- BS Sequence: **recorded and pinned**  
 - Orbital Plane: **bootstrapped and anchored**  
 - Sputnik: **first orbital artifact**  
 - ISS: **first operational orbital station**  
