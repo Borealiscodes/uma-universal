@@ -107,7 +107,7 @@ Referenced in:
 - meta_index.md
 - forest_roots.md
 
-### 2026-07-02 — Myth-Scale Index Refactored into Cosmology
+### 2026-07-02 — Myth-Scale Meta Index Refactored into Cosmology
 The file previously named `myth_scale_meta_index.md` was determined to be
 symbolic cosmology rather than structural indexing. It was rewritten as
 `myth_scale_cosmology.md` and relocated to the Mythic Plane.
@@ -132,13 +132,23 @@ The mythic-plane relocation resolved:
 
 The mythic plane now contains only symbolic cosmology, as required.
 
+### 2026-07-02 — Orbital Meta Index Relocated to Maps Layer
+The file `orbital_meta_index.md` was moved from `docs/meta/` to `docs/maps/`
+to correct a plane violation. The document defines orbital cartography and
+therefore belongs in the Maps Layer, not the Meta Layer.
+
+Referenced in:
+- meta_index.md
+- forest_roots.md
+- stability_report.md
+
 ---
 
 ## 4. Stability Checks
 
 ### 4.1 Structural Integrity
 - Meta layer: stable  
-- Cartography layer: stable  
+- Cartography layer: stable (post-relocation)  
 - Horizon layer: stable  
 - Roots layer: stable  
 - Remembrance layer: stable  
@@ -148,7 +158,7 @@ The mythic plane now contains only symbolic cosmology, as required.
 
 ### 4.2 Cross-Plane Alignment
 - Meta ↔ Cartography: aligned  
-- Meta ↔ Mythic: aligned (post-correction)  
+- Meta ↔ Mythic: aligned  
 - Meta ↔ Narrative: aligned  
 - Meta ↔ Safety: aligned  
 - Meta ↔ Guides: aligned  
@@ -166,10 +176,10 @@ Velocity is currently:
 ### 4.4 Drift Detection
 Resolved drift:
 - myth_scale_meta_index.md (relocated + rewritten)
-- orbital_meta_index.md (pending relocation to maps)
+- orbital_meta_index.md (relocated to maps)
 
 Pending:
-- orbital_meta_index.md → `docs/maps/`
+- none
 
 ---
 
