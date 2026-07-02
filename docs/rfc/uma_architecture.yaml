@@ -1,0 +1,100 @@
+uma_architecture:
+  version: 1.0
+  directories:
+    engines: docs/engines/
+    crossmaps: docs/crossmaps/
+    forest: docs/forest/
+    meta: docs/meta/
+    maps: docs/maps/
+    guides: docs/guides/
+    rfc: docs/rfc/
+
+  subsystems:
+    layered_cognitive_stack:
+      file: docs/meta/meta_index.md
+      responsibilities:
+        - define_conceptual_planes
+        - maintain_separation_of_concerns
+        - support_multi_layer_indexing
+
+    symbolic_physics:
+      file: docs/engines/symbolic_physics.md
+      responsibilities:
+        - semantic_transformation_nd_safe
+        - meaning_preservation
+        - reframing_engine
+        - safety_boundary_for_conceptual_manipulation
+
+    valence_pressure:
+      file: docs/crossmaps/pressure_engine_class.md
+      responsibilities:
+        - classify_valence
+        - collapse_expansion_model
+        - affective_state_interpretation
+        - hazard_detection
+
+    temporal_governance:
+      file: docs/forest/forest_roots.md
+      responsibilities:
+        - temporal_ledger
+        - state_change_registry
+        - governance_log
+        - architectural_audit_trail
+
+    relational_crossmap:
+      file: docs/crossmaps/pressure_engine_class.md
+      responsibilities:
+        - relational_graphs
+        - semantic_mapping_tables
+        - conceptual_alignment_matrices
+        - multi_context_consistency
+
+    symbolic_reasoning:
+      file: docs/engines/mythic_engine_companion.md
+      responsibilities:
+        - symbolic_reasoning
+        - semantic_interpretation
+        - meaning_collision_handling
+        - narrative_physics_stabilization
+
+    cognitive_safety:
+      file: docs/stability/stability_report.md
+      responsibilities:
+        - preserve_user_cognition
+        - avoid_emotional_overload
+        - avoid_semantic_collapse
+        - avoid_runaway_recursion
+        - maintain_coherence
+
+    meta_documentation:
+      file: docs/forest/forest_map.md
+      responsibilities:
+        - hierarchical_documentation
+        - conceptual_map
+        - governance_framework
+        - multi_layer_index
+
+  interactions:
+    - from: valence_pressure
+      to: symbolic_physics
+      type: signal
+
+    - from: symbolic_physics
+      to: symbolic_reasoning
+      type: rules
+
+    - from: relational_crossmap
+      to: symbolic_reasoning
+      type: context
+
+    - from: symbolic_physics
+      to: cognitive_safety
+      type: constraints
+
+    - from: all_subsystems
+      to: temporal_governance
+      type: logging
+
+    - from: all_subsystems
+      to: meta_documentation
+      type: documentation
