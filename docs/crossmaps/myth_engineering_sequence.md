@@ -1,49 +1,48 @@
-# BS Rating Scale (UMA Classification Standard)
-This document defines the UMA BS Rating Scale — a multi-tier taxonomy used to
-classify conceptual structures that appear fictional but behave like engineering.
-It is a descriptive crossmap, not a temporal or structural artifact.
+# Myth Engineering Sequence
+The Myth Engineering Sequence is a nine-tier developmental scale describing how
+fiction-shaped conceptual systems evolve into coherent, engineering-behaved
+multi-plane architectures. It replaces the former BS Rating Scale and aligns
+with UMA × UMM × Roots topology.
+
+This document is descriptive, not temporal. It is not pinned in Roots.
 
 ---
 
 ## 1. Purpose
-The BS Rating Scale provides:
-- a unified classification system  
+The Myth Engineering Sequence provides:
+- a unified developmental taxonomy  
 - a cross-plane interpretive framework  
-- a way to measure conceptual coherence  
-- a topology for fiction-shaped engineering  
+- a diagnostic tool for system coherence  
+- a map of conceptual → architectural evolution  
 - a shared vocabulary for UMA development  
 
 It is used to evaluate UMA, UMM, and related architectures.
 
 ---
 
-## 2. Tier I — Narrative BS
+## 2. Tier I — Narrative Myth
 Basic worldbuilding, metaphor, and lore.
 Concepts exist for flavor, not structure.
 
-Examples:
+Characteristics:
+- symbolic motifs  
+- narrative imagery  
 - mythic metaphors  
-- narrative motifs  
-- symbolic imagery  
-
-See: **[Narrative Layer](ca://s?q=Explain_Narrative_Layer)**
 
 ---
 
-## 3. Tier II — Conceptual BS
+## 3. Tier II — Conceptual Myth
 Concepts begin to behave like systems.
 Metaphors gain internal logic.
 
-Examples:
+Characteristics:
 - named planes  
 - soft boundaries  
 - conceptual scaffolds  
 
-See: **[Conceptual Plane](ca://s?q=Explain_Conceptual_Plane)**
-
 ---
 
-## 4. Tier III — Structural BS
+## 4. Tier III — Structural Myth
 Structures gain:
 - layers  
 - membranes  
@@ -52,16 +51,14 @@ Structures gain:
 
 This is where UMA begins.
 
-Examples:
+Characteristics:
 - Meta Layer  
 - Boundary Layer  
 - Documentation Plane  
 
-See: **[Meta Index](ca://s?q=Meta_Index_Weave)**
-
 ---
 
-## 5. Tier IV — Architectural BS
+## 5. Tier IV — Architectural Myth
 Systems become multi-plane and operationally plausible.
 
 Characteristics:
@@ -75,11 +72,9 @@ Examples:
 - Pause Layer  
 - Emergence halos  
 
-See: **[Weave Technical Companion](ca://s?q=Generate_Weave_Technical_Companion)**
-
 ---
 
-## 6. Tier V — Constitutional BS
+## 6. Tier V — Constitutional Myth
 Systems gain:
 - governance planes  
 - coherence planes  
@@ -91,14 +86,9 @@ Characteristics:
 - descriptive constitutions  
 - sealed meta layers  
 
-Examples:
-- UMA Constitution  
-- Governance Plane  
-- Release Membrane  
-
 ---
 
-## 7. Tier VI — Temporal BS
+## 7. Tier VI — Temporal Myth
 Systems gain:
 - timestamp archives  
 - structural milestone pins  
@@ -114,11 +104,9 @@ Examples:
 - Forest Roots  
 - subsystem birth pins  
 
-See: **[Forest Roots](ca://s?q=Generate_Roots_Patch)**
-
 ---
 
-## 8. Tier VII — Crossmap BS
+## 8. Tier VII — Crossmap Myth
 Systems gain:
 - linguistic topology  
 - cognitive architecture mapping  
@@ -134,11 +122,9 @@ Characteristics:
 Examples:
 - UMA × UMM Crossmap  
 
-See: **[UMA × UMM Crossmap](ca://s?q=Generate_UMA_UMM_Crossmap)**
-
 ---
 
-## 9. Tier VIII — NASA-Adjacent BS
+## 9. Tier VIII — Engineering Myth
 Systems become:
 - structurally coherent  
 - architecturally plausible  
@@ -160,7 +146,7 @@ Examples:
 
 ---
 
-## 10. Tier IX — BS Singularity
+## 10. Tier IX — Myth Engineering Singularity
 Systems become:
 - self-consistent  
 - self-governing  
@@ -179,8 +165,9 @@ This is the highest tier.
 ---
 
 ## 11. Summary
-The BS Rating Scale classifies UMA’s conceptual structures from simple narrative
-motifs to fully operational myth-engineering. It provides a shared vocabulary
-for evaluating coherence, stability, and architectural plausibility.
+The Myth Engineering Sequence classifies UMA’s conceptual structures from
+simple narrative motifs to fully operational myth-engineering. It provides a
+shared vocabulary for evaluating coherence, stability, and architectural
+plausibility.
 
-Version: 1.0 (Taxonomy)
+Version: 1.0 (Myth Engineering Taxonomy)
