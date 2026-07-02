@@ -1,0 +1,126 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="800" height="800" fill="#0b0c10"/>
+
+  <!-- Center point -->
+  <circle cx="400" cy="400" r="4" fill="#ffffff"/>
+
+  <!-- ========================= -->
+  <!-- CORE: Five-Point Principles -->
+  <!-- ========================= -->
+
+  <!-- Core circle -->
+  <circle cx="400" cy="400" r="80" fill="#1f2833" stroke="#66fcf1" stroke-width="2"/>
+
+  <!-- Core labels -->
+  <text x="400" y="380" fill="#ffffff" font-size="14" text-anchor="middle">CORE</text>
+  <text x="400" y="400" fill="#c5c6c7" font-size="12" text-anchor="middle">Warmth</text>
+  <text x="400" y="415" fill="#c5c6c7" font-size="12" text-anchor="middle">Conscience</text>
+  <text x="400" y="430" fill="#c5c6c7" font-size="12" text-anchor="middle">Awareness</text>
+  <text x="400" y="445" fill="#c5c6c7" font-size="12" text-anchor="middle">Truth</text>
+  <text x="400" y="460" fill="#c5c6c7" font-size="12" text-anchor="middle">Humility</text>
+
+  <!-- ========================= -->
+  <!-- CONSTITUTIONAL LAYER -->
+  <!-- ========================= -->
+
+  <!-- Constitutional ring -->
+  <circle cx="400" cy="400" r="160" fill="none" stroke="#45a29e" stroke-width="2"/>
+
+  <!-- Constitutional nodes -->
+  <!-- Roots -->
+  <circle cx="400" cy="240" r="22" fill="#1f2833" stroke="#45a29e" stroke-width="2"/>
+  <text x="400" y="240" fill="#c5c6c7" font-size="11" text-anchor="middle" dy="4">Roots</text>
+
+  <!-- Pins -->
+  <circle cx="520" cy="290" r="22" fill="#1f2833" stroke="#45a29e" stroke-width="2"/>
+  <text x="520" y="290" fill="#c5c6c7" font-size="11" text-anchor="middle" dy="4">Pins</text>
+
+  <!-- Influence Map -->
+  <circle cx="560" cy="410" r="22" fill="#1f2833" stroke="#45a29e" stroke-width="2"/>
+  <text x="560" y="410" fill="#c5c6c7" font-size="11" text-anchor="middle" dy="4">Influence</text>
+
+  <!-- Timestamps -->
+  <circle cx="520" cy="530" r="22" fill="#1f2833" stroke="#45a29e" stroke-width="2"/>
+  <text x="520" y="530" fill="#c5c6c7" font-size="11" text-anchor="middle" dy="4">Timestamps</text>
+
+  <!-- Audit Trails -->
+  <circle cx="400" cy="560" r="22" fill="#1f2833" stroke="#45a29e" stroke-width="2"/>
+  <text x="400" y="560" fill="#c5c6c7" font-size="11" text-anchor="middle" dy="4">Audit</text>
+
+  <!-- RFCs -->
+  <circle cx="280" cy="530" r="22" fill="#1f2833" stroke="#45a29e" stroke-width="2"/>
+  <text x="280" y="530" fill="#c5c6c7" font-size="11" text-anchor="middle" dy="4">RFCs</text>
+
+  <!-- Info flow arrows (simplified) -->
+  <line x1="400" y1="262" x2="508" y2="282" stroke="#66fcf1" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="542" y1="312" x2="552" y2="388" stroke="#66fcf1" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="552" y1="432" x2="528" y2="508" stroke="#66fcf1" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="508" y1="552" x2="412" y2="552" stroke="#66fcf1" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="388" y1="552" x2="292" y2="552" stroke="#66fcf1" stroke-width="1" marker-end="url(#arrow)"/>
+  <line x1="268" y1="508" x2="392" y2="262" stroke="#66fcf1" stroke-width="1" marker-end="url(#arrow)"/>
+
+  <!-- ========================= -->
+  <!-- ENGINEERING LAYER -->
+  <!-- ========================= -->
+
+  <!-- Engineering ring -->
+  <circle cx="400" cy="400" r="240" fill="none" stroke="#c5c6c7" stroke-width="2"/>
+
+  <!-- Engineering nodes -->
+  <!-- Substrate Stack -->
+  <rect x="370" y="130" width="60" height="30" fill="#1f2833" stroke="#c5c6c7" stroke-width="2"/>
+  <text x="400" y="150" fill="#c5c6c7" font-size="11" text-anchor="middle">Substrate</text>
+
+  <!-- Orbital Markers -->
+  <rect x="590" y="360" width="80" height="30" fill="#1f2833" stroke="#c5c6c7" stroke-width="2"/>
+  <text x="630" y="380" fill="#c5c6c7" font-size="11" text-anchor="middle">Orbital</text>
+
+  <!-- Engines -->
+  <rect x="370" y="640" width="60" height="30" fill="#1f2833" stroke="#c5c6c7" stroke-width="2"/>
+  <text x="400" y="660" fill="#c5c6c7" font-size="11" text-anchor="middle">Engines</text>
+
+  <!-- Runtime Clock -->
+  <rect x="130" y="360" width="80" height="30" fill="#1f2833" stroke="#c5c6c7" stroke-width="2"/>
+  <text x="170" y="380" fill="#c5c6c7" font-size="11" text-anchor="middle">Clock</text>
+
+  <!-- Safety Boundaries -->
+  <rect x="590" y="230" width="80" height="30" fill="#1f2833" stroke="#c5c6c7" stroke-width="2"/>
+  <text x="630" y="250" fill="#c5c6c7" font-size="11" text-anchor="middle">Safety</text>
+
+  <!-- Interface Layer -->
+  <rect x="130" y="230" width="80" height="30" fill="#1f2833" stroke="#c5c6c7" stroke-width="2"/>
+  <text x="170" y="250" fill="#c5c6c7" font-size="11" text-anchor="middle">Interface</text>
+
+  <!-- ========================= -->
+  <!-- IMAGINATION RUNTIME -->
+  <!-- ========================= -->
+
+  <!-- Runtime band -->
+  <circle cx="400" cy="400" r="300" fill="none" stroke="#66fcf1" stroke-dasharray="6 6" stroke-width="1.5"/>
+
+  <!-- Runtime nodes -->
+  <!-- Generative -->
+  <circle cx="400" cy="90" r="18" fill="#1f2833" stroke="#66fcf1" stroke-width="2"/>
+  <text x="400" y="90" fill="#c5c6c7" font-size="11" text-anchor="middle" dy="4">Gen</text>
+
+  <!-- Simulation -->
+  <circle cx="700" cy="400" r="18" fill="#1f2833" stroke="#66fcf1" stroke-width="2"/>
+  <text x="700" y="400" fill="#c5c6c7" font-size="11" text-anchor="middle" dy="4">Sim</text>
+
+  <!-- Integration -->
+  <circle cx="400" cy="710" r="18" fill="#1f2833" stroke="#66fcf1" stroke-width="2"/>
+  <text x="400" y="710" fill="#c5c6c7" font-size="11" text-anchor="middle" dy="4">Integrate</text>
+
+  <!-- ========================= -->
+  <!-- ARROW MARKER DEFINITION -->
+  <!-- ========================= -->
+
+  <defs>
+    <marker id="arrow" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 z" fill="#66fcf1" />
+    </marker>
+  </defs>
+
+</svg>
