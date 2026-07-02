@@ -124,6 +124,17 @@ Influenced by:
   - belongs in the Guides Layer
   - referenced in meta_index.md and stability_report.md
 
+### 2026-07-02 (Dublin, late night)
+- Myth-Scale Meta Index refactored into symbolic cosmology
+- File renamed to `myth_scale_cosmology.md`
+- Relocated from `docs/meta/` to `docs/mythic/`
+- Reason: content is mythic cosmology, not structural indexing
+- Notes:
+  - Eternal Darkness Triad and Eternal Light Triad are symbolic primitives
+  - inversion operators are mythic semantics
+  - Prime Field emergence is cosmological, not meta-governance
+  - relocation prevents cross-plane drift and index redundancy
+
 ---
 
 ## 5. Influence Rules
