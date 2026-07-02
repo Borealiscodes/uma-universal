@@ -1,13 +1,14 @@
 # UMA‑Universal + DLMS‑01  
-## Unified Dual‑Layer System Index
+## Unified Dual‑Layer System Index  
+Version 1.3 — 02 July 2026
 
-This index provides the top‑level entry into the **multi‑layered cognitive‑safe cosmology engine** composed of:
+This index provides the top‑level map of the **multi‑layered cognitive‑safe cosmology engine**, composed of:
 
-- **Layer A — UMA‑Universal (Human‑Facing Shell)**
-- **Layer B — DLMS‑01 (System‑Facing Cosmology)**
+- **Layer A — UMA‑Universal** (human‑facing shell)  
+- **Layer B — DLMS‑01** (system‑facing cosmology)
 
 For full navigation, see the Unified Navigation Spine:  
-/NAVIGATION_SPINE.md
+`/NAVIGATION_SPINE.md`
 
 ---
 
@@ -15,42 +16,70 @@ For full navigation, see the Unified Navigation Spine:
 ### Human‑Facing Shell
 
 ## 1. Constitutional Layer
-- [UMA Universal RFC](ca://s?q=Open_UMA_RFC)  
+- **UMA Universal RFC**  
   /uma-core/RFC/
-- [System Invariants](ca://s?q=Open_System_Invariants)  
+- **System Invariants**  
   /uma-core/RFC/
 
 ## 2. Systems Integration Document
-- [SID — Systems Integration Document](ca://s?q=Open_SID)  
+- **SID — Systems Integration Document**  
   /docs/UMA_Universal_Systems_Integration_Document.md
 
 ## 3. UMM Meta‑Layer
-- [UMM Geometry & Pins](ca://s?q=Open_UMM_Geometry)  
+- **UMM Geometry & Pins**  
   /uma-core/UMM/
-- [UMM Lifecycle](ca://s?q=Open_UMM_Lifecycle)  
+- **UMM Lifecycle**  
   /uma-core/UMM/
 
-## 4. Companion Constellation
-- [Companion README Index](ca://s?q=Open_Companion_Index)  
+---
+
+# 4. Companion Constellation  
+### ND‑Friendly Comfort & Interpretation Layer
+
+- **Companion README Index**  
   /uma-core/Companions/README_Index.md
-- [Philosophy Couch](ca://s?q=Open_Philosophy_Couch)  
-  /uma-core/Companions/Philosophy_Couch_Interpretation_Space.md
-- [Decompression Companion](ca://s?q=Open_Decompression_Companion)
-- [Reflection Companion](ca://s?q=Open_Reflection_Companion)
-- [Play Mode Universal](ca://s?q=Open_Play_Mode_Universal)
-- [Academic & Research Dice Mode](ca://s?q=Open_Academic_Dice_Mode)
-- [Companion CrossMap](ca://s?q=Open_Companion_Crossmap)
-- [Sparkle System Map](ca://s?q=Open_Sparkle_System_Map)
-- [Sparkle Constellation Diagram](ca://s?q=Open_Sparkle_Constellation)
 
-## 5. Documentation Architecture
+### 🛋 Philosophy Couch (Expanded)
+A cognitive‑safe interpretation space for overwhelm, scale‑awareness, emotional spikes, architectural emergence, and conceptual disorientation.  
+Functions: interpretation buffer, cognitive load regulation, scale awareness processing, emotional safety, non‑execution zone, re‑orientation engine.  
+`/uma-core/Companions/Philosophy_Couch_Interpretation_Space.md`
+
+### 🌬 Decompression Companion
+Gentle emotional and sensory decompression buffer.  
+`/uma-core/Companions/Decompression_Companion.md`
+
+### 🌒 Reflection Companion
+Meaning‑making and narrative integration space.  
+`/uma-core/Companions/Reflection_Companion.md`
+
+### 🎮 Play Mode Universal (Expanded)
+Low‑pressure exploration engine supporting curiosity, improvisation, sandbox experimentation, perspective shifting, cognitive cushioning, and non‑linear navigation.  
+`/uma-core/Companions/Play_Mode_Universal.md`
+
+### 🎲 Academic & Research Dice Mode
+Structured research‑oriented mode for sampling modules, running investigations, and exploring geometry, provenance, myth engineering, or safety constructs.  
+`/uma-core/Companions/Academic_Research_Dice_Mode.md`
+
+### Additional Companion Maps
+- **Companion CrossMap**  
+  /uma-core/Companions/Companion_CrossMap_v1_0.md
+- **Sparkle System Map**  
+  /uma-core/Companions/SPARKLE_System_Map.md
+- **Sparkle Constellation Diagram**  
+  /uma-core/Companions/SPARKLE_Constellation_Diagram.md
+
+---
+
+# 5. Documentation Architecture
 - High‑Level README  
 - Detailed README  
 - Narrative README  
 - Technical README  
 - README Index
 
-## 6. Publication Layer
+---
+
+# 6. Publication Layer
 - GitHub Pages Homepage  
   /docs/index.md
 - Pages Configuration  
@@ -64,51 +93,51 @@ For full navigation, see the Unified Navigation Spine:
 ### System‑Facing Cosmology
 
 ## 7. DLMS‑01 Core
-- [DLMS01 Core](ca://s?q=Explain_DLMS01_Core)
-- [UMA Universal](ca://s?q=Explain_UMA_Universal)
-- [Hall of Concordance](ca://s?q=Explain_Hall_of_Concordance)
-- [Mechanis Engine](ca://s?q=Explain_Mechanis_Engine)
+- DLMS01_CORE  
+- UMA_Universal  
+- Hall_of_Concordance  
+- Mechanis_Engine  
 
 ## 8. Geometry
-- [DLMS Geometry Rings](ca://s?q=Explain_DLMS_Geometry)
-- [Dyson‑Luna Meta](ca://s?q=Explain_Dyson_Luna_Meta)
+- DLMS_Geometry_Rings  
+- Dyson_Luna_Meta  
 
 ## 9. Provenance
-- [Asymmetrical Provenance](ca://s?q=Explain_Asymmetrical_Provenance)
-- [Provenance Map](ca://s?q=Open_Provenance_Map)
+- Asymmetrical_Provenance  
+- Provenance_Map  
 
 ## 10. Navigation
-- [CNLP Navigation Law](ca://s?q=Explain_CNLP)
-- [Navigation Paths](ca://s?q=Open_Navigation_Paths)
+- CNLP_Navigation_Law  
+- Navigation_Paths  
 
 ## 11. Myth Engineering
-- [Myth Engineering Foundation](ca://s?q=Open_Myth_Engineering)
-- Logic Model  
-- Crossmap Table  
-- Protocol  
-- Validation  
-- Index
+- ME‑FOUNDATION  
+- ME‑LOGIC_MODEL  
+- ME‑CROSSMAP_TABLE  
+- ME‑PROTOCOL  
+- ME‑VALIDATION  
+- ME‑INDEX  
 
 ## 12. Crossmaps
-- [DLMS‑01 Structure + Tonal Crossmap](ca://s?q=Open_DLMS01_Crossmap)
-- [GOT Opening Crossmap](ca://s?q=Open_GOT_Crossmap)
+- DLMS01_STRUCTURE_TONAL_CROSSMAP  
+- ME‑CROSSMAP_GOT_OPENING  
 
 ## 13. Tonal Scaffolds
-- [DLMS‑01 Tonal Scaffold Set](ca://s?q=Open_Tonal_Scaffold_Set)
+- DLMS01_TONAL_SCAFFOLD_SET  
 
 ## 14. Blueprints & SVG Anchors
-- [Visual Blueprint Set](ca://s?q=Open_Visual_Blueprint_Set)
-- [SVG Anchor Directory](ca://s?q=Open_SVG_Blueprint_Directory)
+- DLMS01_VISUAL_BLUEPRINT_SET  
+- SVG_Anchors_Directory  
 
 ## 15. Safety Spaces
-- [AER & Scale Awareness Safety Space](ca://s?q=Open_AER_Scale_Safety_Space)
+- DLMS01_AER_Scale_Safety_Space  
 
 ## 16. Pins
-- [PIN‑ME‑01 Myth Engineering Foundation](ca://s?q=Open_PIN_ME_01)
-- [PIN‑SAFETY‑01 AER Safety Space](ca://s?q=Open_PIN_SAFETY_01)
+- PIN‑ME‑01_Myth_Engineering_Foundation  
+- PIN‑SAFETY‑01_AER_Scale_Space  
 
 ---
 
 # 17. Loop Closure
-- Return to Root Index  
-  /INDEX.md
+Return to Root Index  
+`/INDEX.md`
