@@ -73,7 +73,18 @@ The Horizon defines the limit of safe expansion and prevents structural drift.
 
 ---
 
-## 7. Cross-Plane Governance
+## 7. Guides Layer
+User-facing, descriptive, non-governing documents that support gentle traversal
+and ND-safe interaction with UMA.
+
+- docs/guides/top-level-workflow.md
+
+Guides provide gentle workflows, onboarding paths, and supportive navigation
+through UMA’s architecture.
+
+---
+
+## 8. Cross-Plane Governance
 Documents that govern multi-plane coherence and structural rules.
 
 - docs/meta/meta_meta_index.md
@@ -84,7 +95,7 @@ structural, cartographic, mythic, and narrative planes.
 
 ---
 
-## 8. Pinned Structural Milestone
+## 9. Pinned Structural Milestone
 
 📌 **Pinned Structural Milestone — Redundancy Protocol Established**  
 The UMA Meta Forest now includes a cross-plane Redundancy Protocol governing
@@ -95,16 +106,17 @@ and ensures that future expansions remain aligned with the forest’s topology.
 
 ---
 
-## 9. Placement Rules
+## 10. Placement Rules
 - All cartography documents must live in `docs/maps/`.
 - All meta-layer documents must live in `docs/meta/`.
+- Guides must live in `docs/guides/`.
 - Mythic-plane documents must not reside in the meta layer.
 - Horizon-level documents must not be structurally bound without review.
 - No document may contradict the Prime Field.
 
 ---
 
-## 10. Update Hooks
+## 11. Update Hooks
 Whenever new documents are added:
 - update this Meta Index
 - update forest_roots.md
@@ -113,4 +125,3 @@ Whenever new documents are added:
 - apply the Redundancy Protocol
 
 This ensures the forest remains coherent as it grows.
-
