@@ -1,134 +1,67 @@
-# UMA‑Universal — Integrated System Index
+# UMA‑Universal + DLMS‑01  
+## Multi‑Layered Cognitive‑Safe Cosmology Engine
 
-This index provides a unified navigation map for all major UMA‑Universal layers, documents, and modules. It is the authoritative reference for contributors, engineers, and readers.
+Welcome. This site is the **public doorway** into a dual‑layer architecture:
 
----
+- **Layer A — UMA‑Universal** (human‑facing shell)  
+- **Layer B — DLMS‑01** (system‑facing cosmology)
 
-# 0. Constitutional Layer
-**UMA Universal RFC + Invariants**  
-Defines system boundaries, constraints, and allowed operations.
-
-Path: `uma-core/RFC/`
+The full system is governed by the **Closed Navigation Loop Protocol (CNLP)** and includes safety spaces, myth engineering, crossmaps, tonal scaffolds, and SVG cosmology blueprints.
 
 ---
 
-# 1. Systems Integration Document (SID)
-**Theory → Architecture → Implementation → Verification → Manifest**  
-The engineering pipeline connecting all major UMA documents.
+## 🔍 Start Here
 
-Path:  
-`docs/UMA_Universal_Systems_Integration_Document.md`
+### 1. Root Overview (Full System Description)
+For the complete explanation of the cosmology engine:
 
----
-
-# 2. UMM Meta‑Layer
-Internal geometry, structural definitions, pins, lifecycle invariants.
-
-Path:  
-`uma-core/UMM/`
+- **Root README**  
+  `/README.md`
 
 ---
 
-# 3. Companion Constellation (Human‑Side Modules)
-Non‑constitutional cognitive‑safe modules.
+### 2. System Index (Top‑Level Map)
+For a structured index of all major layers and modules:
 
-## 3.1 Interpretation Layer
-- Philosophy Couch Interpretation Space  
-  `uma-core/Companions/Philosophy_Couch_Interpretation_Space.md`
+- **Unified Dual‑Layer System Index**  
+  `/INDEX.md`
 
-## 3.2 Comfort Layer
+---
+
+### 3. Navigation Spine (Authoritative Structure)
+For the full navigational structure across both layers:
+
+- **Unified Navigation Spine**  
+  `/NAVIGATION_SPINE.md`
+
+---
+
+## 🛋 Interpretation & Comfort
+
+This architecture includes ND‑friendly interpretation and comfort spaces:
+
+- Philosophy Couch  
 - Decompression Companion  
-  `uma-core/Companions/Decompression_Companion.md`
-
-## 3.3 Integration Layer
 - Reflection Companion  
-  `uma-core/Companions/Reflection_Companion.md`
-
-## 3.4 Exploration Layer
 - Play Mode Universal  
-  `uma-core/Companions/Play_Mode_Universal.md`
 
-## 3.5 Analytical Layer
-- Academic & Research Dice Mode  
-  `uma-core/Companions/Academic_Research_Dice_Mode.md`
-
-## 3.6 Constellation Map
-- Companion CrossMap  
-  `uma-core/Companions/Companion_CrossMap_v1_0.md`
+See the Companion Constellation via the Root Index.
 
 ---
 
-# 4. Documentation Architecture
-Multi‑tier documentation system.
+## 🔮 Visual Cosmology
 
-- High‑Level README  
-  `uma-core/Companions/README.md`
+SVG blueprints and visual cosmology (Astrolabe, Mechanis Gears, Geometry Rings, Provenance Map, Whole Clockwork) are defined in:
 
-- Detailed README  
-  `uma-core/Companions/Companion_README_Detailed.md`
-
-- Narrative README  
-  `uma-core/Companions/Companion_README_Narrative.md`
-
-- Technical README  
-  `uma-core/Companions/Companion_README_Technical.md`
-
-- README Index  
-  `uma-core/Companions/README_Index.md`
+- `/DLMS-01_SuperStructure/blueprints/`
 
 ---
 
-# 5. Publication Layer
-GitHub Pages documentation site.
+## 🔁 Loop Closure
 
-- Homepage: `docs/index.md`  
-- Optional theme: `docs/_config.yml`
+You can always return to:
 
-Site URL:  
-https://borealiscodes.github.io/uma-universal/
+- Root Overview → `/README.md`  
+- Root Index → `/INDEX.md`  
 
----
-
-# 6. Quick Navigation
-
-- **Companion README Index**  
-  `uma-core/Companions/README_Index.md`
-
-- **Systems Integration Document (SID)**  
-  `docs/UMA_Universal_Systems_Integration_Document.md`
-
-- **UMM Meta‑Layer**  
-  `uma-core/UMM/`
-
-- **GitHub Pages Documentation**  
-  https://borealiscodes.github.io/uma-universal/
-
----
-
-# 7. Repository Structure
-
-uma-universal/
-│
-├── uma-core/
-│   ├── RFC/
-│   ├── UMM/
-│   └── Companions/
-│
-└── docs/
-├── index.md
-└── UMA_Universal_Systems_Integration_Document.md
-
----
-
-# Purpose
-
-This index provides a complete, top‑down navigation structure for UMA‑Universal, covering:
-
-- Constitutional foundations  
-- Engineering integration pipeline  
-- Internal meta‑layer  
-- Cognitive‑safe Companion ecosystem  
-- Multi‑tier documentation  
-- Public GitHub Pages site  
-
-It serves as the master reference for the entire system.
+This homepage is intentionally light: it points to the **real maps** rather than duplicating them.
