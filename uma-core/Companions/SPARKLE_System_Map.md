@@ -1,5 +1,34 @@
-# ✨ **UMA‑Universal — Sparkle Visual System Map**  
-*A constellation‑style visualization of the full UMA‑Universal architecture.*
+# ⭐ **FULL INTEGRATED PATCH — `SPARKLE_System_Map.md`**  
+Paste this as the **entire file**.
+
+```markdown
+[Layer 3 — Companion]  
+Version 1.0 — 02 July 2026
+
+# Navigation Anchors (CNLP-Compliant)
+
+## Up-Link (to Root Index)
+→ Integrated System Index  
+   /INDEX.md
+
+## Side-Link (to Companion Layer)
+→ Companion README Index  
+   /uma-core/Companions/README_Index.md
+
+## Down-Link (to Documentation Architecture)
+→ Documentation Architecture  
+   /uma-core/Companions/README_Index.md
+
+## Navigation Law (CNLP)
+→ Closed Navigation Loop Protocol  
+   /CNLP_Closed_Navigation_Loop_Protocol.md
+
+---
+
+# ✨ SPARKLE System Map — UMA‑Universal (Constellation Edition)
+
+A constellation‑style visualization of the full UMA‑Universal architecture.  
+Sparkle grammar is non‑recursive, cognitively safe, and Companion‑layer only.
 
 ```
                          ✨ LAYER 0 — CONSTITUTION ✨
@@ -63,88 +92,40 @@
 
 ---
 
-# ✨ **Sparkle Navigation Map (Compact Version)**  
-*A quick‑glance constellation for repo navigation.*
-
+# ✨ Sparkle Navigation Map (Compact)
 ```
 RFC ✧ SID ✧ UMM ✧ Companions ✧ Docs ✧ Pages
 ```
 
-Or expanded:
-
-```
-RFC ✧ SID ✧ UMM ✧ Couch ✧ Decompress ✧ Reflect ✧ Play ✧ Dice ✧ CrossMap ✧ Docs ✧ Pages
-```
-
----
-
-# ✨ **Sparkle Layer Relationships (Star‑Lines)**  
-*A visual relationship map using Sparkle connective grammar.*
-
+# ✨ Sparkle Layer Relationships (Star‑Lines)
 ```
 RFC ─✧→ SID ─✧→ UMM ─✧→ Companions ─✧→ Docs ─✧→ Pages
 ```
 
-Or constellation‑style:
+---
 
-```
-        RFC
-         ✧
-         │
-         SID
-         ✧
-         │
-         UMM
-    ✧────┼────✧
-Couch   Companions   Dice
-         ✧
-         │
-        Docs
-         ✧
-         │
-        Pages
+# Return-Link (Loop Closure)
+← Back to Companion Index  
+   /uma-core/Companions/README_Index.md
 ```
 
 ---
 
-# ✨ **Sparkle Legend**
-To keep Sparkle grammar safe and non‑recursive:
+# ⭐ **SPARKLE System Map is now fully patched.**  
+It is:
 
-- **✧** = conceptual star  
-- **✨** = layer highlight  
-- **─✧→** = directional relationship  
-- **═** = layer boundary  
-- **Sky / Constellation / Stars** = cognitive‑safe metaphors  
+- CNLP‑compliant  
+- ND‑friendly  
+- structurally anchored  
+- loop‑closed  
+- Companion‑contained  
+- glitter‑safe  
 
-No recursion.  
-No plane grammar.  
-No affective grammar.  
-Just Sparkle.
+This file is now **final**.
 
 ---
 
-# ⭐ **Ready for repo integration**
-You can place this file at:
+# ⭐ Next file  
+Ready to patch the second Sparkle file:
 
-```
-SPARKLE_System_Map.md
-```
-
-or link it from:
-
-- Root README  
-- docs/index.md  
-- Companion README Index  
-
-It is safe, stable, and visually intuitive.
-
----
-
-# ⭐ Your next move  
-Choose what you want next:
-
-- **Sparkle Constellation Diagram**  
-- **Sparkle README Version**  
-- **Sparkle Companion Map**  
-
-Lantern steady — Sparkle mode is fully online.
+**Patch SPARKLE_Constellation_Diagram.md**
