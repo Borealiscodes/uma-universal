@@ -1,28 +1,30 @@
-# **UMM Comprehensive Developer Notes v1.1**  
-**Core reference notes for developers working inside the UMM architecture**
+# **UMM Comprehensive Developer Notes v1.2**  
+**Full developer‑plane reference for the Universal Modular Mind (UMM)**
 
 **Document ID:** DEV‑NOTES‑UMM‑01  
-**Version:** 1.1  
+**Version:** 1.2  
 **Owner:** Borealis S. Hedling  
 **Domain:** Developer Plane → Notes → Governance  
-**Timestamp:** 2026‑07‑03 23:55 IST  
+**Timestamp:** 2026‑07‑04 00:13 IST  
 
 ---
 
 # **1. Purpose**
 
-These notes provide a **complete, stable, governance‑aligned overview** of how developers should understand and interact with the Universal Modular Mind (UMM) architecture.
+These notes provide the **complete, stable, governance‑aligned reference** for developers working inside the Universal Modular Mind (UMM) architecture.
 
 They ensure:
 
 - subsystem naming compliance  
 - protocol/pin alignment  
-- SID alignment  
-- CI enforcement  
+- SID v1.2 alignment  
+- CI naming enforcement compliance  
 - drift‑free development  
 - safety stack awareness  
+- correct workflow usage  
+- correct directory structure  
 
-Explore: **Subsystem Naming Standard**
+Explore: **Naming Standard**
 
 ---
 
@@ -44,33 +46,49 @@ Explore: **SID v1.2**
 
 ---
 
-# **3. UMM Architectural Overview**
+# **3. UMM Architecture Overview**
 
-UMM is composed of five planes:
+UMM consists of five planes:
 
-- **Subsystem Plane** — core cognitive systems  
-- **Traversal Plane** — movement between subsystems  
-- **Identity Plane** — identity modeling  
-- **Narrative Plane** — narrative generation  
-- **Governance Plane** — rules, safety, classification  
+### **Subsystem Plane**  
+Core cognitive systems (SYS‑CHS).
 
-Each plane contains one or more subsystems with strict isolation rules.
+### **Traversal Plane**  
+Movement between cognitive nodes (TRV‑CHS‑OL).
+
+### **Identity Plane**  
+Identity modeling (ID‑HBR).
+
+### **Narrative Plane**  
+Narrative generation (NAR‑PE).
+
+### **Governance Plane**  
+Rules, safety, classification (GOV‑SIAP, GOV‑SAF, GOV‑SN).
 
 Explore: **Governance Order Protocol**
 
 ---
 
-# **4. Developer Responsibilities**
+# **4. Developer Workflow Summary**
 
-Developers must:
+The correct workflow is defined in:
 
-- follow naming rules  
-- follow governance order  
-- pin protocols immediately  
-- update SID after governance changes  
-- update CI rules  
-- run test suites  
-- ensure CI passes before merging  
+```
+UMM_Developer_Workflow_Guide_v1.2.md
+```
+
+Sequence:
+
+1. Naming compliance  
+2. Protocol creation  
+3. Immediate pinning  
+4. SID update  
+5. CI update  
+6. Test suites  
+7. Commit  
+8. PR  
+9. CI validation  
+10. Merge  
 
 Explore: **Workflow Guide v1.2**
 
@@ -139,6 +157,8 @@ CI enforces:
 - drift vector mitigation  
 - hook safety  
 
+CI block: **CI‑NS‑ENF‑01**
+
 Explore: **CI Naming Enforcement**
 
 ---
@@ -190,24 +210,52 @@ Explore: **Repo Structure**
 
 ---
 
-# **12. Roots Ledger Binding**
+# **12. Developer Documents**
+
+Developer‑plane documents include:
+
+- Developer Notes  
+- Developer Glossary  
+- Developer FAQ  
+- Developer Quick Start Guide  
+- Developer Handbook  
+
+Explore: **Developer Glossary v1.1**
+
+---
+
+# **13. Naming Standard Enforcement**
+
+Developers must ensure:
+
+- correct plane prefixes  
+- correct subsystem acronyms  
+- correct directory names  
+- correct protocol/pin references  
+- correct SID references  
+
+Explore: **Naming Standard**
+
+---
+
+# **14. Roots Ledger Binding**
 
 ```
 ROOTS-ENTRY-DEV-NOTES-UMM-01
 Type: Developer Notes
 Module: UMM-DEV-NOTES-01
 Status: Active
-Hash: 4b:cc:41:cd:92:fa:77
+Hash: 8f:cc:41:cd:92:fa:bb
 Bound: UMM, SIAP, Safeguards, Safety Net, SYS-CHS, TRV-CHS-OL, ID-HBR, NAR-PE
 ```
 
 ---
 
-# **13. Document Status**
+# **15. Document Status**
 
 **Status:** Active  
-**Version:** 1.1  
-**Hash:** 4b:cc:41:cd:92:fa:77  
+**Version:** 1.2  
+**Hash:** 8f:cc:41:cd:92:fa:bb  
 
 ---
 
