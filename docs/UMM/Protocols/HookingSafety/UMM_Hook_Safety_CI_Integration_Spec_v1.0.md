@@ -1,74 +1,192 @@
-# UMM Hook Safety CI Integration Spec v1.0
+# **CI Naming Standard Enforcement Update v1.0**  
+**Integration Block for SUBSYS‑NAME‑STD‑01**
 
-**Module:** CI‑UMM‑HOOKSAFE‑01  
-**Domain:** Governance → Stability → CI Enforcement  
+**Block ID:** CI‑NS‑ENF‑01  
 **Version:** 1.0  
 **Owner:** Borealis S. Hedling  
-**Linked Protocols:** PRO‑UMM‑HOOKSAFE‑01, PRO‑UMM‑DVM‑01  
-**Linked Pins:** PIN‑UMM‑HOOKSAFE‑01, PIN‑UMM‑DVM‑01  
-**Linked Test Suites:** TEST‑UMM‑HOOKSAFE‑01, TEST‑UMM‑DVM‑01  
+**Domain:** CI → Governance → Naming Enforcement  
+**Timestamp:** 2026‑07‑03 23:45 IST  
 
 ---
 
-## 1. CI trigger conditions
+## **1. Purpose**
 
-Hook Safety CI must run on:
+This CI update enforces the **Subsystem Naming Standard (SUBSYS‑NAME‑STD‑01)** across the entire UMM repository.
 
-- **Governance‑layer changes:**
-  - changes under `docs/UMM/Protocols/`  
-  - changes under `docs/UMM/Pins/`  
-- **Subsystem hook changes:**
-  - any file touching `hooks/` or `HookConfig/`  
-- **Safety/governance config changes:**
-  - Safeguards, Safety Net, SIAP config files  
+It ensures:
 
-No merge to `main` or `stable` is allowed if Hook Safety CI fails.
+- subsystem names follow canonical plane prefixes  
+- subsystem acronyms follow naming rules  
+- directory names follow canonical subsystem names  
+- SID is aligned with naming rules  
+- protocols and pins reference correct subsystem names  
+- drift is detected and blocked before merge  
 
----
-
-## 2. CI pipeline stages
-
-
-
-
+Explore: **Subsystem Naming Standard**
 
 ---
 
-## 3. Branch policy
+## **2. CI Enforcement Rules**
 
-- **Protected branches:** `main`, `stable`, `release/*`  
-- **Required checks:**
-  - `CI-UMM-HOOKSAFE-01` (Hook Safety)  
-  - `CI-UMM-DVM-01` (Drift Vector Mitigation)  
+### **2.1 Plane Prefix Validation**
 
-No direct pushes; only PRs with passing checks may merge.
+CI must reject any subsystem name that does not begin with one of:
 
----
+- `SYS-`  
+- `TRV-`  
+- `ID-`  
+- `NAR-`  
+- `GOV-`
 
-## 4. Failure handling
+This applies to:
 
-- **On failure:**
-  - CI annotates the PR with:
-    - failing test category (Hook Safety / Drift Vector)  
-    - specific scenario (e.g., “HRB isolation gate inactive on hook X”)  
-  - Developer must:
-    - update protocol or pin  
-    - re‑run tests  
-    - only merge once both suites pass  
+- subsystem directories  
+- subsystem references in documentation  
+- protocol/pin references  
+- SID references  
+- test suite references  
 
 ---
 
-## 5. Roots ledger entry
+### **2.2 Canonical Subsystem Acronym Validation**
 
-```text
-ROOTS-ENTRY-CI-HOOKSAFE-01
-Type: CI Spec
-Module: CI-UMM-HOOKSAFE-01
-Artifact: Hook Safety CI Integration Spec v1.0
-Status: Active
-Hash: 2e:aa:31:bd:62:fa:11
-Bound: UMA, UMM, Safeguards, Final Safety Net, SIAP, HRB, CHS-OL, Play Engine
+CI must enforce the canonical subsystem names:
+
+| Subsystem | Canonical Name |
+|----------|----------------|
+| CHS | **SYS‑CHS** |
+| CHS‑OL | **TRV‑CHS‑OL** |
+| HBR | **ID‑HBR** |
+| Play Engine | **NAR‑PE** |
+| SIAP | **GOV‑SIAP** |
+| Safeguards | **GOV‑SAF** |
+| Safety Net | **GOV‑SN** |
+
+Any deviation is considered naming drift.
+
+---
+
+### **2.3 Directory Naming Enforcement**
+
+CI must reject any directory under `systems/UMM/` that does not follow:
+
 ```
+systems/UMM/<CanonicalSubsystemName>/
+```
+
+Examples of violations:
+
+- `systems/UMM/HBR/` → ❌  
+- `systems/UMM/CHS/` → ❌  
+- `systems/UMM/PlayEngine/` → ❌  
+
+Correct:
+
+- `systems/UMM/ID-HBR/` → ✔  
+- `systems/UMM/SYS-CHS/` → ✔  
+- `systems/UMM/NAR-PE/` → ✔  
+
+---
+
+### **2.4 SID Alignment Enforcement**
+
+CI must verify that the SID contains:
+
+- correct plane prefixes  
+- correct subsystem acronyms  
+- correct naming rules  
+- correct integration block (SID‑NS‑INT‑01)  
+
+If SID is out of sync with naming rules, CI must fail the PR.
+
+Explore: **SID**
+
+---
+
+### **2.5 Protocol/Pin Naming Enforcement**
+
+CI must ensure:
+
+- protocols reference canonical subsystem names  
+- pins reference canonical subsystem names  
+- naming rules are applied consistently across governance artifacts  
+
+This is enforced by:
+
+- **GOV‑ORDER‑01**  
+- **PIN‑GOV‑ORDER‑01**  
+- **PROTO‑PIN‑IMMEDIATE‑01**  
+- **META‑PIN‑PROTO‑PIN‑IMMEDIATE‑01**  
+- **PIN‑SUBSYS‑NAME‑STD‑01**
+
+Explore: **Immediate Pinning Protocol**
+
+---
+
+### **2.6 Drift Detection Enforcement**
+
+CI must fail any PR containing:
+
+- incorrect subsystem names  
+- incorrect plane prefixes  
+- naming collisions  
+- naming drift  
+- outdated subsystem references  
+- missing SID updates  
+- missing protocol/pin updates  
+
+This integrates with:
+
+- **GOV‑SAF** (Safeguards)  
+- **GOV‑SN** (Safety Net)  
+
+Explore: **Safeguards**
+
+---
+
+## **3. CI Test Suite Updates**
+
+CI must run the following test suites:
+
+### **3.1 Naming Drift Test Suite**
+Validates:
+
+- subsystem naming  
+- plane prefixes  
+- acronym stability  
+- directory naming  
+- SID alignment  
+
+### **3.2 Drift Vector Mitigation Test Suite**
+Ensures naming drift does not create traversal drift vectors.
+
+Explore: **DVM Protocol**
+
+### **3.3 Hook Safety Test Suite**
+Ensures naming rules do not interfere with hook safety.
+
+Explore: **Hook Safety Test Suite**
+
+---
+
+## **4. Roots Ledger Binding**
+
+```
+ROOTS-ENTRY-CI-NS-ENF-01
+Type: CI Enforcement Block
+Module: UMM-CI-NS-ENF-01
+Status: Active
+Hash: 3e:bb:41:cd:92:fa:44
+Bound: UMM, SIAP, Safeguards, Safety Net, SYS-CHS, TRV-CHS-OL, ID-HBR, NAR-PE
+```
+
+---
+
+## **5. Document Status**
+
+**Status:** Active  
+**Version:** 1.0  
+**Hash:** 3e:bb:41:cd:92:fa:44  
 
 ---
 
