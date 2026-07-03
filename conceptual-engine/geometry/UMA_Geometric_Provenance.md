@@ -1,19 +1,20 @@
-# **UMA Geometric Provenance (Full‑Equation GitHub‑Safe Version)**  
+# **UMA Geometric Provenance Document**  
 ### *Formal Geometric Derivation of UMA’s Stacked Hypercube Field*
 
 **System:** UMA Universal  
 **Subsystem:** SIAP — System Integrity Alignment Protocol  
 **Document Type:** Geometric Provenance  
 **Status:** Active  
+**Last Updated:** 03 July 2026  
 **Location:** `/conceptual-engine/geometry/UMA_Geometric_Provenance.md`
 
 ---
 
 ## **1. Purpose**
-This document establishes the **formal geometric provenance** of UMA’s governance architecture.  
-UMA is modeled as a **stacked hypercube field**, where each module occupies a 4‑dimensional governance space and the full system forms a constrained subgraph of a **4N‑dimensional hypercube**.
+This document establishes the formal geometric provenance of UMA’s governance architecture.  
+UMA is modeled as a stacked hypercube field, where each module occupies a 4‑dimensional governance space and the full system forms a constrained subgraph of a 4N‑dimensional hypercube.
 
-All diagrams are provided as **SVG assets** stored in the repo.
+All geometric diagrams are provided as SVG assets stored in the repo.
 
 ---
 
@@ -31,7 +32,7 @@ Where:
 - `g_i` = SIAP governance decision state  
 - `h_i` = HBR human‑cybernetic support state  
 
-Each coordinate is binary (`0` or `1`), forming a **4‑cube (tesseract)**.
+Each coordinate is binary (`0` or `1`), forming a 4‑cube (tesseract).
 
 ---
 
@@ -50,7 +51,7 @@ Thus the full UMA state space is:
 {0,1}^{4N}
 ```
 
-This is the discrete coordinate representation of a **4N‑dimensional hypercube**.
+This is the discrete coordinate representation of a 4N‑dimensional hypercube.
 
 ---
 
@@ -67,7 +68,7 @@ UMA governance transitions match this exactly:
 - SIAP → flip `g_i`  
 - HBR → flip `h_i`
 
-Thus UMA’s governance dynamics are **motions along edges of a hypercube**.
+Thus UMA’s governance dynamics are motions along edges of a hypercube.
 
 ---
 
@@ -78,13 +79,13 @@ The PQETL Entanglement Map defines cross‑module constraints of the form:
 f(s_i, s_j) = 0
 ```
 
-These constraints carve out a **legal subspace** of the hypercube:
+These constraints carve out a legal subspace of the hypercube:
 
 ```
 S_legal ⊆ {0,1}^{4N}
 ```
 
-This subspace is the **constraint manifold** of UMA.
+This subspace is the constraint manifold of UMA.
 
 ---
 
@@ -95,13 +96,13 @@ The HBR law requires:
 h_i = 1   for all modules during 4D operations
 ```
 
-Thus the **valid operational region** is:
+Thus the valid operational region is:
 
 ```
 S_valid = { S ∈ {0,1}^{4N} | h_i = 1 for all i }
 ```
 
-This is a **codimension‑N slice** of the hypercube field.
+This is a codimension‑N slice of the hypercube field.
 
 ---
 
@@ -118,25 +119,30 @@ Thus:
 G ⊆ Q_{4N}
 ```
 
-This is UMA’s **governance adjacency graph**.
+This is UMA’s governance adjacency graph.
 
 ---
 
 # **8. Geometric Assets (SVG Provenance)**  
-These SVGs provide visual provenance for UMA’s geometric structure.  
-They are stored in `/conceptual-engine/geometry/svg/`.
+Stored in:
 
-## Tesseract projection  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+```
+/conceptual-engine/geometry/svg/
+```
 
-## Stacked hypercube field  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+To view each SVG, open the file directly in GitHub:
 
-## Constraint manifold  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+### **Tesseract projection**  
+`/conceptual-engine/geometry/svg/tesseract_projection.svg`
 
-## Entanglement tensor  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+### **Stacked hypercube field**  
+`/conceptual-engine/geometry/svg/stacked_hypercube_field.svg`
+
+### **Constraint manifold**  
+`/conceptual-engine/geometry/svg/constraint_manifold.svg`
+
+### **Entanglement tensor**  
+`/conceptual-engine/geometry/svg/entanglement_tensor.svg`
 
 ---
 
@@ -150,7 +156,7 @@ UMA’s geometry is formally established as:
 5. Governance transitions: hypercube edges  
 6. UMA dynamics: constrained hypercube traversal  
 
-This document provides the **canonical, GitHub‑safe geometric provenance** for UMA.
+This document provides the canonical, GitHub‑safe geometric provenance for UMA.
 
 ---
 
