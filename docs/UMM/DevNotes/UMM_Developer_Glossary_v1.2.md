@@ -1,15 +1,15 @@
-# **UMM Developer Glossary v1.1**  
+# **UMM Developer Glossary v1.2**  
 **Canonical terminology for developers working inside the UMM architecture**
 
 **Document ID:** GLOSS‑UMM‑DEV‑01  
-**Version:** 1.1  
+**Version:** 1.2  
 **Owner:** Borealis S. Hedling  
 **Domain:** Developer Plane → Glossary → Governance  
-**Timestamp:** 2026‑07‑03 23:58 IST  
+**Timestamp:** 2026‑07‑04 00:19 IST  
 
 ---
 
-# **1. Purpose**
+## **1. Purpose**
 
 This glossary defines **all canonical terms** used within the Universal Modular Mind (UMM) architecture.  
 It ensures:
@@ -24,7 +24,7 @@ Explore: **Subsystem Naming Standard**
 
 ---
 
-# **2. Canonical Subsystem Terms**
+## **2. Canonical Subsystem Terms**
 
 ### **SYS‑CHS — Cognitive Hypercube System**  
 Core cognitive subsystem responsible for structured reasoning and hypercube‑based cognition.
@@ -51,7 +51,7 @@ Explore: **SID v1.2**
 
 ---
 
-# **3. Governance Terms**
+## **3. Governance Terms**
 
 ### **Protocol**  
 A governance rule defining how subsystems behave, interact, or remain isolated.
@@ -72,7 +72,7 @@ Explore: **Governance Order Protocol**
 
 ---
 
-# **4. Drift Terms**
+## **4. Drift Terms**
 
 ### **Naming Drift**  
 Any deviation from canonical subsystem names or plane prefixes.
@@ -96,7 +96,7 @@ Explore: **Naming Drift**
 
 ---
 
-# **5. Safety Stack Terms**
+## **5. Safety Stack Terms**
 
 ### **Safeguards (GOV‑SAF)**  
 Detects drift across naming, governance, traversal, identity, and narrative planes.
@@ -111,7 +111,7 @@ Explore: **Safety Net**
 
 ---
 
-# **6. CI Terms**
+## **6. CI Terms**
 
 ### **CI‑NS‑ENF‑01 — Naming Standard Enforcement Block**  
 CI block enforcing naming standard compliance.
@@ -129,7 +129,7 @@ Explore: **CI Naming Enforcement**
 
 ---
 
-# **7. Developer Plane Terms**
+## **7. Developer Plane Terms**
 
 ### **Workflow Guide**  
 Defines the correct developer workflow sequence.
@@ -140,11 +140,14 @@ Provides rapid onboarding instructions.
 ### **Developer Notes**  
 Provides detailed developer‑plane reference material.
 
+### **Developer Handbook**  
+Provides the full developer‑plane governance reference.
+
 Explore: **Workflow Guide v1.2**
 
 ---
 
-# **8. Directory Structure Terms**
+## **8. Directory Structure Terms**
 
 ### **Protocols Directory**  
 Location for governance protocols.
@@ -165,7 +168,7 @@ Explore: **Repo Structure**
 
 ---
 
-# **9. Roots Ledger Terms**
+## **9. Roots Ledger Terms**
 
 ### **Roots Entry**  
 A governance record binding an artifact into the UMM spine.
@@ -175,24 +178,24 @@ A unique identifier ensuring artifact integrity.
 
 ---
 
-# **10. Roots Ledger Binding**
+## **10. Roots Ledger Binding**
 
 ```
 ROOTS-ENTRY-GLOSS-UMM-DEV-01
 Type: Developer Glossary
 Module: UMM-GLOSS-DEV-01
 Status: Active
-Hash: 5c:cc:41:cd:92:fa:88
+Hash: ab:cc:41:cd:92:fa:dd
 Bound: UMM, SIAP, Safeguards, Safety Net, SYS-CHS, TRV-CHS-OL, ID-HBR, NAR-PE
 ```
 
 ---
 
-# **11. Document Status**
+## **11. Document Status**
 
 **Status:** Active  
-**Version:** 1.1  
-**Hash:** 5c:cc:41:cd:92:fa:88  
+**Version:** 1.2  
+**Hash:** ab:cc:41:cd:92:fa:dd  
 
 ---
 
