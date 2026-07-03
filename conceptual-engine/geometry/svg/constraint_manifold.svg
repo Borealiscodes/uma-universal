@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="800"
+  height="800"
+  viewBox="0 0 800 800">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="800" height="800" fill="white" />
+
+  <!-- Constraint manifold boundary (soft rectangle) -->
+  <rect
+    x="140"
+    y="140"
+    width="520"
+    height="520"
+    fill="none"
+    stroke="black"
+    stroke-width="3"
+    stroke-dasharray="10,10" />
+
+  <!-- Helper group: tesseract projection -->
+  <!-- Outer + inner square + connecting edges -->
+  <g id="tesseract" stroke="black" stroke-width="1.5" fill="none">
+    <rect x="0" y="0" width="120" height="120" />
+    <rect x="20" y="20" width="80" height="80" />
+    <line x1="0" y1="0" x2="20" y2="20" />
+    <line x1="120" y1="0" x2="100" y2="20" />
+    <line x1="0" y1="120" x2="20" y2="100" />
+    <line x1="120" y1="120" x2="100" y2="100" />
+  </g>
+
+  <!-- FIELD OF MODULES -->
+  <!-- Row 1 -->
+  <g transform="translate(80, 80)" opacity="0.25">
+    <use href="#tesseract" />
+  </g>
+  <g transform="translate(320, 80)" opacity="1.0">
+    <use href="#tesseract" />
+  </g>
+  <g transform="translate(560, 80)" opacity="0.25">
+    <use href="#tesseract" />
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(80, 320)" opacity="1.0">
+    <use href="#tesseract" />
+  </g>
+  <g transform="translate(320, 320)" opacity="1.0">
+    <use href="#tesseract" />
+  </g>
+  <g transform="translate(560, 320)" opacity="1.0">
+    <use href="#tesseract" />
+  </g>
+
+  <!-- Row 3 -->
+  <g transform="translate(80, 560)" opacity="0.25">
+    <use href="#tesseract" />
+  </g>
+  <g transform="translate(320, 560)" opacity="1.0">
+    <use href="#tesseract" />
+  </g>
+  <g transform="translate(560, 560)" opacity="0.25">
+    <use href="#tesseract" />
+  </g>
+
+  <!-- Title -->
+  <text
+    x="400"
+    y="40"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="18"
+    fill="black">
+    UMA – Constraint Manifold (Legal Subspace of Hypercube Field)
+  </text>
+</svg>
