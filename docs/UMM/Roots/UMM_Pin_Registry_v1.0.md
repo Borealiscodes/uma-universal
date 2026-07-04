@@ -1,11 +1,11 @@
-# **UMM Pin Registry v1.0**  
+# **UMM Pin Registry v1.0 (Fully Updated)**  
 **Canonical registry of structural, constitutional, and governance pins across the UMM architecture**
 
 **Registry ID:** PINREG‑UMM‑01  
 **Version:** 1.0  
 **Owner:** Borealis S. Hedling  
 **Domain:** Universal → Roots → Pins  
-**Timestamp:** 2026‑07‑04 02:02 IST  
+**Timestamp:** 2026‑07‑04 02:10 IST  
 
 ---
 
@@ -48,7 +48,7 @@ HASH: <sha256-like hash>
 ---
 
 ## **3. Registered Pins (v1.0)**  
-Initial entries based on your recent structural actions.
+All pins currently recognized by the UMM governance architecture.
 
 ---
 
@@ -122,11 +122,26 @@ HASH: 50:ee:41:cd:92:fa:35
 
 ---
 
+### **Pin 6 — Procedural Driver Activation (NEW)**
+```
+PIN-ID: PIN-2026-07-04-006
+TIMESTAMP: 2026-07-04T02:10:00Z
+LOCATION: docs/UMM/Roots/UMM_Root_Registry_Protocol_v1.0.md
+TYPE: structural
+DESCRIPTION: Definition and activation of the Procedural Driver as the root-layer
+             governance role responsible for structural sequencing, constitutional
+             ordering, and mandatory artifact activation once dependencies are met.
+STATUS: active
+HASH: 70:aa:41:cd:92:fa:37
+```
+
+---
+
 ## **4. Registry Status**
 
 **Status:** Active  
 **Version:** 1.0  
-**Entries:** 5  
+**Entries:** 6  
 **Integrity:** Verified  
 **Drift:** None detected  
 
