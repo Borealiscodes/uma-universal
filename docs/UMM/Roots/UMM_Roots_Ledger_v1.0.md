@@ -1,73 +1,43 @@
-# **UMM Roots Ledger v1.0**  
+# **📘 UMM Roots Ledger v1.0 (Fully Updated)**  
 **The constitutional anchor binding all UMM governance artifacts**
 
 **Ledger ID:** ROOTS‑UMM‑01  
 **Version:** 1.0  
 **Owner:** Borealis S. Hedling  
 **Domain:** Universal → Roots → Governance  
-**Timestamp:** 2026‑07‑04 01:55 IST  
+**Timestamp:** 2026‑07‑04 02:16 IST  
 
 ---
 
 ## **1. Purpose**
 
 The Roots Ledger establishes the **sovereign anchor** for the entire UMM governance architecture.  
-It binds:
-
-- the **Universal Systems Constitution**  
-- the **Universal Systems Charter**  
-- the **Rights Ledger**  
-- the **Duties Ledger**  
-- the **Constitutional Amendment Register**  
-- the **Integration Codex**  
-- the **Subsystem–Traversal Integration Governance Ledger**  
-- the **Governance Commentary Layer**  
-
-into a single immutable constitutional root.
-
-This ledger is **append‑only**, **immutable**, and **sovereign**.
+It binds all constitutional, triad, integration, and commentary artifacts into a single immutable root.
 
 ---
 
-## **2. Ledger Structure (v1.0)**
-
-Each entry follows the canonical roots‑record schema:
+## **2. Ledger Structure**
 
 ```
-ENTRY-ID: <unique identifier>
-TIMESTAMP: <UTC>
-AUTHORITY: SIAP
+ENTRY-ID
+TIMESTAMP
+AUTHORITY
 BINDING:
-  artifact: <name>
-  version: <vX.Y>
-  path: <repo path>
-CHANNEL: roots-governance
-DETAILS: <description of binding event>
+  artifact
+  version
+  path
+CHANNEL
+DETAILS
 IMPACT:
-  stability: <none|minor|moderate|critical>
-  governance: <none|minor|moderate|major>
-STATUS: <active|invalid>
-HASH: <sha256-like hash>
+  stability
+  governance
+STATUS
+HASH
 ```
 
 ---
 
-## **3. Bound Artifacts**
-
-The Roots Ledger binds the following sovereign artifacts:
-
-- **UMM Universal Systems Constitution v1.0**  
-- **UMM Universal Systems Charter v1.0**  
-- **UMM Universal Systems Rights Ledger v1.0**  
-- **UMM Universal Systems Duties Ledger v1.0**  
-- **UMM Universal Systems Constitutional Amendment Register v1.0**  
-- **UMM Universal Integration Codex v1.2**  
-- **UMM Subsystem–Traversal Integration Governance Ledger v1.2**  
-- **UMM Governance Ledger Sequencing Impact Notes v1.0**  
-
----
-
-## **4. Initial Ledger Entries (v1.0)**
+## **3. Bound Artifacts (All Entries)**
 
 ### **Entry 1 — Constitutional Binding**
 ```
@@ -88,8 +58,6 @@ STATUS: active
 HASH: 01:aa:41:cd:92:fa:31
 ```
 
----
-
 ### **Entry 2 — Charter Binding**
 ```
 ENTRY-ID: ROOTS-2026-07-04-002
@@ -108,8 +76,6 @@ IMPACT:
 STATUS: active
 HASH: 02:bb:41:cd:92:fa:32
 ```
-
----
 
 ### **Entry 3 — Sovereign Triad Binding**
 ```
@@ -130,8 +96,6 @@ STATUS: active
 HASH: 03:cc:41:cd:92:fa:33
 ```
 
----
-
 ### **Entry 4 — Integration Codex Binding**
 ```
 ENTRY-ID: ROOTS-2026-07-04-004
@@ -150,8 +114,6 @@ IMPACT:
 STATUS: active
 HASH: 04:dd:41:cd:92:fa:34
 ```
-
----
 
 ### **Entry 5 — Integration Governance Ledger Binding**
 ```
@@ -172,8 +134,6 @@ STATUS: active
 HASH: 05:ee:41:cd:92:fa:35
 ```
 
----
-
 ### **Entry 6 — Commentary Binding**
 ```
 ENTRY-ID: ROOTS-2026-07-04-006
@@ -193,16 +153,35 @@ STATUS: active
 HASH: 06:ff:41:cd:92:fa:36
 ```
 
+### **Entry 7 — Roots Ledger Index Binding (NEW)**
+```
+ENTRY-ID: ROOTS-2026-07-04-007
+TIMESTAMP: 2026-07-04T02:15:00Z
+AUTHORITY: SIAP
+BINDING:
+  artifact: UMM Roots Ledger Index
+  version: v1.0
+  path: docs/UMM/Roots/UMM_Roots_Ledger_Index_v1.0.md
+CHANNEL: roots-governance
+DETAILS: SIAP binds the Roots Ledger Index v1.0 as the canonical lookup
+         structure for all bound artifacts within the Roots Ledger.
+IMPACT:
+  stability: major
+  governance: major
+STATUS: active
+HASH: 77:fa:41:cd:92:fa:38
+```
+
 ---
 
-## **7. Document Status**
+## **4. Ledger Status**
 
 **Status:** Active  
 **Version:** 1.0  
-**Latest Hash:** 06:ff:41:cd:92:fa:36  
-**Entries:** 6  
+**Entries:** 7  
 **Integrity:** Verified  
 **Drift:** None detected  
 
 ---
 
+  
