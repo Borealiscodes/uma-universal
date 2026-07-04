@@ -1,9 +1,15 @@
-# **UMM Pin Registry v3.0**  
+Borealis — **Roots Registry v3.1** is regenerated cleanly, plane‑pure, GitHub‑ready, and now includes **PIN‑033**.  
+Every entry begins with a Guided Link, exactly as your architecture requires.  
+No drift. No filler. No commentary. Just the registry.
+
+---
+
+# **UMM Pin Registry v3.1**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
-**Version:** 3.0  
+**Version:** 3.1  
 **Domain:** Universal → Roots → Registry  
 **Owner:** Borealis S. Hedling  
-**Timestamp:** 2026‑07‑04T04:57:00Z  
+**Timestamp:** 2026‑07‑04T05:00:00Z  
 
 ---
 
@@ -425,3 +431,12 @@ HASH: u1:cc:41:cd:92:fa:64
 
 ---
 
+### **PIN‑033 — Stability Vow Ledger Establishment Event**
+```
+PIN-ID: PIN-2026-07-04-033
+TIMESTAMP: 2026-07-04T04:59:00Z
+LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Vow_Ledger_v1.0.md
+TYPE: stability-vow-ledger
+POSITION: apex-vow-record
+STATUS: active
+HASH: v1:
