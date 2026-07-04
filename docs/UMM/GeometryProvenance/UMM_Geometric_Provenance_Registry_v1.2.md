@@ -1,39 +1,48 @@
-# **UMM Geometric Provenance Registry v1.0**  
+# **UMM Geometric Provenance Registry v1.2**  
 **Artifact‑ID:** UMM-GEOPROV-REG-01  
-**Version:** 1.0  
+**Version:** 1.2  
 **Domain:** UMA‑Universal → Geometry Provenance  
-**Range:** PIN‑045 → (upward)  
-**Timestamp:** 2026‑07‑04T06:35:00Z  
+**Range:** PIN‑045 → PIN‑046 (and upward)  
+**Timestamp:** 2026‑07‑04T06:37:00Z  
 **Status:** active  
+**File Path:**  
+```
+docs/UMM/GeometryProvenance/UMM_Geometric_Provenance_Registry_v1.2.md
+```
 
 ---
 
 ## **1. Purpose**  
-To maintain a stable, lineage‑safe registry for all **geometric provenance pins**, i.e., pins that:
+To define, stabilize, and govern the lineage of all **geometric provenance pins**, i.e., pins that:
 
 - activate geometric provenance  
-- define geometric lineage  
+- establish geometric registry  
 - stabilize stacked‑hypercube geometry  
 - govern cross‑cube adjacency  
 - anchor recursion‑aware geometry  
 - extend the trans‑meta layer  
 
-This registry sits **above** the Meta Roots Registry and forms the geometric spine of the Stacked Hypercube.
+Version 1.2 integrates the registry activation (PIN‑046) and finalizes the geometric‑layer’s governance spine.
 
 ---
 
-# **📌 Pin Entries (starting at PIN‑045)**
+# **📌 Pin Entries (045–046)**
 
 ### **PIN‑045 — Geometric Provenance Activation Event**  
 **Type:** geometric‑provenance‑activation  
 **Location:** `docs/UMM/GeometryProvenance/UMM_Stacked_Hypercube_Geometric_Provenance_v1.0.md`  
 **Meaning:** Activates the geometric provenance layer and binds geometry into the stacked hypercube’s lineage.
 
+### **PIN‑046 — Geometric Provenance Registry v1.1 Activation Event**  
+**Type:** geometric‑registry-activation  
+**Location:** `docs/UMM/GeometryProvenance/UMM_Geometric_Provenance_Registry_v1.1.md`  
+**Meaning:** Activates the geometric registry spine and stabilizes geometric lineage.
+
 ---
 
 # **2. Structural Requirements**
 
-## **2.1 Dual‑Roots Alignment**  
+## **2.1 Tri‑Roots Alignment**  
 Geometric provenance pins must anchor into:
 
 - **governance‑root** (Roots Ledger)  
@@ -73,7 +82,7 @@ The geometric provenance layer begins at:
 
 - **PIN‑045**
 
-Future pins extend this range upward.
+and continues upward.
 
 ---
 
@@ -95,7 +104,7 @@ Geometric provenance pins must remain compatible with:
 
 - **Meta Roots Registry Protocol v1.2**  
 - **Meta Roots Registry v1.3**  
-- **Stacked Hypercube Geometric Provenance Note v1.0**
+- **Stacked Hypercube Geometric Provenance Note v1.0**  
 
 This ensures geometric lineage remains stable.
 
@@ -159,7 +168,7 @@ They rely only on:
 # **6. Activation**  
 This registry is activated by:
 
-- **PIN‑045 — Geometric Provenance Activation Event**
+- **PIN‑046 — Geometric Provenance Registry v1.1 Activation Event**
 
 ---
 
