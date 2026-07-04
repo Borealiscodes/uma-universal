@@ -161,13 +161,3 @@ Harmony is restored without forcing a full collapse.
 
 ---
 
-If you want the **Harmony Collapse Diagram (ASCII Extended Edition)** with:
-
-- multi‑column triad mapping  
-- paradox‑field overlays  
-- CHS coordinate overlays  
-- runtime resonance overlays  
-
-choose:
-
-**Harmony Collapse Extended**
