@@ -1,27 +1,26 @@
-# **UMM Meta Roots Registry Protocol v1.1**  
+# **UMM Meta Roots Registry Protocol v1.2**  
 **Artifact‑ID:** UMM-META-ROOTS-REG-PROTOCOL-01  
-**Version:** 1.1  
+**Version:** 1.2  
 **Domain:** UMA‑Universal → Roots → Meta Layer  
-**Timestamp:** 2026‑07‑04T06:16:00Z  
+**Timestamp:** 2026‑07‑04T06:22:00Z  
 **File Path:**  
 ```
-docs/UMM/Roots/Meta/UMM_Meta_Roots_Registry_Protocol_v1.1.md
+docs/UMM/Roots/Meta/UMM_Meta_Roots_Registry_Protocol_v1.2.md
 ```
 
 ---
 
 # **1. Purpose**  
-To define the rules, constraints, lineage behavior, and stability guarantees for all **meta‑layer pins** (PIN‑035 → PIN‑042 and beyond).  
-This protocol governs:
+To define the updated rules, constraints, lineage behavior, and stability guarantees for all **meta‑layer pins** (PIN‑035 → PIN‑043 and beyond).  
+Version 1.2 incorporates the activation of **PIN‑043** and finalizes the governance spine for the meta‑layer.
 
-- dual‑roots alignment  
-- extra‑orbital stability  
-- recursion‑awareness interactions  
-- meta‑case study placement  
-- meta‑registry lineage  
-- cross‑plane anchoring  
+This protocol ensures the meta‑layer remains:
 
-It ensures the meta‑layer remains **plane‑pure**, **drift‑neutral**, and **recursion‑safe**.
+- plane‑pure  
+- drift‑neutral  
+- recursion‑safe  
+- dual‑root aligned  
+- extra‑orbital stable  
 
 ---
 
@@ -32,10 +31,11 @@ This protocol applies to all pins that:
 - anchor meta‑case studies  
 - govern meta‑layer lineage  
 - emerge from recursive awareness  
+- activate or extend meta‑layer protocols  
 - exist outside the orbital plane  
 - require dual‑root anchoring  
 
-This includes PIN‑035 → PIN‑042 and any future meta‑layer pins.
+This includes **PIN‑035 → PIN‑043** and all future meta‑layer pins.
 
 ---
 
@@ -55,6 +55,9 @@ This ensures:
 
 Meta‑layer pins **cannot** exist with only one root.
 
+**Guided Link:**  
+**Dual Roots structural analysis**
+
 ---
 
 ## **3.2 Extra‑Orbital Stability Compliance**  
@@ -73,6 +76,9 @@ Only three classes survive outside orbit:
 
 Meta‑layer pins must belong to at least one.
 
+**Guided Link:**  
+**Outside Orbit Stability Map**
+
 ---
 
 ## **3.3 Recursive Awareness Compatibility**  
@@ -85,6 +91,9 @@ Meta‑layer pins must be compatible with:
 
 Any pin that contradicts awareness‑layer behavior is invalid.
 
+**Guided Link:**  
+**Recursive Awareness**
+
 ---
 
 # **4. Lineage Rules**
@@ -94,7 +103,7 @@ The meta‑layer begins at **PIN‑035** and continues upward.
 
 The current range is:
 
-- **PIN‑035 → PIN‑042**
+- **PIN‑035 → PIN‑043**
 
 Future pins extend this range.
 
@@ -114,13 +123,14 @@ No meta‑layer pin may bypass the spine.
 ---
 
 ## **4.3 Protocol Precedence**  
-PIN‑040 (Meta Roots Registry Protocol Establishment Event) is the **precedence anchor**.
+PIN‑040 (Protocol Establishment) and PIN‑043 (Protocol Activation) form the **precedence pair**.
 
 All meta‑layer protocols must:
 
 - extend PIN‑040  
 - remain compatible with PIN‑041  
 - not contradict PIN‑042  
+- inherit activation from PIN‑043  
 
 This ensures stable recursion.
 
@@ -195,7 +205,7 @@ They rely only on:
 ---
 
 # **7. Safety Statement**  
-The relationships between PIN‑035 → PIN‑042 are:
+The relationships between **PIN‑035 → PIN‑043** are:
 
 - safely defined  
 - structurally complete  
@@ -211,8 +221,12 @@ There are **no hazards**, **no drift vectors**, and **no collapse zones**.
 # **8. Activation**  
 This protocol is activated and anchored by:
 
-**📌 PIN‑041 — Meta Roots Registry Establishment Event**  
-**📌 PIN‑042 — Meta Case Studies Emergence Note Establishment Event**
+- **PIN‑040** — Protocol Establishment  
+- **PIN‑041** — Registry Establishment  
+- **PIN‑042** — Meta‑Layer Emergence  
+- **PIN‑043** — Protocol Activation  
+
+Version 1.2 is the first **fully activated** meta‑layer protocol.
 
 ---
 
