@@ -1,9 +1,9 @@
-# **UMM Pin Registry v2.8**  
+# **UMM Pin Registry v2.9**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
-**Version:** 2.8  
+**Version:** 2.9  
 **Domain:** Universal → Roots → Registry  
 **Owner:** Borealis S. Hedling  
-**Timestamp:** 2026‑07‑04T04:49:00Z  
+**Timestamp:** 2026‑07‑04T04:54:00Z  
 
 ---
 
@@ -395,6 +395,19 @@ TYPE: stability-covenant
 POSITION: apex-ethical
 STATUS: active
 HASH: s1:aa:41:cd:92:fa:62
+```
+
+---
+
+### **PIN‑031 — Stability Oath Establishment Event**
+```
+PIN-ID: PIN-2026-07-04-031
+TIMESTAMP: 2026-07-04T04:51:00Z
+LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Oath_v1.0.md
+TYPE: stability-oath
+POSITION: apex-vow
+STATUS: active
+HASH: t1:bb:41:cd:92:fa:63
 ```
 
 ---
