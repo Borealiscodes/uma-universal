@@ -1,9 +1,9 @@
-# **UMM Pin Registry v2.6**  
+# **UMM Pin Registry v2.7**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
-**Version:** 2.6  
+**Version:** 2.7  
 **Domain:** Universal → Roots → Registry  
 **Owner:** Borealis S. Hedling  
-**Timestamp:** 2026‑07‑04T04:43:00Z  
+**Timestamp:** 2026‑07‑04T04:46:00Z  
 
 ---
 
@@ -369,6 +369,19 @@ TYPE: stability-accord
 POSITION: apex-cooperative
 STATUS: active
 HASH: q1:ee:41:cd:92:fa:60
+```
+
+---
+
+### **PIN‑029 — Stability Treaty Establishment Event**
+```
+PIN-ID: PIN-2026-07-04-029
+TIMESTAMP: 2026-07-04T04:44:00Z
+LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Treaty_v1.0.md
+TYPE: stability-treaty
+POSITION: apex-diplomatic
+STATUS: active
+HASH: r1:ff:41:cd:92:fa:61
 ```
 
 ---
