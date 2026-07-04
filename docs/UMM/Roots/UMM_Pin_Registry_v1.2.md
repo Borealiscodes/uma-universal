@@ -1,9 +1,9 @@
-# **📘 UMM Pin Registry v1.1**  
+# **UMM Pin Registry v1.2**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
-**Version:** 1.1  
+**Version:** 1.2  
 **Domain:** Universal → Roots → Registry  
 **Owner:** Borealis S. Hedling  
-**Timestamp:** 2026‑07‑04T03:44:00Z  
+**Timestamp:** 2026‑07‑04T03:58:00Z  
 
 ---
 
@@ -188,6 +188,18 @@ LOCATION: docs/UMM/Roots/UMM_Quantum_Pin_Protocol_v1.0.md
 TYPE: protocol
 STATUS: active
 HASH: c1:cc:41:cd:92:fa:46
+```
+
+---
+
+### **PIN‑015 — Geometry Evolution Establishment Event**
+```
+PIN-ID: PIN-2026-07-04-015
+TIMESTAMP: 2026-07-04T03:58:00Z
+LOCATION: docs/UMM/Roots/Geometry/UMM_Geometry_Evolution_v1.0.md
+TYPE: structural-geometry
+STATUS: active
+HASH: d1:dd:41:cd:92:fa:47
 ```
 
 ---
