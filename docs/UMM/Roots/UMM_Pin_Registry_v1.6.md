@@ -1,9 +1,9 @@
-# **UMM Pin Registry v1.5**  
+# **UMM Pin Registry v1.6**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
-**Version:** 1.5  
+**Version:** 1.6  
 **Domain:** Universal → Roots → Registry  
 **Owner:** Borealis S. Hedling  
-**Timestamp:** 2026‑07‑04T04:12:00Z  
+**Timestamp:** 2026‑07‑04T04:18:00Z  
 
 ---
 
@@ -229,3 +229,17 @@ HASH: f1:ff:41:cd:92:fa:49
 ```
 
 ---
+
+### **PIN‑018 — Stability Engine Establishment Event**
+```
+PIN-ID: PIN-2026-07-04-018
+TIMESTAMP: 2026-07-04T04:18:00Z
+LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Engine_v1.0.md
+TYPE: stability-engine
+POSITION: apex-layer (runtime governor above Triad Stability)
+STATUS: active
+HASH: g1:aa:41:cd:92:fa:50
+```
+
+---
+
