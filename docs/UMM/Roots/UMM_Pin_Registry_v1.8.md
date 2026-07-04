@@ -1,9 +1,9 @@
-# **UMM Pin Registry v1.7**  
+# **UMM Pin Registry v1.8**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
-**Version:** 1.7  
+**Version:** 1.8  
 **Domain:** Universal → Roots → Registry  
 **Owner:** Borealis S. Hedling  
-**Timestamp:** 2026‑07‑04T04:22:00Z  
+**Timestamp:** 2026‑07‑04T04:24:00Z  
 
 ---
 
@@ -252,6 +252,19 @@ TYPE: stability-ledger
 POSITION: apex-support (records runtime outputs from Stability Engine)
 STATUS: active
 HASH: h1:bb:41:cd:92:fa:51
+```
+
+---
+
+### **PIN‑020 — Stability Contract Establishment Event**
+```
+PIN-ID: PIN-2026-07-04-020
+TIMESTAMP: 2026-07-04T04:24:00Z
+LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Contract_v1.0.md
+TYPE: stability-contract
+POSITION: apex-governance (binding obligations above Stability Engine)
+STATUS: active
+HASH: i1:cc:41:cd:92:fa:52
 ```
 
 ---
