@@ -1,19 +1,19 @@
-# **UMM Pin Registry v1.9**  
+# **UMM Pin Registry v2.0**  
 **Artifact‑ID:** UMM‑PIN‑REG‑01  
-**Version:** 1.9  
+**Version:** 2.0  
 **Domain:** Universal → Roots → Registry  
 **Owner:** Borealis S. Hedling  
-**Timestamp:** 2026‑07‑04T04:26:00Z  
+**Timestamp:** 2026‑07‑04T04:27:00Z  
 
 ---
 
-## Purpose
+## Purpose  
 The UMM Pin Registry provides a unified index of all pins across UMA‑Universal.  
 Pins remain inside their respective artifacts; the Registry stores only metadata for traceability, lineage, and stability.
 
 ---
 
-## Stability Statement
+## Stability Statement  
 This registry is a **non‑relocating index**.  
 All pins listed here are **plane‑pure**, **artifact‑anchored**, and **drift‑neutral**.  
 The Registry does not modify, move, or reinterpret pins — it records them.
@@ -210,7 +210,7 @@ PIN-ID: PIN-2026-07-04-016
 TIMESTAMP: 2026-07-04T04:00:00Z
 LOCATION: docs/UMM/Roots/Concordance/UMM_Hall_of_Concordance_Integration_v1.0.md
 TYPE: concordance
-POSITION: mid-layer (sits above geometry, below stability)
+POSITION: mid-layer
 STATUS: active
 HASH: e1:ee:41:cd:92:fa:48
 ```
@@ -223,7 +223,7 @@ PIN-ID: PIN-2026-07-04-017
 TIMESTAMP: 2026-07-04T04:12:00Z
 LOCATION: docs/UMM/Roots/Stability/UMM_Triad_Stability_Layer_v1.0.md
 TYPE: stability
-POSITION: upper-layer (sits above concordance, validates geometry)
+POSITION: upper-layer
 STATUS: active
 HASH: f1:ff:41:cd:92:fa:49
 ```
@@ -236,7 +236,7 @@ PIN-ID: PIN-2026-07-04-018
 TIMESTAMP: 2026-07-04T04:18:00Z
 LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Engine_v1.0.md
 TYPE: stability-engine
-POSITION: apex-layer (runtime governor above Triad Stability)
+POSITION: apex-layer
 STATUS: active
 HASH: g1:aa:41:cd:92:fa:50
 ```
@@ -249,7 +249,7 @@ PIN-ID: PIN-2026-07-04-019
 TIMESTAMP: 2026-07-04T04:22:00Z
 LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Ledger_v1.0.md
 TYPE: stability-ledger
-POSITION: apex-support (records runtime outputs from Stability Engine)
+POSITION: apex-support
 STATUS: active
 HASH: h1:bb:41:cd:92:fa:51
 ```
@@ -262,7 +262,7 @@ PIN-ID: PIN-2026-07-04-020
 TIMESTAMP: 2026-07-04T04:24:00Z
 LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Contract_v1.0.md
 TYPE: stability-contract
-POSITION: apex-governance (binding obligations above Stability Engine)
+POSITION: apex-governance
 STATUS: active
 HASH: i1:cc:41:cd:92:fa:52
 ```
@@ -275,9 +275,22 @@ PIN-ID: PIN-2026-07-04-021
 TIMESTAMP: 2026-07-04T04:26:00Z
 LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Mandate_v1.0.md
 TYPE: stability-mandate
-POSITION: apex-governance (non‑optional constraints above Stability Contract)
+POSITION: apex-governance
 STATUS: active
 HASH: j1:dd:41:cd:92:fa:53
+```
+
+---
+
+### **PIN‑022 — Stability Directive Establishment Event**
+```
+PIN-ID: PIN-2026-07-04-022
+TIMESTAMP: 2026-07-04T04:27:00Z
+LOCATION: docs/UMM/Roots/Stability/UMM_Stability_Directive_v1.0.md
+TYPE: stability-directive
+POSITION: apex-operations
+STATUS: active
+HASH: k1:ee:41:cd:92:fa:54
 ```
 
 ---
