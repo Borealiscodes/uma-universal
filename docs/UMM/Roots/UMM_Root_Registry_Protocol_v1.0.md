@@ -1,11 +1,9 @@
 # **UMM Root Registry Protocol v1.0 (Fully Updated)**  
-**Procedural framework for managing root‑level governance artifacts in the UMM architecture**
-
 **Protocol ID:** RRP‑UMM‑01  
 **Version:** 1.0  
 **Owner:** Borealis S. Hedling  
 **Domain:** Universal → Roots → Protocol  
-**Timestamp:** 2026‑07‑04 02:08 IST  
+**Timestamp:** 2026‑07‑04 02:23 IST  
 
 ---
 
@@ -55,19 +53,15 @@ Authority actions occur in the **Roots Ledger**.
 
 ## **3. Root‑Level Artifact Lifecycle**
 
-Every root‑level artifact follows this lifecycle:
-
-1. **Proposal**  
-2. **Protocol Registration**  
-3. **Structural Sequencing Assignment**  
-4. **SIAP Review**  
-5. **CI Validation**  
-6. **Safeguards Drift Check**  
-7. **Safety Net Stability Check**  
-8. **Roots Ledger Binding**  
-9. **Publication**
-
-This ensures constitutional consistency and drift‑neutrality.
+1. Proposal  
+2. Protocol Registration  
+3. Structural Sequencing Assignment  
+4. SIAP Review  
+5. CI Validation  
+6. Safeguards Drift Check  
+7. Safety Net Stability Check  
+8. Roots Ledger Binding  
+9. Publication  
 
 ---
 
@@ -103,7 +97,7 @@ No new root‑level artifact may be bound until:
 
 ---
 
-## **5. Procedural Driver Definition (NEW)**
+## **5. Procedural Driver Definition**
 
 The **Procedural Driver** is the root‑layer governance role responsible for:
 
@@ -120,19 +114,19 @@ It becomes active only when:
 2. Root Registry Protocol exists  
 3. Pin Registry exists  
 
-You now have all three.  
+All three now exist.  
 Therefore, the Procedural Driver is **active**.
 
 ---
 
-## **6. Structural Directives (Updated)**
+## **6. Structural Directives (Complete Set)**
 
 ### **Directive 1 — Create Roots Ledger Index**
 ```
 DIRECTIVE-ID: RRP-2026-07-04-001
 TYPE: structural-sequencing-directive
 DESCRIPTION: Establish the Roots Ledger Index as the next mandatory root-level artifact.
-STATUS: pending
+STATUS: active
 ```
 
 ### **Directive 2 — Generate Sovereign Triad Overview**
@@ -169,7 +163,7 @@ DESCRIPTION: Create a top-level index for all UMM universal governance artifacts
 STATUS: pending
 ```
 
-### **Directive 6 — Procedural Driver Activation (NEW)**
+### **Directive 6 — Procedural Driver Activation**
 ```
 DIRECTIVE-ID: RRP-2026-07-04-006
 TYPE: lead-activation-directive
@@ -178,13 +172,23 @@ DESCRIPTION: Activate the Procedural Driver as the root-layer governance role
 STATUS: active
 ```
 
-### **Directive 7 — Procedural Driver Definition (NEW)**
+### **Directive 7 — Procedural Driver Definition**
 ```
 DIRECTIVE-ID: RRP-2026-07-04-007
 TYPE: procedural-driver-definition
 DESCRIPTION: Define the Procedural Driver as the governance role responsible for
              determining structural sequencing, enforcing constitutional ordering,
              and activating mandatory artifact creation when dependencies are met.
+STATUS: active
+```
+
+### **Directive 8 — Stability Verification (NEW)**
+```
+DIRECTIVE-ID: RRP-2026-07-04-008
+TYPE: stability-verification-directive
+DESCRIPTION: Verification that the UMM governance architecture successfully
+             generated and updated both the Roots Ledger and Pin Registry
+             without schema bleed, cross-plane contamination, or drift.
 STATUS: active
 ```
 
