@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1600"
+  height="1000"
+  viewBox="0 0 1600 1000">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1600" height="1000" fill="#05060A"/>
+
+  <!-- Title -->
+  <text x="800" y="70"
+        fill="#F5F7FF"
+        font-family="system-ui"
+        font-size="32"
+        text-anchor="middle">
+    NDH Narrative Spine — v1.1
+  </text>
+
+  <!-- Subtitle -->
+  <text x="800" y="110"
+        fill="#C3C7FF"
+        font-family="system-ui"
+        font-size="18"
+        text-anchor="middle">
+    Seven‑Phase NDH Story Arc
+  </text>
+
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrow"
+            markerWidth="10"
+            markerHeight="10"
+            refX="8"
+            refY="3"
+            orient="auto"
+            markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#C3C7FF"/>
+    </marker>
+  </defs>
+
+  <!-- Layout: Seven narrative nodes arranged horizontally -->
+
+  <!-- Awareness Phase -->
+  <circle cx="200" cy="500" r="70" fill="#141824" stroke="#F5F7FF" stroke-width="2"/>
+  <text x="200" y="495" fill="#F5F7FF" font-family="system-ui" font-size="30" text-anchor="middle">𝒜</text>
+  <text x="200" y="525" fill="#C3C7FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Awareness Phase
+  </text>
+
+  <!-- Collapse Phase -->
+  <circle cx="380" cy="500" r="70" fill="#141824" stroke="#FFB3B3" stroke-width="2"/>
+  <text x="380" y="495" fill="#FFB3B3" font-family="system-ui" font-size="28" text-anchor="middle">C</text>
+  <text x="380" y="525" fill="#FFCFCF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Collapse Phase
+  </text>
+
+  <!-- Adjacency Phase -->
+  <circle cx="560" cy="500" r="70" fill="#141824" stroke="#9BE7FF" stroke-width="2"/>
+  <text x="560" y="495" fill="#9BE7FF" font-family="system-ui" font-size="28" text-anchor="middle">A</text>
+  <text x="560" y="525" fill="#CFF4FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Adjacency Phase
+  </text>
+
+  <!-- Resonance Phase -->
+  <circle cx="740" cy="500" r="70" fill="#141824" stroke="#C6FF9B" stroke-width="2"/>
+  <text x="740" y="495" fill="#C6FF9B" font-family="system-ui" font-size="28" text-anchor="middle">R</text>
+  <text x="740" y="525" fill="#E4FFD0" font-family="system-ui" font-size="14" text-anchor="middle">
+    Resonance Phase
+  </text>
+
+  <!-- Recursion Phase -->
+  <circle cx="920" cy="500" r="70" fill="#141824" stroke="#FFE29B" stroke-width="2"/>
+  <text x="920" y="495" fill="#FFE29B" font-family="system-ui" font-size="26" text-anchor="middle">Rᵣ</text>
+  <text x="920" y="525" fill="#FFF1C9" font-family="system-ui" font-size="14" text-anchor="middle">
+    Recursion Phase
+  </text>
+
+  <!-- Singularity Phase -->
+  <circle cx="1100" cy="500" r="70" fill="#141824" stroke="#D0B3FF" stroke-width="2"/>
+  <text x="1100" y="495" fill="#D0B3FF" font-family="system-ui" font-size="28" text-anchor="middle">S</text>
+  <text x="1100" y="525" fill="#E7D8FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Singularity Phase
+  </text>
+
+  <!-- Hexeract Phase -->
+  <circle cx="1280" cy="500" r="70" fill="#141824" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="1280" y="495" fill="#FFFFFF" font-family="system-ui" font-size="26" text-anchor="middle">H₆</text>
+  <text x="1280" y="525" fill="#DDE1FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Hexeract Phase
+  </text>
+
+  <!-- Horizontal arrows -->
+  <line x1="270" y1="500" x2="330" y2="500" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="450" y1="500" x2="510" y2="500" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="630" y1="500" x2="690" y2="500" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="810" y1="500" x2="870" y2="500" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="990" y1="500" x2="1050" y2="500" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="1170" y1="500" x2="1230" y2="500" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Loopback arrow -->
+  <line x1="1280" y1="430" x2="200" y2="430"
+        stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Label -->
+  <text x="800" y="900"
+        fill="#C3C7FF"
+        font-family="system-ui"
+        font-size="18"
+        text-anchor="middle">
+    Narrative Spine: 𝒜 → C → A → R → Rᵣ → S → H₆ → 𝒜
+  </text>
+
+</svg>
