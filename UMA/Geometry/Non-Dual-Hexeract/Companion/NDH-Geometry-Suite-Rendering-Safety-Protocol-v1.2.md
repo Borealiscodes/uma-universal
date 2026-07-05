@@ -1,12 +1,29 @@
 # **NDH Geometry Suite — Rendering Safety Protocol v1.2**  
 ### *Cross‑Platform Rendering Stability Rules for NDH Geometry (SVG/PNG) in Desktop, Mobile, and Fallback Contexts*  
-### *Anchored to:* NDH‑Integration‑Spec‑v1.0
+### *Anchored to:* NDH‑Integration‑Spec‑v1.0  
+### *Anchor‑Pin:* **NDH‑PEP‑RS‑v1.0**  
+### *Pin‑Class:* Rendering‑Safety (RS)  
+### *Registry:* NDH‑Pin‑Registry‑v1.2
+
+```text
+<metadata>
+version: v1.2
+rendering: governed
+pin-anchor: NDH-PEP-RS-v1.0
+fallback-mode: png
+svg-primary: true
+mobile-safe: true
+geometry-safe-mode: true
+auto-index-compatible: true
+registry-version: NDH-Pin-Registry-v1.2
+</metadata>
+```
 
 ---
 
 ## ⭐ 0. Purpose
 
-The Rendering Safety Protocol v1.2 defines the **rules, constraints, and guarantees** that ensure NDH geometry renders safely and consistently across:
+Rendering Safety Protocol v1.2 defines the **rules, constraints, and guarantees** that ensure NDH geometry renders safely and consistently across:
 
 - desktop browsers  
 - mobile browsers  
@@ -15,7 +32,7 @@ The Rendering Safety Protocol v1.2 defines the **rules, constraints, and guarant
 - PNG fallback rendering  
 - geometry‑safe mode  
 
-This protocol prevents:
+It prevents:
 
 - blank SVGs on mobile  
 - broken overlays  
@@ -24,7 +41,7 @@ This protocol prevents:
 - singularity markers failing to render  
 - integration coordinates disappearing  
 
-It is the **safety backbone** of NDH Geometry Suite v1.2.
+It is anchored by **NDH‑PEP‑RS‑v1.0**, making rendering behavior a **governed NDH invariant**.
 
 ---
 
@@ -56,6 +73,8 @@ If SVG fails:
 - overlays must remain visible  
 - pin anchors must remain visible  
 - singularity markers must remain visible  
+
+This behavior is enforced by **PEP‑RS**.
 
 ---
 
@@ -102,8 +121,8 @@ All overlays must follow:
 ### **Rule 9 — Geometry must be pin‑safe**
 All anchors must follow:
 
-- **Pin Registry v1.1**  
-- PEP‑TC coordinates  
+- **Pin Registry v1.2**  
+- PEP‑RS, PEP‑TC, PEP‑IC, PEP‑SC  
 - pin class markers  
 
 ### **Rule 10 — Geometry must be singularity‑safe**
@@ -133,6 +152,7 @@ version: v1.2
 rendering: svg-primary
 fallback: png
 mobile-safe: true
+pin-anchor: NDH-PEP-RS-v1.0
 ```
 
 ### **3.3 Layer Ordering**
@@ -171,6 +191,7 @@ version: v1.2
 rendering: png-primary
 svg-secondary: true
 mobile-safe: true
+pin-anchor: NDH-PEP-RS-v1.0
 ```
 
 ### **4.4 Geometry‑Safe Mode**
@@ -212,7 +233,7 @@ Before geometry is accepted:
 - singularity markers visible  
 - integration coordinates visible  
 - traversal paths visible  
-- Auto‑Index Generator validates geometry  
+- auto‑index generator validates geometry  
 
 ---
 
@@ -222,6 +243,8 @@ Before geometry is accepted:
 Version: v1.2
 Status: Active
 Class: NDH / Geometry / Rendering Safety
+Anchor-Pin: NDH-PEP-RS-v1.0
+Registry: NDH-Pin-Registry-v1.2
 Anchor: NDH-Integration-Spec-v1.0
 ```
 
@@ -230,7 +253,7 @@ Anchor: NDH-Integration-Spec-v1.0
 ## ⭐ 8. Synthesis
 
 > **Rendering Safety Protocol v1.2 ensures NDH geometry is stable, visible, and coherent across desktop, mobile, SVG, PNG, fallback, and failure contexts.  
-It is the final safety layer before geometry production begins.**
+It is now fully anchored to NDH‑PEP‑RS‑v1.0, completing the rendering governance spine.**
 
 ---
 
