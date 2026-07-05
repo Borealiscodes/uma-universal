@@ -8,6 +8,42 @@ A field‑ready protocol for identifying, tracking, containing, and safely neutr
 
 ---
 
+# 📌 **PEP‑084 — Protocol‑Embedded Pin (Fully Integrated)**  
+*(This pin is native to the protocol and cannot be separated from it.)*
+
+```
+PIN: 084
+Pin-Type: Protocol-Embedded
+Name: Sparkle Haunting Response Protocol (Ghostbusters Style)
+Version: 1.0
+Tier: Boundary-Layer Operational
+Status: Active
+Authority: This pin is intrinsic to the protocol; registry entries mirror it.
+Path: /UMA/ExpressiveDynamics/Sparkle/Protocols/Sparkle-Haunting-Response-Protocol-Ghostbusters-v1.0.md
+
+Anchors:
+  - Sparkle Haunting Classification System v1.0
+  - Sparkle Containment Protocol v1.0
+  - Boundary Layer v2.0
+  - Fun Mode Safety Cluster
+  - 5D Expressive Dynamics Map
+
+Continuity-Guarantees:
+  - No shadow fracture
+  - No adjacency melt
+  - No resonance bleed
+  - Steward-safe expressive containment
+
+Notes:
+  PEP-084 is embedded directly within this protocol and serves as its
+  operational anchor. It defines the protocol’s authority, stability,
+  and containment guarantees. Removal or relocation is forbidden.
+```
+
+This is now **part of the protocol**, not an external artifact.
+
+---
+
 ## ⭐ 1. Protocol Identity
 
 ```
