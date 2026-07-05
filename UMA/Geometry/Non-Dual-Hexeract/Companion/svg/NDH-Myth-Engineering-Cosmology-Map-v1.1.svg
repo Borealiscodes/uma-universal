@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1600"
+  height="1000"
+  viewBox="0 0 1600 1000">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1600" height="1000" fill="#05060A"/>
+
+  <!-- Title -->
+  <text x="800" y="70"
+        fill="#F5F7FF"
+        font-family="system-ui"
+        font-size="32"
+        text-anchor="middle">
+    NDH Myth‑Engineering Cosmology Map — v1.1
+  </text>
+
+  <!-- Subtitle -->
+  <text x="800" y="110"
+        fill="#C3C7FF"
+        font-family="system-ui"
+        font-size="18"
+        text-anchor="middle">
+    Seven‑Layer NDH Dimensional Stack
+  </text>
+
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrow"
+            markerWidth="10"
+            markerHeight="10"
+            refX="8"
+            refY="3"
+            orient="auto"
+            markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#C3C7FF"/>
+    </marker>
+  </defs>
+
+  <!-- Layer positions -->
+  <!-- We stack them vertically with consistent spacing -->
+
+  <!-- Layer 0 — Awareness -->
+  <circle cx="800" cy="180" r="70" fill="#141824" stroke="#F5F7FF" stroke-width="2"/>
+  <text x="800" y="175" fill="#F5F7FF" font-family="system-ui" font-size="30" text-anchor="middle">𝒜</text>
+  <text x="800" y="205" fill="#C3C7FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Layer 0 — Awareness
+  </text>
+
+  <!-- Layer 1 — Collapse -->
+  <circle cx="800" cy="300" r="70" fill="#141824" stroke="#FFB3B3" stroke-width="2"/>
+  <text x="800" y="295" fill="#FFB3B3" font-family="system-ui" font-size="28" text-anchor="middle">C</text>
+  <text x="800" y="325" fill="#FFCFCF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Layer 1 — Collapse Field
+  </text>
+
+  <!-- Layer 2 — Adjacency -->
+  <circle cx="800" cy="420" r="70" fill="#141824" stroke="#9BE7FF" stroke-width="2"/>
+  <text x="800" y="415" fill="#9BE7FF" font-family="system-ui" font-size="28" text-anchor="middle">A</text>
+  <text x="800" y="445" fill="#CFF4FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Layer 2 — Adjacency Manifold
+  </text>
+
+  <!-- Layer 3 — Resonance -->
+  <circle cx="800" cy="540" r="70" fill="#141824" stroke="#C6FF9B" stroke-width="2"/>
+  <text x="800" y="535" fill="#C6FF9B" font-family="system-ui" font-size="28" text-anchor="middle">R</text>
+  <text x="800" y="565" fill="#E4FFD0" font-family="system-ui" font-size="14" text-anchor="middle">
+    Layer 3 — Resonance Field
+  </text>
+
+  <!-- Layer 4 — Recursion -->
+  <circle cx="800" cy="660" r="70" fill="#141824" stroke="#FFE29B" stroke-width="2"/>
+  <text x="800" y="655" fill="#FFE29B" font-family="system-ui" font-size="26" text-anchor="middle">Rᵣ</text>
+  <text x="800" y="685" fill="#FFF1C9" font-family="system-ui" font-size="14" text-anchor="middle">
+    Layer 4 — Recursive Manifold
+  </text>
+
+  <!-- Layer 5 — Singularity -->
+  <circle cx="800" cy="780" r="70" fill="#141824" stroke="#D0B3FF" stroke-width="2"/>
+  <text x="800" y="775" fill="#D0B3FF" font-family="system-ui" font-size="28" text-anchor="middle">S</text>
+  <text x="800" y="805" fill="#E7D8FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Layer 5 — Singularity Threshold
+  </text>
+
+  <!-- Layer 6 — Hexeract -->
+  <circle cx="800" cy="900" r="70" fill="#141824" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="800" y="895" fill="#FFFFFF" font-family="system-ui" font-size="26" text-anchor="middle">H₆</text>
+  <text x="800" y="925" fill="#DDE1FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Layer 6 — Hexeract Manifold
+  </text>
+
+  <!-- Vertical arrows -->
+  <line x1="800" y1="250" x2="800" y2="230" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="800" y1="370" x2="800" y2="350" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="800" y1="490" x2="800" y2="470" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="800" y1="610" x2="800" y2="590" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="800" y1="730" x2="800" y2="710" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="800" y1="850" x2="800" y2="830" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Label -->
+  <text x="800" y="980"
+        fill="#C3C7FF"
+        font-family="system-ui"
+        font-size="18"
+        text-anchor="middle">
+    NDH Dimensional Stack: 𝒜 → C → A → R → Rᵣ → S → H₆
+  </text>
+
+</svg>
+
