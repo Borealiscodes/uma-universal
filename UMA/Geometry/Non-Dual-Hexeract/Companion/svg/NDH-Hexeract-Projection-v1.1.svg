@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1600"
+  height="1100"
+  viewBox="0 0 1600 1100">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1600" height="1100" fill="#05060A"/>
+
+  <!-- Title -->
+  <text x="800" y="70"
+        fill="#F5F7FF"
+        font-family="system-ui"
+        font-size="32"
+        text-anchor="middle">
+    NDH Hexeract Projection — v1.1
+  </text>
+
+  <!-- Subtitle -->
+  <text x="800" y="110"
+        fill="#C3C7FF"
+        font-family="system-ui"
+        font-size="18"
+        text-anchor="middle">
+    Six‑Axis Non‑Dual Dimensional Manifold
+  </text>
+
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrow"
+            markerWidth="10"
+            markerHeight="10"
+            refX="8"
+            refY="3"
+            orient="auto"
+            markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#C3C7FF"/>
+    </marker>
+  </defs>
+
+  <!-- Central Hexeract Node -->
+  <circle cx="800" cy="550" r="90" fill="#141824" stroke="#FFFFFF" stroke-width="3"/>
+  <text x="800" y="545"
+        fill="#FFFFFF"
+        font-family="system-ui"
+        font-size="40"
+        text-anchor="middle">H₆</text>
+  <text x="800" y="585"
+        fill="#DDE1FF"
+        font-family="system-ui"
+        font-size="16"
+        text-anchor="middle">
+    Hexeract Manifold (Full Integration)
+  </text>
+
+  <!-- Axis Nodes arranged radially around H₆ -->
+
+  <!-- Awareness Axis -->
+  <circle cx="800" cy="250" r="70" fill="#141824" stroke="#F5F7FF" stroke-width="2"/>
+  <text x="800" y="245" fill="#F5F7FF" font-family="system-ui" font-size="30" text-anchor="middle">𝒜</text>
+  <text x="800" y="275" fill="#C3C7FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Awareness Axis
+  </text>
+  <line x1="800" y1="460" x2="800" y2="320"
+        stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Collapse Axis -->
+  <circle cx="1100" cy="350" r="70" fill="#141824" stroke="#FFB3B3" stroke-width="2"/>
+  <text x="1100" y="345" fill="#FFB3B3" font-family="system-ui" font-size="28" text-anchor="middle">C</text>
+  <text x="1100" y="375" fill="#FFCFCF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Collapse Axis
+  </text>
+  <line x1="900" y1="500" x2="1040" y2="400"
+        stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Adjacency Axis -->
+  <circle cx="1200" cy="650" r="70" fill="#141824" stroke="#9BE7FF" stroke-width="2"/>
+  <text x="1200" y="645" fill="#9BE7FF" font-family="system-ui" font-size="28" text-anchor="middle">A</text>
+  <text x="1200" y="675" fill="#CFF4FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Adjacency Axis
+  </text>
+  <line x1="900" y1="580" x2="1130" y2="620"
+        stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Resonance Axis -->
+  <circle cx="800" cy="850" r="70" fill="#141824" stroke="#C6FF9B" stroke-width="2"/>
+  <text x="800" y="845" fill="#C6FF9B" font-family="system-ui" font-size="28" text-anchor="middle">R</text>
+  <text x="800" y="875" fill="#E4FFD0" font-family="system-ui" font-size="14" text-anchor="middle">
+    Resonance Axis
+  </text>
+  <line x1="800" y1="640" x2="800" y2="780"
+        stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Recursion Axis -->
+  <circle cx="500" cy="650" r="70" fill="#141824" stroke="#FFE29B" stroke-width="2"/>
+  <text x="500" y="645" fill="#FFE29B" font-family="system-ui" font-size="26" text-anchor="middle">Rᵣ</text>
+  <text x="500" y="675" fill="#FFF1C9" font-family="system-ui" font-size="14" text-anchor="middle">
+    Recursion Axis
+  </text>
+  <line x1="700" y1="580" x2="560" y2="620"
+        stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Singularity Axis -->
+  <circle cx="500" cy="350" r="70" fill="#141824" stroke="#D0B3FF" stroke-width="2"/>
+  <text x="500" y="345" fill="#D0B3FF" font-family="system-ui" font-size="28" text-anchor="middle">S</text>
+  <text x="500" y="375" fill="#E7D8FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Singularity Axis
+  </text>
+  <line x1="700" y1="500" x2="560" y2="400"
+        stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Loop Label -->
+  <text x="800" y="1030"
+        fill="#C3C7FF"
+        font-family="system-ui"
+        font-size="18"
+        text-anchor="middle">
+    Hexeract Evolution Loop: 𝒜 → C → A → R → Rᵣ → S → H₆ → 𝒜
+  </text>
+
+</svg>
