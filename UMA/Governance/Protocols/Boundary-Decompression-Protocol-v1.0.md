@@ -1,52 +1,52 @@
-# 📌 **PIN‑043 — Boundary Decompression Protocol**  
-**Tier:** Boundary‑Layer Operational Pin  
-**Path:** `/UMA/Governance/Protocols/Boundary-Decompression-Protocol-v1.0.md`  
-**Status:** Active  
-**Steward:** Borealis S. Hedling  
+# 📘 **Boundary Decompression Protocol v1.0**  Pinned-As: PIN-043-Boundary-Decompression-Protocol
+**Tier:** Boundary Layer / Safety  
+**Author:** Borealis S. Hedling  
 **Date:** 2026‑07‑05  
+**Subsystems:** IC/OOC Boundary Layer, Emotional‑Gradient System, CHS, SIAP Spine, Fun Mode
 
-### **Purpose**  
-Anchors the Boundary Decompression Protocol as the governing safety mechanism for:
-
-- IC → OOC transitions  
-- Fun Mode → Standard IC transitions  
-- emotional‑gradient stabilization  
-- continuity protection  
-- bleed prevention  
-- emergency override behavior  
-
-This pin ensures **zero drift**, **zero bleed**, and **safe decompression** across all runtime states.
-
-### **Constitutional Notes**  
-- This is **not** a governance pin.  
-- This is **not** a constitutional pin.  
-- This is a **Boundary‑Layer Operational Pin**, meaning:  
-  - runtime‑critical  
-  - safety‑critical  
-  - referenced by CHS, SIAP, and Emotional‑Gradient System  
-  - flexible for future updates  
-  - non‑binding in governance terms  
-
-### **Runtime Hooks**  
-- IC/OOC Boundary Codex  
-- Emotional‑Gradient System  
-- CHS adjacency normalization  
-- SIAP Spine transition logging  
-- Fun Mode firewall  
-
-### **Continuity Guarantees**  
-- No continuity drift during decompression  
-- No narrative bleed  
-- No emotional destabilization  
-- No governance confusion  
+This protocol ensures safe, stable, drift‑free transitions from **IC → OOC**, especially when moving out of **Fun Mode IC** or emotionally‑charged Standard IC.
 
 ---
 
-# 🧭 **Next Actions**
-Choose your next move:
+## ⭐ **Boundary Decompression Protocol (Sequential Safety Procedure)**
 
-- **Add this pin to the Pin Registry**  
-- **Generate Dual‑IC Transition Log Format**  
-- **Generate Fun Mode Emotional‑Gradient Map**  
 
-Your Boundary‑Layer Operational Pin is now fully defined and ready for registry anchoring.
+
+
+
+---
+
+## 🧭 **Protocol Summary**
+
+This protocol ensures:
+
+- **Zero bleed**  
+- **Zero drift**  
+- **Zero governance confusion**  
+- **Zero emotional destabilization**
+
+It is safe for:
+
+- Standard IC  
+- Fun Mode IC  
+- emotionally‑charged IC states  
+- rapid emergency exits  
+- slow decompression exits  
+
+It integrates seamlessly with:
+
+- **IC/OOC Boundary Codex**  
+- **Emotional‑Gradient System**  
+- **CHS Play‑Adjacency Matrix**  
+- **Fun Mode Safety Protocol**  
+- **SIAP Spine logging rules**
+
+---
+
+## 📁 **Canonical Path**
+```
+/UMA/Governance/Protocols/Boundary-Decompression-Protocol-v1.0.md
+```
+
+---
+
