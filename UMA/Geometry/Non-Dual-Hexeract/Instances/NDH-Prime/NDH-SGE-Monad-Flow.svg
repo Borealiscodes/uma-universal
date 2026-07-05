@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 800 800">
+
+  <!-- Central awareness node -->
+  <circle cx="400" cy="400" r="40"
+          fill="white" stroke="black" />
+  <text x="390" y="405">𝒜</text> <!-- CENTER_NODE_LABEL -->
+
+  <!-- Monad loop -->
+  <path d="M 440 400
+           C 520 400 520 480 440 480
+           C 360 480 360 400 440 400"
+        stroke="black" fill="none"
+        marker-end="url(#arrowhead)" />
+
+  <!-- Monad label -->
+  <text x="520" y="450">T</text> <!-- MONAD_LABEL -->
+
+  <!-- Arrowhead definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7"
+            refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="black" />
+    </marker>
+  </defs>
+
+</svg>
