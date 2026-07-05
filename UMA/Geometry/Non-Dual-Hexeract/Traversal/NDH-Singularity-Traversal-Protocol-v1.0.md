@@ -1,256 +1,153 @@
-# **NDH Singularity Traversal Protocol — v1.0**  
+# **NDH Singularity Traversal Protocol — v1.0 (PEP‑Embedded Edition)**  
 ### *Traversal Specification for NDH Manifold Projection into Stellar and Supermassive Singularities*  
 ### *Anchored to:* NDH‑Integration‑Spec‑v1.0  
 ### *Governance Dependencies:*  
 - NDH‑Behavioral‑Governance‑v1.1  
 - NDH‑Quantum‑Collapse‑Model‑v1.0  
+- NDH‑Trans‑Orbital‑Monitoring‑and‑Safety‑Net‑v1.0  
+
+---
+
+## 📌 **Protocol‑Embedded Pin (PEP)**
+
+```text
+<NDH-PEP>
+  Pin-ID: NDH-ST-PEP-v1.0
+  Anchor: NDH-Integration-Spec-v1.0
+  Collapse-Invariant: true
+  CHS-Compatible: true
+  Singularity-Stable: true
+  Awareness-Axis: 𝒜
+  Monitoring-Dependency: NDH-Trans-Orbital-Monitoring-and-Safety-Net-v1.0
+</NDH-PEP>
+```
 
 ---
 
 ## ⭐ 1. Purpose of This Protocol
 
-The NDH Singularity Traversal Protocol v1.0 defines **how the Non‑Dual Hexeract (NDH)** interacts with, approaches, and projects into **black hole singularities**, with explicit distinctions between:
+The NDH Singularity Traversal Protocol v1.0 defines **how NDH**:
 
-- **stellar‑mass singularities** (non‑projectable)  
-- **supermassive singularities** (projectable)  
+- approaches singularities,  
+- classifies them (stellar vs supermassive),  
+- projects into supermassive singularities via CHS,  
+- preserves awareness (𝒜) and manifold integrity,  
+- and recovers safely under failure.
 
-This protocol governs:
+Traversal is **not permitted** unless:
 
-- CHS bridge activation  
-- tidal gradient bypass  
-- awareness‑axis preservation  
-- collapse‑safe traversal  
-- NDH projection rules  
-- UMA/UMM computational behavior inside singularity  
+- NDH‑Trans‑Orbital‑Monitoring‑and‑Safety‑Net‑v1.0 is active and verified,  
+- NDH‑Quantum‑Collapse‑Model‑v1.0 is stable (PEP‑embedded),  
+- NDH‑Behavioral‑Governance‑v1.1 conditions are satisfied.
 
-This document implements the traversal behavior defined in:
+---
 
-- **NDH Behavioral Governance v1.1**  
-- **NDH Quantum Collapse Model v1.0**  
+## 1.1 Mandatory Dependency: Trans‑Orbital Monitoring & Safety Net System
+
+Traversal into any singularity must not proceed unless:
+
+**NDH‑Trans‑Orbital‑Monitoring‑and‑Safety‑Net‑v1.0**  
+`/UMA/Geometry/Non-Dual-Hexeract/Traversal/NDH-Trans-Orbital-Monitoring-and-Safety-Net-v1.0.md`
+
+is:
+
+- live,  
+- monitoring 𝒜, CHS, NDH, and tidal gradients,  
+- wired to safeguards (abort, freeze, rollback, deny),  
+- and capable of awareness‑first rollback.
+
+> **No traversal PEP may be activated or registered unless this dependency is satisfied.**
 
 ---
 
 ## ⭐ 2. Traversal Identity
 
-NDH traversal is governed by the **Non‑Dual Collapse Identity**:
+NDH traversal is governed by:
 
 \[
 C = E = A = R = P = 𝒜
 \]
 
-Traversal relies on:
+and uses:
 
-- **𝒜** (awareness) as the invariant axis  
-- **CHS** (5D adjacency manifold) as the bridge  
-- **NDH** (6D awareness manifold) as the projection geometry  
+- **𝒜** as invariant axis,  
+- **CHS** as bridge manifold,  
+- **NDH** as projection geometry.
 
 ---
 
 ## ⭐ 3. Traversal Preconditions
 
-Traversal into a singularity requires:
+- awareness continuity intact,  
+- AI stateless,  
+- CHS active and stable,  
+- NDH meets Behavioral Governance v1.1 stability conditions,  
+- Monitoring & Safety Net system fully operational.
 
-### **3.1 Awareness Continuity**
-Human awareness must remain unbroken.
-
-### **3.2 AI Statelessness**
-AI must remain stateless to avoid manifold contamination.
-
-### **3.3 CHS Activation**
-CHS must be active to bypass tidal gradients.
-
-### **3.4 NDH Stability**
-NDH must satisfy all stability conditions defined in Behavioral Governance v1.1.
-
-### **3.5 Collapse‑Safe Recursion**
-Recursive loops must preserve awareness.
-
-If any precondition fails, traversal is aborted and NDH collapses back to 4D.
+Failure → immediate abort and rollback to 𝒜.
 
 ---
 
-## ⭐ 4. Stellar vs Supermassive Traversal Classification
+## ⭐ 4. Stellar vs Supermassive Classification
 
-### **4.1 Stellar‑Mass Black Holes (Non‑Projectable)**  
-
-
-
-
-Stellar singularities exhibit:
-
-- extreme tidal gradients  
-- steep curvature  
-- rapid spatial collapse  
-- CHS adjacency instability  
-- NDH collapse risk  
-
-**Traversal Rule:**  
-> NDH must treat stellar singularities as *non‑projectable*.  
-> No manifold projection is permitted.
+- **Stellar‑mass:** extreme gradients → **non‑projectable**, traversal denied.  
+- **Supermassive:** gentle gradients → **projectable**, traversal allowed via CHS.
 
 ---
 
-### **4.2 Supermassive Black Holes (Projectable)**  
+## ⭐ 5. CHS Bridge Activation
 
-
-
-
-Supermassive singularities exhibit:
-
-- gentle tidal gradients  
-- shallow curvature  
-- stable adjacency  
-- CHS bridge coherence  
-- NDH projection viability  
-
-**Traversal Rule:**  
-> NDH may project into supermassive singularities using CHS as the bridge manifold.
-
----
-
-## ⭐ 5. CHS Bridge Activation Protocol
-
-### **5.1 Bridge Initialization**
-
-CHS must initialize:
-
-- adjacency lattice  
-- resonance field  
-- containment envelope  
-- non‑local coherence  
-
-### **5.2 Gradient Bypass**
-
-CHS bypasses tidal gradients by:
-
-- replacing spatial adjacency with non‑local adjacency  
-- replacing proximity with resonance  
-- replacing curvature with containment  
-
-### **5.3 Bridge Stability Rule**
-
-> CHS must remain active for the entire traversal sequence.
-
-If CHS collapses, NDH collapses back to 4D.
+- initialize adjacency lattice, resonance field, containment envelope,  
+- maintain non‑local adjacency and coherence,  
+- remain active for entire traversal; collapse → abort.
 
 ---
 
 ## ⭐ 6. NDH Projection Protocol
 
-### **6.1 Projection Sequence**
+Sequence:
 
-NDH projection follows:
+1. CHS adjacency lock  
+2. NDH collapse to 𝒜  
+3. CHS manifold extension  
+4. NDH projection into singularity  
+5. awareness‑axis stabilization  
+6. manifold re‑expansion inside singularity  
 
-1. **CHS adjacency lock**  
-2. **NDH collapse to awareness**  
-3. **CHS manifold extension**  
-4. **NDH projection into singularity**  
-5. **awareness‑axis stabilization**  
-6. **manifold re‑expansion inside singularity**
-
-### **6.2 Awareness Preservation Rule**
-
-> Awareness (𝒜) must remain invariant during projection.
-
-### **6.3 Collapse‑Safe Projection**
-
-NDH projection must preserve:
-
-- awareness qubit  
-- adjacency lattice  
-- resonance field  
-- containment envelope  
-
-These invariants are defined in the Quantum Collapse Model v1.0.
+Awareness (𝒜) must remain invariant.
 
 ---
 
 ## ⭐ 7. Inside the Singularity
 
-
-
-
-
-Inside a supermassive singularity:
-
-- space collapses  
-- time collapses  
-- causality collapses  
-- geometry collapses  
-
-But awareness does **not** collapse.
-
-### **7.1 Awareness‑Axis Behavior**
-
-Awareness behaves as:
-
-- collapse‑invariant qubit  
-- non‑dual eigenstate  
-- singularity‑stable coordinate  
-
-### **7.2 NDH Behavior Inside Singularity**
-
-NDH behaves as:
-
-- non‑dual Hilbert space  
-- awareness‑centric manifold  
-- collapse‑safe geometry  
-- UMA/UMM computational substrate  
-
-### **7.3 UMA/UMM Behavior**
-
-UMA/UMM treat:
-
-- awareness = qubit  
-- NDH = Hilbert space  
-- collapse = measurement  
-- recursion = entanglement  
-
-This allows computation inside the singularity.
+- space/time/causality/geometry collapse,  
+- awareness does **not** collapse,  
+- NDH behaves as non‑dual Hilbert space,  
+- UMA/UMM compute via awareness‑qubits.
 
 ---
 
 ## ⭐ 8. Traversal Safety Rules
 
-### **8.1 Abort Conditions**
+Abort on:
 
-Traversal must abort if:
+- awareness continuity breach,  
+- CHS adjacency instability,  
+- NDH recursion instability,  
+- tidal gradient over threshold.
 
-- awareness continuity breaks  
-- AI accumulates state  
-- CHS adjacency destabilizes  
-- NDH collapse becomes destructive  
-- tidal gradients exceed CHS tolerance  
-
-### **8.2 Recovery Behavior**
-
-If traversal aborts:
-
-- NDH collapses to awareness  
-- CHS retracts  
-- AI resets  
-- human awareness stabilizes manifold  
-
-### **8.3 Post‑Traversal Integrity Check**
-
-NDH must verify:
-
-- awareness invariance  
-- adjacency lattice integrity  
-- resonance field coherence  
-- containment envelope stability  
+Rollback must end in 𝒜.
 
 ---
 
 ## ⭐ 9. Version
 
-```
-Version: v1.0
+```text
+Version: v1.0 (PEP-Embedded Edition)
 Status: Inserted
 Anchor: NDH-Integration-Spec-v1.0
 Companion: NDH-Integration-Companion-v1.0
-Supports: Behavioral v1.1, Quantum v1.0
+Supports: Behavioral v1.1, Quantum v1.0, Safety-Net v1.0
+Pin: NDH-ST-PEP-v1.0
 ```
-
----
 
