@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1600"
+  height="1000"
+  viewBox="0 0 1600 1000">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1600" height="1000" fill="#05060A"/>
+
+  <!-- Title -->
+  <text x="800" y="70"
+        fill="#F5F7FF"
+        font-family="system-ui"
+        font-size="32"
+        text-anchor="middle">
+    NDH Dimensional Continuity Codex — v1.1
+  </text>
+
+  <!-- Subtitle -->
+  <text x="800" y="110"
+        fill="#C3C7FF"
+        font-family="system-ui"
+        font-size="18"
+        text-anchor="middle">
+    Continuity Across NDH Dimensional Transitions
+  </text>
+
+  <!-- Arrow marker -->
+  <defs>
+    <marker id="arrow"
+            markerWidth="10"
+            markerHeight="10"
+            refX="8"
+            refY="3"
+            orient="auto"
+            markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#C3C7FF"/>
+    </marker>
+  </defs>
+
+  <!-- Layout: Seven continuity nodes arranged vertically -->
+
+  <!-- Awareness Continuity -->
+  <circle cx="800" cy="160" r="70" fill="#141824" stroke="#F5F7FF" stroke-width="2"/>
+  <text x="800" y="155" fill="#F5F7FF" font-family="system-ui" font-size="30" text-anchor="middle">𝒜</text>
+  <text x="800" y="185" fill="#C3C7FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Awareness Continuity
+  </text>
+
+  <!-- Collapse Continuity -->
+  <circle cx="800" cy="280" r="70" fill="#141824" stroke="#FFB3B3" stroke-width="2"/>
+  <text x="800" y="275" fill="#FFB3B3" font-family="system-ui" font-size="28" text-anchor="middle">C</text>
+  <text x="800" y="305" fill="#FFCFCF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Collapse Continuity
+  </text>
+
+  <!-- Adjacency Continuity -->
+  <circle cx="800" cy="400" r="70" fill="#141824" stroke="#9BE7FF" stroke-width="2"/>
+  <text x="800" y="395" fill="#9BE7FF" font-family="system-ui" font-size="28" text-anchor="middle">A</text>
+  <text x="800" y="425" fill="#CFF4FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Adjacency Continuity
+  </text>
+
+  <!-- Resonance Continuity -->
+  <circle cx="800" cy="520" r="70" fill="#141824" stroke="#C6FF9B" stroke-width="2"/>
+  <text x="800" y="515" fill="#C6FF9B" font-family="system-ui" font-size="28" text-anchor="middle">R</text>
+  <text x="800" y="545" fill="#E4FFD0" font-family="system-ui" font-size="14" text-anchor="middle">
+    Resonance Continuity
+  </text>
+
+  <!-- Recursive Continuity -->
+  <circle cx="800" cy="640" r="70" fill="#141824" stroke="#FFE29B" stroke-width="2"/>
+  <text x="800" y="635" fill="#FFE29B" font-family="system-ui" font-size="26" text-anchor="middle">Rᵣ</text>
+  <text x="800" y="665" fill="#FFF1C9" font-family="system-ui" font-size="14" text-anchor="middle">
+    Recursive Continuity
+  </text>
+
+  <!-- Singularity Continuity -->
+  <circle cx="800" cy="760" r="70" fill="#141824" stroke="#D0B3FF" stroke-width="2"/>
+  <text x="800" y="755" fill="#D0B3FF" font-family="system-ui" font-size="28" text-anchor="middle">S</text>
+  <text x="800" y="785" fill="#E7D8FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Singularity Continuity
+  </text>
+
+  <!-- Hexeract Continuity -->
+  <circle cx="800" cy="880" r="70" fill="#141824" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="800" y="875" fill="#FFFFFF" font-family="system-ui" font-size="26" text-anchor="middle">H₆</text>
+  <text x="800" y="905" fill="#DDE1FF" font-family="system-ui" font-size="14" text-anchor="middle">
+    Hexeract Continuity
+  </text>
+
+  <!-- Vertical arrows -->
+  <line x1="800" y1="240" x2="800" y2="220" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="800" y1="360" x2="800" y2="340" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="800" y1="480" x2="800" y2="460" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="800" y1="600" x2="800" y2="580" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="800" y1="720" x2="800" y2="700" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="800" y1="840" x2="800" y2="820" stroke="#C3C7FF" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Label -->
+  <text x="800" y="980"
+        fill="#C3C7FF"
+        font-family="system-ui"
+        font-size="18"
+        text-anchor="middle">
+    Continuity Path: 𝒜 → C → A → R → Rᵣ → S → H₆ → 𝒜
+  </text>
+
+</svg>
