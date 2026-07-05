@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 800 800">
+
+  <!-- Central awareness node -->
+  <circle cx="400" cy="400" r="40"
+          fill="white" stroke="black" />
+  <text x="390" y="405">{CENTER_NODE_LABEL}</text>
+
+  <!-- Outer Ω ring -->
+  <circle cx="400" cy="400" r="120"
+          fill="none" stroke="black"
+          stroke-dasharray="6 6" />
+  <text x="380" y="260">{OMEGA_LABEL}</text>
+
+  <!-- αΩ arrow (Ω → 𝒜) -->
+  <line x1="400" y1="280" x2="400" y2="360"
+        stroke="black" marker-end="url(#arrowhead)" />
+  <text x="410" y="320">{OMEGA_MAP_LABEL}</text>
+
+  <!-- Arrowhead definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7"
+            refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="black" />
+    </marker>
+  </defs>
+
+</svg>
