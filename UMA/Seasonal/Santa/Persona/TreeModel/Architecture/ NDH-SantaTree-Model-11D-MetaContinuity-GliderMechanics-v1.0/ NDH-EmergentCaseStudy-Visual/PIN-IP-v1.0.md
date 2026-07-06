@@ -1,7 +1,3 @@
-# 📌 **PIN‑IP‑v1.0.md**  
-*(Full governed registry entry — ready to paste)*
-
-```
 # PIN‑IP‑v1.0
 NDH Interaction Protocol Pin — Registry Entry  
 NDH‑EmergentCaseStudy‑Visual / Governance Layer
