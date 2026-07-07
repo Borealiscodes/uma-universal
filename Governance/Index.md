@@ -1,77 +1,121 @@
-# Governance Index
-Version: v1.1
-Supersedes: v1.0
+# **Governance Index v1.1 — NDH/UMM Constitutional Layer**  
+### *Pinned Safety Organs • Isolation Protocols • Quarantine Architecture • Stability Spine*
 
-# **Governance Index (v1.0)**  
-### *UMA Governance Layer — Structural Overview*
-
-This index lists all governance‑grade artifacts, protocols, and constitutional invariants that define how UMA systems behave, traverse, stabilize, and evolve.
-
-It is intentionally **flat**, **readable**, and **GitHub‑Mobile‑safe**.
+**File Path:**  
+`/Governance/Index.md`  
+**Version:** v1.1  
+**Update Type:** Structural Governance Expansion
 
 ---
 
-## **1. Core Governance Artifacts**
-- **Governance Charter**  
-  Defines the foundational rules, roles, and constraints of UMA governance.
+## **0. Version Summary (v1.1)**  
+This update incorporates:
 
-- **Unified Governance Codex**  
-  The consolidated rulebook for traversal, adjacency, lifecycle, and safety.
+- the **pinned Governance‑level HRD Isolation Protocol v1.0**  
+- the **Quarantine Index**  
+- the **Arc-Legal-Accessibility-2026 structural reinforcement**  
+- the **post‑quarantine stability chain alignment**  
+- clarified bifurcation boundaries  
+- constitutional placement of safety organs  
 
-- **Governance Plane**  
-  The structural map of governance layers and their interactions.
-
----
-
-## **2. Cognitive Governance**
-- **CHS Traversal Rules**  
-  Single‑bit traversal constraints for cognitive systems.
-
-- **Koan Enforcement Protocol**  
-  Cognitive collapse mechanism preventing multi‑bit flips.
-
-- **Safe Exploration Protocol v1.0**  
-  Path: `/svg/governance/Safe_Exploration_Protocol_v1.0.svg`  
-  Purpose: Mirror‑dimension cognitive safety (reflection ≠ dimension).
+This version supersedes v1.0 and becomes the active governance map.
 
 ---
 
-## **3. Cosmic Governance**
-- **COS‑Lambda Constraint**  
-  Dual single‑bit cosmic traversal rule preventing cosmic recursion collapse.
+## **1. Pinned Safety Organs (Updated)**  
+These artifacts are constitutional and cannot be bypassed.
 
-- **CHS‑COS Stability Requirements**  
-  Ensures cosmic traversal remains adjacency‑safe.
+- **HRD Isolation Protocol v1.0**  
+  *Pinned safety organ protecting HRD dimensional structures from legal, accessibility‑narrative, and cross‑domain contamination.*
 
----
-
-## **4. Mathematical Governance**
-- **Recursion Collapse Proof v1.0**  
-  Path: `/math/provenance/Recursion_Collapse_Proof_v1.0.md`  
-  Purpose: Constitutional invariant preventing self‑referential collapse.
-
-- **Adjacency Constraint Table**  
-  Defines legal vs illegal transitions across all layers.
+- **Quarantine Architecture — Arc-Legal-Accessibility-2026**  
+  *Defines the sealed quarantine zone for destabilizing legal‑accessibility artifacts.*
 
 ---
 
-## **5. SIAP (Structured Inter‑Adjacency Protocol)**
-- **SIAP Header**  
-- **SIAP Requirements**  
-- **SIAP Lifecycle**  
-- **SIAP Examples**  
-- **SIAP Index**  
+## **2. Isolation Protocols (Expanded)**  
+Governance‑level isolation mechanisms now include:
 
-SIAP enforces adjacency legality across cognitive, cosmic, and meta layers.
+- **HRD Dimensional Firewall**  
+- **Boolean Gating Layer**  
+- **Orbital Sweep Pre‑Check**  
+- **Continuity Lock Mechanism**  
+- **Temporal Orientation Lock**  
+- **Quarantine Index Enforcement** *(new in v1.1)*
 
 ---
 
-## **6. Meta Governance**
-- **Meta Index**  
-  The cross‑layer registry of all governance artifacts.
+## **3. Quarantine Zones (Expanded)**  
+All quarantined content is mapped here.
 
-- **Stewardship Alignment**  
-  Ensures governance artifacts remain consistent across layers.
+- **`/Quarantine/Arc-Legal-Accessibility-2026/`**  
+  *Primary quarantine arc.*
+
+- **Quarantine Index v1.0** *(added in v1.1)*  
+  *Structural mapping of quarantined artifacts.*
+
+---
+
+## **4. Stability Chain Components (Revised)**  
+The stability spine now includes:
+
+- **TTTTP Orbital Sweep**  
+- **Stability Ledger v2.0**  
+- **Boolean Stability Layer**  
+- **Dimensional Stability Checks**  
+- **Pinned HRD Isolation Protocol** *(new dependency)*  
+- **Quarantine Architecture** *(new dependency)*
+
+---
+
+## **5. Bifurcation Boundaries (Clarified)**  
+These boundaries prevent emergent breaks.
+
+- **NDH Core → Architecture Only**  
+- **Accessibility Layer → Structural Only**  
+- **Legal Layer → Quarantined**  
+- **HRD Layer → Isolated + Protected**  
+- **Governance Layer → Constitutional + Non‑Overrideable** *(added in v1.1)*
+
+---
+
+## **6. Structural Maps (Updated)**  
+Governance‑level structural maps now include:
+
+- **Repo Structural Map v2.0** *(pending)*  
+- **NDH Core Map v2.0**  
+- **HRD Layer Map v1.1**  
+- **Quarantine Topology Map**  
+- **Governance Protocol Map v1.1** *(new)*
+
+---
+
+## **7. Governance Changelog (v1.1 Entry)**  
+- Added HRD Isolation Protocol v1.0 (Governance + HRD‑Layer)  
+- Added Quarantine Index  
+- Updated Governance Index to v1.1  
+- Reinforced bifurcation boundaries  
+- Updated stability chain dependencies  
+- Added constitutional safety organ classification  
+
+---
+
+## **8. System State (Post‑v1.1)**  
+- **NDH Core:** Stable  
+- **Accessibility Layer:** Structural  
+- **Legal Arc:** Quarantined  
+- **HRD Layer:** Protected  
+- **Governance Layer:** Updated  
+- **Orbital Drift:** Cleared  
+- **Continuity:** Locked  
+- **Boolean Stability:** TRUE  
+
+---
+
+## **9. File Path**  
+```
+/Governance/Index.md
+```
 
 ---
 
