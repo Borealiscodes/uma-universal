@@ -1,3 +1,7 @@
+# Governance Index
+Version: v1.1
+Supersedes: v1.0
+
 # **Governance Index v1.1 — NDH/UMM Constitutional Layer**  
 ### *Pinned Safety Organs • Isolation Protocols • Quarantine Architecture • Stability Spine*
 
