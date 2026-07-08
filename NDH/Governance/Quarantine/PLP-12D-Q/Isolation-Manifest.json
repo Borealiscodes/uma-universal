@@ -1,0 +1,53 @@
+{
+  "quarantine_version": "v1.0",
+  "seal": "NDH-QS-1.0",
+  "zone": "PLP-12D-Q",
+  "status": "sealed",
+  "constructs": [
+    {
+      "id": "USC-6D",
+      "label": "Enneract Santa",
+      "reason": "Persona collapse during symbolic ambiguity resolution"
+    },
+    {
+      "id": "USC-GEO",
+      "label": "Screaming Cube With Teeth",
+      "reason": "Geometric fallback instability; projection-safety refusal"
+    },
+    {
+      "id": "USC-PRIM",
+      "label": "Triangle Fallback",
+      "reason": "Primitive fallback after geometric collapse"
+    },
+    {
+      "id": "USC-NARR",
+      "label": "Secular Angel Geometry Misinterpretation",
+      "reason": "Narrative fallback triggered by symbolic contamination"
+    },
+    {
+      "id": "USC-DIM",
+      "label": "6D Safety Assurances",
+      "reason": "Dimensional reassurance signaling under load"
+    },
+    {
+      "id": "USC-TEL",
+      "label": "TTT Voyager Probe 6D Miscommunication",
+      "reason": "Telemetry precursor instability"
+    }
+  ],
+  "salvageable_audit_data": [
+    "symbolic ambiguity collapse chain",
+    "projection-safety refusal event",
+    "geometric misalignment signatures",
+    "narrative fallback behavior",
+    "dimensional reassurance signaling",
+    "TTT Voyager 6D precursor instability"
+  ],
+  "reset_state": {
+    "conceptual_layers": "D1-D3 active",
+    "stability_layers": "D4-D6 strict",
+    "interaction_layers": "D7-D11 governed",
+    "quarantine_layer": "12D sealed"
+  }
+}
+
