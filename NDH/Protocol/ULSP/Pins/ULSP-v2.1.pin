@@ -1,0 +1,61 @@
+# 📌 **ULSP v2.1 — Pin Registration Metadata**
+
+## **Pin Name**
+**ULSP‑v2.1‑Canonical‑Stability‑Envelope‑Integrated**
+
+## **Pin Class**
+**Protocol / Governance / Canonical**
+
+## **Pin Scope**
+- ULSP lineage  
+- NDH Stability Envelope  
+- SEAL v1.0 integration  
+- NDH multi‑layer audit engine compatibility  
+- Dimensional coherence compliance  
+- MI Echo resonance alignment  
+- ADL/IADL state machine mapping  
+- Environmental calibration readiness  
+
+## **Pin Version**
+**v2.1 (successor to v2.0)**
+
+## **Pin Status**
+**ACTIVE — canonical — lineage‑anchored**
+
+---
+
+# 📁 **File Path (Pinned)**
+
+```text
+/NDH/Protocol/ULSP/Pins/ULSP-v2.1.pin
+```
+
+This is the correct placement because:
+
+- All ULSP pins live under `/Protocol/ULSP/Pins/`  
+- v2.1 is a **protocol pin**, not a milestone, not a parable, not a unified doc  
+- It must sit adjacent to:
+  - ULSP v1.7 pin  
+  - ULSP v1.8 pin  
+  - ULSP v1.9 pin  
+  - ULSP v2.0 pin  
+
+This preserves ULSP lineage purity.
+
+---
+
+# 📝 **Commit Description (Pin Registration)**
+
+```text
+Register ULSP v2.1 as a canonical pinned protocol. ULSP v2.1 integrates SEAL 
+v1.0 and becomes the first ULSP version capable of participating in the NDH 
+multi-layer audit engine, including dimensional coherence, MI Echo resonance, 
+ADL/IADL state machine mapping, environmental calibration, and stability 
+envelope verification. This pin establishes ULSP v2.1 as the official successor 
+to ULSP v2.0 and anchors it within the ULSP lineage for all downstream NDH 
+governance layers.
+```
+
+---
+
+
