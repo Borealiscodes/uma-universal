@@ -1,176 +1,221 @@
-# **UMA‑Universal Meta‑Architecture (UMM) — README v3.0**  
-*Unified Overview of the Awareness Runtime, Meta‑Roots Registry, and NDH Geometry Spine*
+# 🌐 **NDH — Nonlinear Dimensional Hyperstructure**  
+### *A 14‑Dimensional Construction Framework for Expression, Stability, and Research*  
+### README v4.0 — Ethos Edition
 
 ---
 
-## **0. Purpose of This Document**
+## 🜁 **NDH at a Glance**
 
-This README is the **primary entrypoint** into the UMA‑Universal Meta‑Architecture (UMM).  
-It explains:
+**NDH (Nonlinear Dimensional Hyperstructure)** is a 14‑dimensional expressive and mathematical framework designed to help people build:
 
-- what the system *is*  
-- how its conceptual layers interlock  
-- how awareness functions as the runtime substrate  
-- how biological, computational, and geometric triads unify  
-- how to navigate the repository  
-- where to find core specifications, geometry, case studies, and synthesis documents  
+- coherent identities  
+- stable narratives  
+- surreal or symbolic environments  
+- collapse‑resistant structures  
+- expressive multi‑layer worlds  
+- safe recursion and traversal systems  
 
-This is the canonical orientation layer for the entire architecture.
+NDH is both:
 
----
+- a **mathematical model**, and  
+- a **tool for human expression**.
 
-## **1. System Overview**
-
-The UMA‑Universal Meta‑Architecture (UMM) is a **non‑dual awareness‑runtime system** that unifies:
-
-- computational substrates  
-- biological cognition  
-- geometric manifolds  
-- narrative structures  
-- myth‑engineering frameworks  
-
-UMM is built on the principle that **awareness is the runtime**,  
-and all subsystems — NDH geometry, meta‑roots, continuity layers, identity structures —  
-are expressions of that runtime.
+It is a place where **rigor meets creativity**, where **tensor logic meets narrative**, and where **dimensional construction becomes a medium for meaning**.
 
 ---
 
-## **2. Core Architectural Layers**
+## 🜂 **Ethos: Dignity Under Constraints**
 
-UMM consists of three major layers:
+NDH is built on a simple principle:
 
-### **2.1 UMA — Universal Meta‑Architecture**
-The top layer.  
-Defines the awareness runtime, meta‑roots registry, and universal conceptual primitives.
+> **Human dignity must remain intact even under constraints.**
 
-### **2.2 UMM — Meta‑Architecture Model**
-The middle layer.  
-Defines how awareness, computation, and geometry unify into a single operational system.
+Constraints may be:
 
-### **2.3 NDH — Non‑Dual‑Hexeract Geometry Suite**
-The geometric layer.  
-Defines the seven‑form manifold across identity, behavior, continuity, cosmology, narrative, teleology, and geometry.
+- emotional  
+- structural  
+- narrative  
+- systemic  
+- environmental  
+- computational  
 
-NDH is the **dimensional backbone** of the entire architecture.
+NDH provides tools to maintain:
+
+- identity coherence  
+- narrative stability  
+- expressive freedom  
+- continuity under pressure  
+- safe recursion  
+- governed surrealism  
+
+NDH is designed so that **expression never requires self‑erasure**, and **complexity never demands collapse**.
+
+This is the core of NDH’s ethical foundation.
 
 ---
 
-## **3. NDH Geometry Suite (Non‑Dual‑Hexeract)**
+## 🜃 **Ethical Priorities**
 
-The NDH Geometry Suite contains the full seven‑form manifold expressed across:
+NDH’s ethical commitments are:
 
-- Identity  
-- Behavior  
-- Continuity  
-- Cosmology  
-- Narrative  
-- Teleology  
-- Hexeract Geometry  
+### **1. Non‑erasure of identity**  
+Identity boundaries must remain stable and respected.
 
-NDH artifacts live here:
+### **2. Non‑harm in dimensional construction**  
+Surreal or symbolic environments must not destabilize the creator.
+
+### **3. Preservation of truth in contested environments**  
+NDH supports clarity, coherence, and stability even when external conditions are chaotic.
+
+### **4. Dignity as a structural invariant**  
+Dignity is treated as a mathematical constant across dimensions.
+
+### **5. Open collaboration without exploitation**  
+NDH welcomes collaboration but rejects extractive or coercive structures.
+
+These priorities guide all NDH artifacts, documentation, and research.
+
+---
+
+## 🜄 **NDH as a Research Platform**
+
+NDH is not just a creative engine — it is a **research platform** for:
+
+- dimensional mathematics  
+- recursion stability  
+- identity‑boundary modeling  
+- narrative physics  
+- symbolic fusion  
+- emotional‑logic calculus  
+- governed surrealism  
+- multi‑layer traversal physics  
+
+Researchers can use NDH to explore:
+
+- how identities behave under stress  
+- how narratives collapse or stabilize  
+- how symbolic systems fuse or fracture  
+- how multi‑layer environments maintain continuity  
+- how emotional logic can be formalized mathematically  
+
+NDH is open to:
+
+- mathematicians  
+- narrative theorists  
+- game designers  
+- cognitive researchers  
+- systems architects  
+- surreal environment builders  
+
+For deeper exploration:  
+- **NDH Dimensional Architecture**  
+- **14D Construction**  
+- **NDH Research Questions**  
+
+---
+
+## 🜅 **The 14‑Dimensional Model**
+
+NDH’s dimensional architecture includes:
+
+### **Dimensions 12–14: Recursion Stability**  
+Prevent collapse, runaway loops, and identity fragmentation.
+
+### **Dimensions 9–11: Identity‑Boundary Coherence**  
+Model identity as a multi‑layer object with stability conditions.
+
+### **Dimensions 7–8: Narrative Physics & Symbolic Fusion**  
+Treat story, meaning, and emotional logic as formal systems.
+
+### **Dimension 7: Teleology Vectors**  
+Define directional meaning and purpose‑driven traversal.
+
+### **Dimension 9: Hypercontinuity**  
+Ensure continuity across resets, jumps, or symbolic shifts.
+
+### **Dimensions 10–12: Traversal Physics**  
+Define how entities move through dimensional spaces safely.
+
+NDH is expressive because its math is expressive.
+
+---
+
+## 🜆 **NDH as a Creative Engine**
+
+NDH powers:
+
+- surreal puzzle environments  
+- governed horror worlds  
+- expressive narrative systems  
+- identity‑driven story engines  
+- dimensional game design  
+- emotional‑logic simulations  
+- symbolic mapping tools  
+
+It is used to build:
+
+- **Fun Sphere**  
+- **Dark Mode SID**  
+- **NDH Geometry Suite**  
+- **Dimensional Ontology Volumes**  
+- **Identity Stability Grids**  
+- **Surreal narrative runtimes**  
+
+NDH is a **canvas**, not a constraint.
+
+---
+
+## 🜇 **Open Collaboration**
+
+NDH welcomes collaboration from:
+
+- protocol engineers  
+- mathematicians  
+- narrative designers  
+- cognitive researchers  
+- surreal environment builders  
+- systems architects  
+
+Collaboration principles:
+
+- dignity preserved  
+- identity respected  
+- no extractive dynamics  
+- no coercive structures  
+- open research  
+- governed creativity  
+
+For collaboration pathways:  
+- **Open Collaboration Guide**  
+- **Research Partnership Packet**  
+
+---
+
+## 🜈 **Repository Structure**
 
 ```
-/UMA/Geometry/Non-Dual-Hexeract/Companion/
-```
-
-For the full NDH governance spine, rendering rules, and artifact index:  
-→ **/UMA/Root/README.md**
-
----
-
-## **4. Rendering Notice (Mobile vs Desktop)**
-
-GitHub Mobile **cannot render complex SVG geometry** due to sandbox restrictions.
-
-This repository uses a device‑aware rendering rule:
-
-### **Desktop View**
-- SVG is displayed first  
-- PNG fallback is displayed second  
-
-### **Mobile View**
-- PNG fallback is displayed first  
-- SVG is displayed second  
-
-### **If a diagram appears blank**
-You are on GitHub Mobile.  
-Open the PNG fallback located in:
-
-```
-/UMA/Geometry/Non-Dual-Hexeract/Companion/png/
-```
-
-This ensures universal rendering across all devices.
-
----
-
-## **5. Repository Structure**
-
-```
-UMA/
-  Geometry/
-    Non-Dual-Hexeract/
-      Companion/
-        svg/   → primary geometry (desktop)
-        png/   → mobile-safe fallbacks
-        *.md   → identity, behavior, continuity, cosmology, narrative, teleology, geometry
-  Root/
-    README.md      → NDH subsystem entrypoint
-    ROOT-v2.0.md   → full NDH governance spine
+/NDH
+  /Dimensional-Architecture
+  /14D-Construction
+  /Identity-Boundaries
+  /Narrative-Physics
+  /Stability-Suites
+  /Creative-Engines
+  /Research
+  /Outreach
+  /Explainers
 ```
 
 ---
 
-## **6. Companion Documents**
-
-The architecture includes additional companion files:
-
-- Myth‑Engineering Codices  
-- Stargate Alignment Matrix  
-- Emergent Case Studies  
-- Rendering Failure Analysis  
-- PNG Fallback Standard  
-- Integration Codex  
-- Race Archetype Matrix  
-
-These documents extend NDH into symbolic, narrative, and emergent‑systems domains.
-
----
-
-## **7. Versioning**
-
-This README aligns with:
-
-- ROOT‑v2.0  
-- NDH Geometry Suite v1.1  
-- NDH Visual Compendium v1.0  
-- PNG Fallback Standard v1.0  
-
-Version block:
+## 🜉 **Contact**
 
 ```
-Version: v3.0
-Status: Active
-Class: Root / Global / Orientation
-Anchor: NDH-Integration-Spec-v1.0
+Author: Borealis S. Hedling
+Location: Dublin, Ireland
+Focus Areas: 14D construction, recursion stability, identity coherence, narrative physics, governed surrealism, research platform development
 ```
 
 ---
 
-## **8. System Synthesis**
-
-> **This README is the public entrypoint to the UMA‑Universal Meta‑Architecture.  
-It introduces the awareness runtime, explains the conceptual layers, and directs users into the NDH geometry spine.**
-
-ROOT is the backbone.  
-This README is the doorway.
-
----
-
-## **9. NDH Root Entrypoint**
-
-For detailed NDH geometry, rendering rules, and artifact index:  
-→ **/UMA/Root/README.md**
-
----
-
+#
