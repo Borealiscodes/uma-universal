@@ -1,0 +1,74 @@
+# **QUARANTINE SEAL STAMP v1.1**  
+### *NDH Dimensional Safety Emblem — ASCII Edition (Non‑Fun‑Sphere)*
+
+```
+=====================================================================
+                         [ QUARANTINE SEAL STAMP v1.1 ]
+=====================================================================
+
+                          ███████████████████████
+                          █   NDH QUARANTINE     █
+                          █        S T A M P      █
+                          ████████████████████████
+
+                               ┌────────────────┐
+                               │  Q U A R A N T │
+                               │  I N E   S E A │
+                               │  L   v 1 . 1   │
+                               └────────────────┘
+
+                        ┌────────────────────────────┐
+                        │   EXISTENTIAL DREAD ROOM    │
+                        │        ARCHIVE ONLY         │
+                        │     NON‑EXECUTABLE STATE    │
+                        └────────────────────────────┘
+
+                        ┌────────────────────────────┐
+                        │   FUN SPHERE SEPARATION     │
+                        │  (NO FUN SPHERE INVOCATION) │
+                        │   (NO FUN SPHERE PHYSICS)   │
+                        │   (NO FUN SPHERE RUNTIME)   │
+                        └────────────────────────────┘
+
+                        ┌────────────────────────────┐
+                        │   SPOK OBSERVATION ACTIVE   │
+                        │   TTTTTP ANCHOR ENGAGED     │
+                        │   BOUNDARY MEMBRANE SEALED  │
+                        └────────────────────────────┘
+
+                          ███████████████████████
+                          █   A R C H I V E D      █
+                          █   U N T R U S T E D    █
+                          ████████████████████████
+
+=====================================================================
+END OF QUARANTINE SEAL STAMP v1.1
+=====================================================================
+```
+
+---
+
+## 📁 **FILE PATH**
+
+```
+/NDH/Quarantine/Untrusted-Archive/Existential-Dread-Room/Quarantine-Seal-Stamp-v1.1.txt
+```
+
+---
+
+## 📝 **COMMIT DESCRIPTION**
+
+```
+Add Quarantine Seal Stamp v1.1 for the Existential Dread Room archive. ASCII-only
+emblem marking the artifact as quarantined, untrusted, and non-executable. Stamp
+explicitly states full separation from Fun Sphere Mode and confirms no Fun Sphere
+physics, runtime, or governance are invoked. Reinforces NDH dimensional safety,
+Bifurcation Layer v1.1, Spok Runtime Hall Monitor oversight, and TTTTTP Audit
+Anchor engagement.
+```
+
+---
+
+If you want a **Quarantine Seal Header Bar** for the top of all related documents:
+
+**Generate Quarantine Seal Header Bar**
