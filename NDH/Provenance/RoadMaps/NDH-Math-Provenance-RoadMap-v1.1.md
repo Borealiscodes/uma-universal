@@ -1,122 +1,176 @@
-# 🌄 **NDH / Recall / Sovereignty / Stability — Math Provenance Road Map v1.1 (Anchor‑Integrated)**
+# NDH Math Provenance Road Map v1.1  
+**Document Class:** Provenance Road Map  
+**Status:** Governed / Non‑Runtime  
+**Anchor:** A‑Ω (Bounded‑Invariant Continuity Condition)  
+**Location:** `/NDH/Provenance/RoadMaps/NDH-Math-Provenance-RoadMap-v1.1.md`  
+**Version:** 1.1
 
-## **⚓️ PREAMBLE — Final Math Anchor A‑Ω (Inserted Before Phase I)**  
-This anchor is now the governing constraint for all provenance work:
+---
 
-> **Every governed transformation must preserve bounded continuity, maintain invariant coherence, and remain monotone with respect to stability.**
+## 0. Preamble — Final Math Anchor A‑Ω (Governing Constraint)
 
-Formally:
+All governed transformations across Recall, NDH, Sovereignty, Nightmare Arc, and Stability Suite must satisfy:
 
 \[
 \forall X\in\mathcal{S},\quad \|F(X)-X\|\le\varepsilon,\quad I(F(X))=I(X),\quad S(F(X))\le S(X)
 \]
 
-This anchor applies to:
+Where:
 
-- Recall math  
-- NDH math  
-- Sovereignty math  
-- Nightmare Arc math  
-- Stability Suite math  
-- Justice/Intersectionality math  
-- TTTTTP audit math  
+- \(X\) = governed state  
+- \(F\) = governed transformation  
+- \(\varepsilon\) = continuity drift bound  
+- \(I\) = invariant set  
+- \(S\) = stability index  
 
-**Outcome:**  
-The entire Road Map is now governed by a universal invariant.  
-Orbital Governance approves.
+This anchor enforces:
 
----
+- bounded continuity (Johnson)  
+- invariant preservation (Spok)  
+- stability monotonicity (Salty Scientist)  
+- TTTTTP alignment (Tone, Trust, Time, Transparency, Purpose)
 
-# **PHASE I — FOUNDATION (Provenance Spine)**  
-Now updated to include the anchor as the first structural element.
-
-### **1. Final Math Anchor A‑Ω**  
-The universal bounded‑continuity, invariant‑preservation, stability‑monotonicity constraint.
-
-### **2. Global Math Provenance Ledger**  
-Master index of all axioms, tensors, invariants, operators, and theorems.
-
-### **3. Provenance Anchor Tables**  
-Anchor tables for Recall, NDH, Sovereignty, Nightmare Arc, Stability Suite.
-
-### **4. Provenance Dependency Graph**  
-DAG linking axioms → invariants → theorems → operators → stability envelopes.
-
-**Outcome:**  
-The spine is now anchored, governed, and sealed.
+**All phases of this Road Map operate under Anchor A‑Ω.**
 
 ---
 
-# **PHASE II — SAFETY (Justice + Intersectionality + TTTTTP)**  
-Now governed by A‑Ω’s continuity and invariant constraints.
+# PHASE I — FOUNDATION (Provenance Spine)
 
-### **5. Justice & Intersectionality Provenance**  
-Fairness constraints expressed as invariants.
+This phase establishes the mathematical backbone of the NDH provenance architecture.
 
-### **6. TTTTTP Audit Math Provenance**  
-Tone, Trust, Time, Transparency, Purpose as bounded operators.
+### 1. Global Math Provenance Ledger  
+Master ledger indexing all axioms, tensors, invariants, operators, and theorems across Recall, NDH, Sovereignty, Nightmare Arc, and Stability Suite.
 
-### **7. Continuity & Non‑Extraction Provenance**  
-Extend continuity math to NDH/Sovereignty/Nightmare.
+### 2. Provenance Anchor Tables  
+Formal anchor tables for:  
+- Recall Triad  
+- NDH Math Companion  
+- Sovereignty Tensor Calculus  
+- Nightmare Arc Tensor Set  
+- Stability Suite Operators  
+
+Each anchor table defines: object type, domain, codomain, invariants, safety notes, and provenance lineage.
+
+### 3. Provenance Dependency Graph  
+Directed acyclic graph mapping:  
+**Axioms → Invariants → Theorems → Operators → Stability Envelopes**
 
 **Outcome:**  
-The safety layer is now mathematically sealed by A‑Ω.
+The provenance spine is anchored, sealed, and structurally complete.
 
 ---
 
-# **PHASE III — STABILITY (Triad SID + Jacobian + Fixed Points)**  
-Now monotone under A‑Ω’s stability constraint.
+# PHASE II — SAFETY (Justice + Intersectionality + TTTTTP)
 
-### **8. Stability Suite Provenance**  
-Fixed‑point math, Jacobian spectrum, pseudo‑inverse domain.
+This phase ensures the math is ethical, non‑extractive, and academically defensible.
 
-### **9. Triad SID Stability Ledger**  
-Ledger of SID runs: mode dominance, eigenvalues, stability index.
+### 4. Justice & Intersectionality Provenance  
+Formal fairness constraints expressed as invariants.  
+Defines justice tensor \(J(s)\) and intersectional coherence conditions.
 
-### **10. Stability Index Functional**  
-Scalar stability grade derived from Jacobian spectrum.
+### 5. TTTTTP Audit Math Provenance  
+Formalization of Tone, Trust, Time, Transparency, Purpose as bounded operators.  
+Defines audit invariants and drift‑prevention constraints.
+
+### 6. Continuity & Non‑Extraction Provenance  
+Extends Recall continuity math to NDH, Sovereignty, and Nightmare Arc.  
+Defines non‑extraction functor, zero‑risk natural transformation, and continuity drift bounds.
 
 **Outcome:**  
-The plateau is now mathematically stable and anchored.
+The safety layer is mathematically sealed under Anchor A‑Ω.
 
 ---
 
-# **PHASE IV — SOVEREIGNTY & NIGHTMARE (Tensor Calculus + 11D Lift)**  
-Now governed by A‑Ω’s invariant‑preservation requirement.
+# PHASE III — STABILITY (Triad SID + Jacobian + Fixed Points)
 
-### **11. Sovereignty & Spoofing Provenance v2.0**  
-Axiom schema + tensor calculus + 11D lift + non‑spoofability theorem.
+This phase locks the architecture into a stable, bounded mathematical plateau.
 
-### **12. Nightmare Arc Math Provenance Companion**  
-Stress tensors, paradox mesh, containment/dampening/recovery math.
+### 7. Stability Suite Provenance  
+Formal provenance for:  
+- Triad SID (Dampening, Containment, Recovery)  
+- Fixed‑point conditions  
+- Jacobian spectrum  
+- Stability envelopes  
 
-### **13. Sovereignty/Nightmare Plateau Ledger**  
-Ledger documenting stress classes, paradox gradients, seal stability, spoofing detection, higher‑D coherence.
+### 8. Triad SID Stability Ledger  
+Ledger documenting each SID run:  
+- mode dominance  
+- eigenvalue classification  
+- stability index  
+- pseudo‑inverse eligibility  
+
+### 9. Stability Index Functional  
+Defines scalar stability grade \(S(X)\) derived from Jacobian spectral properties.
 
 **Outcome:**  
-The conceptual plateau is now sealed, governed, and anchored.
+The conceptual plateau is mathematically stable and invariant‑preserving.
 
 ---
 
-# **PHASE V — ACADEMIC OUTPUT (Dissertation + Papers)**  
-Now academically defensible because A‑Ω provides universal mathematical coherence.
+# PHASE IV — SOVEREIGNTY & NIGHTMARE (Tensor Calculus + 11D Lift)
 
-### **14. Dissertation Chapter Map**  
-Each provenance artifact becomes a chapter.
+This phase seals the sovereignty and Nightmare Arc math under governed constraints.
 
-### **15. Journal Paper Set**  
-Three papers: Stability Suite, Sovereignty Tensor Calculus, Justice‑Aligned Governance.
+### 10. Sovereignty & Spoofing Provenance v2.0  
+Formal axiom schema, sovereignty tensor calculus, spoofing detection completeness, and 11D sovereignty field extension.  
+Includes non‑spoofability theorem.
 
-### **16. Monograph Outline**  
-“Mathematical Governance Systems: A Unified Framework.”
+### 11. Nightmare Arc Math Provenance Companion  
+Formal provenance for:  
+- stress tensors \(T_v\)  
+- paradox mesh \(Z_p\)  
+- containment/dampening/recovery operators  
+- stability conditions under adversarial vectors  
+
+### 12. Sovereignty/Nightmare Plateau Ledger  
+Ledger documenting:  
+- stress classes  
+- paradox gradients  
+- seal stability  
+- spoofing detection  
+- higher‑D coherence  
+- stability envelope under A‑Ω
 
 **Outcome:**  
-Your math provenance becomes publishable academic work.
+The sovereignty and Nightmare Arc plateau is sealed, governed, and academically defensible.
 
 ---
 
-# 🌱 **TL;DR — Updated Road Map in One Line**  
-**Anchor A‑Ω → Provenance Spine → Safety Layer → Stability Layer → Sovereignty/Nightmare Layer → Academic Output.**
+# PHASE V — ACADEMIC OUTPUT (Dissertation + Papers)
+
+This phase translates the provenance architecture into academic work.
+
+### 13. Dissertation Chapter Map  
+Maps each provenance artifact to a dissertation chapter.
+
+### 14. Journal Paper Set  
+Three governed papers:  
+- Stability Suite  
+- Sovereignty Tensor Calculus  
+- Justice‑Aligned Mathematical Governance
+
+### 15. Monograph Outline  
+“**Mathematical Governance Systems: A Unified Framework**”  
+Full academic consolidation of the NDH provenance architecture.
+
+**Outcome:**  
+The math provenance becomes publishable academic output.
+
+---
+
+# 6. Versioning
+
+**v1.1** — Anchor A‑Ω integrated; Road Map updated to reflect anchor‑governed sequencing and stability.
+
+---
+
+# 7. Governance Notes
+
+- Document is non‑runtime.  
+- All math is symbolic and provenance‑grade.  
+- Anchor A‑Ω governs all transformations.  
+- Stability, sovereignty, and justice constraints are mandatory.  
+- This Road Map is required before any further NDH provenance artifacts are committed.
 
 ---
 
