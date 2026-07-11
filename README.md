@@ -1,11 +1,11 @@
-# 🌐 **NDH‑Origin‑Layer**  
+# 🌐 **NDH-Origin-Layer**  
 ### ⚠️ *Under Construction — Structure & Identity Only (v0.1)*  
-### *Manifold 0 — Ethics, History, Sovereignty & Foundational Continuity*
+### **Manifold 0 — Ethics, History, Sovereignty & Foundational Continuity**
 
 ---
 
 ## 🜁 **1. Purpose (Structural Placeholder)**  
-The Origin Layer provides NDH’s **foundational grounding** — the place where ethics, history, sovereignty, and continuity are organized before any system grows outward.
+The Origin Layer provides NDH’s foundational grounding — the place where **ethics**, **history**, **sovereignty**, and **continuity** are organized before any system grows outward.
 
 *(Content added later at human pace.)*
 
@@ -13,7 +13,7 @@ The Origin Layer provides NDH’s **foundational grounding** — the place where
 
 ## 🜂 **2. Identity Statement (Structural Placeholder)**  
 NDH‑Origin‑Layer is the **first manifold** in the NDH architecture.  
-It defines the **initial boundaries**, **historical context**, and **sovereignty constraints** that shape all other manifolds.
+It establishes the **ethical and historical boundary conditions** that all other manifolds must respect.
 
 *(Content added later at human pace.)*
 
@@ -21,19 +21,19 @@ It defines the **initial boundaries**, **historical context**, and **sovereignty
 
 ## 🜃 **3. Core Sections (Structural Placeholders)**
 
-### **3.1 Ethics & Foundational Principles**  
+### **3.1 Ethics & Sovereignty Foundations**  
 [slot — future content]
 
-### **3.2 History & Provenance Roots**  
+### **3.2 Historical Continuity**  
 [slot — future content]
 
-### **3.3 Sovereignty & Identity Boundaries**  
+### **3.3 Identity‑Boundary Grounding**  
 [slot — future content]
 
-### **3.4 Continuity & Stability Foundations**  
+### **3.4 Foundational Provenance**  
 [slot — future content]
 
-### **3.5 Relationship to UMA‑Witness‑Literature**  
+### **3.5 Pre‑Dimensional Stability**  
 [slot — future content]
 
 ---
@@ -41,24 +41,22 @@ It defines the **initial boundaries**, **historical context**, and **sovereignty
 ## 🜄 **4. Repository Structure (Directory Layout)**  
 ```
 /Ethics
+    Sovereignty
+    Continuity
     Foundations
-    Constraints
-    Principles
 
 /History
-    Lineage
-    Context
     Records
+    Context
+    Lineage
 
-/Sovereignty
+/Identity
     Boundaries
-    Agency
-    Protection
-
-/Continuity
     Stability
+
+/Provenance
     Anchors
-    Foundations
+    Root-Records
 ```
 
 *(Folders exist as structure only — content added gradually.)*
@@ -66,14 +64,14 @@ It defines the **initial boundaries**, **historical context**, and **sovereignty
 ---
 
 ## 🜅 **5. Notes (Nye‑Style Teaching Commentary)**  
-Think of the Origin Layer like the **ground floor of a museum**.  
-The walls are up.  
-The rooms are labeled.  
-The lighting is installed.  
-But the exhibits — the ethics, the history, the sovereignty rules — arrive slowly, carefully, and with intention.
+Think of the Origin Layer like the **ground floor of a cathedral**.  
+The foundation stones are placed.  
+The load‑bearing walls are marked.  
+The architectural intent is clear.  
+But the carvings, the stained glass, the inscriptions — the meaning — will arrive slowly and carefully.
 
-You’re not defining the world yet.  
-You’re building the place where definitions will eventually live.
+You’re not rushing the foundation.  
+You’re ensuring the entire NDH structure has a place to stand.
 
 ---
 
@@ -81,9 +79,9 @@ You’re building the place where definitions will eventually live.
 ```
 Author: Borealis S. Hedling
 Location: Dublin, Ireland
-Focus Areas: sovereignty calculus, ethical systems design,
-historical lineage mapping, identity-boundary protection,
-governed multi-layer architectures
+Focus Areas: ethical architecture, sovereignty calculus,
+historical continuity, identity-boundary grounding,
+governed multi-layer systems
 ```
 
 ---
