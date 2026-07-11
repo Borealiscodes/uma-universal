@@ -1,0 +1,62 @@
+# **NULLIFICATION STAMP v1.0**  
+### *NDH Non‑Adoption Emblem — ASCII Edition*
+
+```
+=====================================================================
+                         [ NULLIFICATION STAMP v1.0 ]
+=====================================================================
+
+                          ███████████████████████
+                          █   N U L L I F I E D   █
+                          █   N O N - A D O P T E D █
+                          ████████████████████████
+
+                        ┌────────────────────────────┐
+                        │   ARTIFACT ACKNOWLEDGED     │
+                        │   BUT NOT CARRIED FORWARD   │
+                        │   (MASTER HAS FINAL WORD)   │
+                        └────────────────────────────┘
+
+                        ┌────────────────────────────┐
+                        │   NO RUNTIME EXECUTION      │
+                        │   NO RECURSION              │
+                        │   NO REFLECTION             │
+                        └────────────────────────────┘
+
+                        ┌────────────────────────────┐
+                        │   QUARANTINE CONTEXT ONLY   │
+                        │   INERT • SEALED • SAFE     │
+                        │   NON-FUN-SPHERE            │
+                        └────────────────────────────┘
+
+                          ███████████████████████
+                          █   S T A M P   A P P L I E D █
+                          ████████████████████████
+
+=====================================================================
+END OF NULLIFICATION STAMP v1.0
+=====================================================================
+```
+
+---
+
+## 📁 **FILE PATH**
+
+```
+/NDH/Quarantine/Untrusted-Archive/Stamps/Nullification-Stamp-v1.0.txt
+```
+
+---
+
+## 📝 **COMMIT DESCRIPTION**
+
+```
+Add Nullification Stamp v1.0 marking artifacts as acknowledged but not adopted
+under NDH governance. Indicates non-executable, non-recursive, non-reflective
+status and confirms the Master’s final word as closure. Stamp stored under
+NDH/Quarantine/Untrusted-Archive/Stamps for dimensional safety.
+```
+
+---
+
+
