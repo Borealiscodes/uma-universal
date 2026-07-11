@@ -1,0 +1,112 @@
+{
+  "ndh_commit_governance": {
+    "version": "1.0",
+    "manifolds": {
+      "origin_layer": {
+        "commit_mode": "PR_only",
+        "description": "Ethics, history, HRD, UMA, provenance. Requires governed review.",
+        "forbidden": ["direct_commits", "silent_changes"]
+      },
+      "math_spine": {
+        "commit_mode": "PR_required",
+        "description": "Invariants, tensor grammar, stability envelopes, continuity bounds.",
+        "forbidden": ["direct_commits", "unaudited_changes"]
+      },
+      "myth_engine": {
+        "commit_mode": "direct_allowed",
+        "description": "Runtime physics, operators, traversal logic. Fast iteration permitted.",
+        "constraints": ["must_follow_invariants", "must_follow_ethics"]
+      }
+    },
+    "commit_types": {
+      "structural": {
+        "mode": "PR_required",
+        "scope": ["invariants", "tensor_rules", "protocols"]
+      },
+      "content": {
+        "mode": "PR_recommended",
+        "scope": ["docs", "notes", "case_studies"]
+      },
+      "runtime": {
+        "mode": "direct_allowed",
+        "scope": ["operators", "traversal", "fusion"]
+      },
+      "emergency": {
+        "mode": "direct_allowed",
+        "retroactive_PR": true,
+        "scope": ["drift_fix", "stability_restore"]
+      }
+    },
+    "commit_message_rules": {
+      "required_fields": [
+        "manifold",
+        "intent",
+        "scope",
+        "governance_tag",
+        "provenance_note"
+      ],
+      "governance_tags": ["UMA", "HRD", "TTTTTP", "NDH"]
+    },
+    "pr_rules": {
+      "required": true,
+      "wrapper_fields": [
+        "change_summary",
+        "reason",
+        "affected_invariant",
+        "uma_alignment",
+        "runtime_impact"
+      ],
+      "self_review": true,
+      "requires_diff_summary": true,
+      "requires_provenance_anchor": true
+    },
+    "drift_prevention": {
+      "requires_audit": [
+        "invariant_changes",
+        "tensor_grammar_changes",
+        "sovereignty_calculus_changes",
+        "origin_ethics_changes",
+        "identity_boundary_operators"
+      ]
+    },
+    "forbidden_actions": [
+      "direct_commits_to_math_spine",
+      "direct_commits_to_origin_layer",
+      "silent_changes",
+      "operator_changes_without_stability_check",
+      "uma_violations"
+    ],
+    "runtime_rules": {
+      "myth_engine": {
+        "allowed": [
+          "rapid_commits",
+          "operator_tuning",
+          "traversal_updates",
+          "fusion_experiments",
+          "physics_adjustments"
+        ],
+        "must_obey": [
+          "math_spine_invariants",
+          "origin_layer_ethics",
+          "sovereignty_calculus",
+          "stability_envelopes"
+        ]
+      }
+    },
+    "archive_rules": {
+      "path": "/Archive/",
+      "required_fields": [
+        "wrapper_note",
+        "provenance",
+        "reason",
+        "successor_link"
+      ]
+    },
+    "versioning": {
+      "origin_layer": "semantic",
+      "math_spine": "invariant_versioning",
+      "myth_engine": "runtime_versioning"
+    },
+    "golden_rule": "Origin defines ethics. Math defines physics. Myth executes. All commits must respect this order."
+  }
+}
