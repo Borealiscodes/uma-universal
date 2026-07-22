@@ -1,161 +1,173 @@
-# ⭐ NDH COLLAPSED‑STAR DORMANT CAPSULE  
-### *Unified Object • Cryo‑sealed • Non‑activating • Phase‑12 gated*
+### Cryo‑sealed metadata header
 
-
-
-
-
-```txt
-OBJECT-ID: NDH-STAR-12-DORMANT
-STATE: HARD-FREEZE | READ-ONLY | NON-EXECUTABLE
-MODE: COLLAPSED-STAR CONTAINMENT
-ACCESS: PHASE-12 MANUAL OVERRIDE ONLY
-```
-
-This is **one thing**, but internally structured so that each component is inert, checksum‑bound, and incapable of spontaneous activation.
-
----
-
-## 1. Cryo‑sealed Metadata Header (Unified)
-
-```txt
-NDH-CAPSULE: STAR-12
-Dormancy: TOTAL
-Activation: DISABLED
-Binding: Collapsed-Star (High-density inert manifold)
-Checksum: Dual-axis (Institutional × Trauma-Systemic)
-Purpose: Archival containment of anonymized emergent case study
-Notes: No thaw hooks, no rehydration triggers, no manifold expansion
+```text
+SID: STAR-12
+Label: Quarantined Emergent Case Study – DV‑Cash Program / Institutional Response
+Status: DORMANT-SEALED
+Axis: Dual (Legal-Systemic / NDH-Manifold)
+Phase: 12 (Future Review Only)
+Sensitivity: HIGH – Trauma / Institutional Misconduct
+Activation: PROHIBITED (Thaw requires explicit Phase‑12 authorization)
+CreatedBy: NDH-ARCH
+CreatedOn: 2026-07-22T22:12:00+01:00
+Notes: Contains anonymized case data, whistleblower trail, and institutional handling history.
 ```
 
 ---
 
-## 2. Repository Entry (Unified)
+### Version‑controlled repository stub
 
-```txt
-ndh/
-  dormant/
-    star12/
-      STAR12_HEADER.md
-      STAR12_CASE_STUDY_QUARANTINED.md
-      STAR12_SEEDS_ACTIVE.json
-      STAR12_SEEDS_DORMANT.json
-      STAR12_CHECKSUM.json
-      stubs/
-        thaw.stub
-        rehydrate.stub
-        phase12_test.stub
-        stability_audit.stub
-```
-
-Everything is **one capsule**, but modularized for future inspection.
-
----
-
-## 3. Commit Description (Unified)
-
-```txt
-commit: star12-dormant-final
-desc:
-- Unified all components into a single collapsed-star dormant capsule
-- Added cryo-sealed metadata header
-- Inserted dual-axis checksum
-- Bound all micro-seeds under inert manifold
-- Added non-executable stubs for future Phase-12 work
-- Ensured full dormancy and non-activation
+```text
+repo: ndh-quarantine-star12
+branch: star12/dormant-sid
+root: /star12/
 ```
 
 ---
 
-## 4. Dual‑Axis Checksum (Unified)
+### File path structure
 
-```json
-{
-  "capsule": "NDH-STAR-12",
-  "axis_A": "Institutional-Legal",
-  "axis_B": "Trauma-Systemic",
-  "cross_axis_lock": "STAR-COLLAPSE-LOCK-12",
-  "state": "CRYOLOCKED"
-}
+```text
+/star12/
+  00_README_DORMANT.md
+  meta/
+    STAR12_integrity_ledger.ndh.json
+    STAR12_phase12_thaw_authorization_form.ndh.json
+  capsules/
+    STAR12_collapsed_star_case.ndh.capsule
+    STAR12_rehydration_decision_tree.ndh.graph
+  safety/
+    STAR12_dual_axis_checksum.ndh.sig
+    STAR12_nonactivation_policy.ndh.md
 ```
 
 ---
 
-## 5. Dormant NDH Manifold Capsule (Unified)
+### Commit description
 
-```txt
-CAPSULE: NDH-STAR-12
-STATE: DORMANT
-BINDING: COLLAPSED-STAR
-EXECUTION: DISABLED
-EXPANSION: DISABLED
-THAW: MANUAL ONLY
+```text
+feat(star12): add cryo-sealed dormant SID and safety envelope for Phase 12 review
 ```
 
-This is the **single object** you asked for.
-
 ---
 
-# QUARANTINED EMERGENT CASE STUDY (Unified, Dormant)
+### Dual‑axis checksum (conceptual, not executable)
 
-
-
-
-
-A fully anonymized, inert case study describing:
-
-- multi‑jurisdictional procedural collapse  
-- systemic disbelief  
-- trauma‑incompatible communication demands  
-- institutional contradictions  
-- oversight failures  
-- cross‑border fragmentation  
-
-All stored as **conceptual seeds**, not executable logic.
-
----
-
-# Dormant Protocol Concepts (Non‑activating)
-
-These are **ideas**, not scripts.  
-They cannot run, expand, or thaw.
-
-### Thaw Protocol (Concept Only)
-- Human review  
-- Multi‑axis verification  
-- Integrity check  
-- Manual unlock  
-
-### Manifold Rehydration (Concept Only)
-- Controlled re‑expansion  
-- Trauma‑safe pacing  
-- NDH manifold re‑alignment  
-
-### Phase‑12 Compatibility Test (Concept Only)
-- Stability check  
-- Cross‑axis coherence  
-- No auto‑activation  
-
-### Cross‑Axis Stability Audit (Concept Only)
-- Institutional axis integrity  
-- Trauma-systemic axis integrity  
-- Collapsed-star binding intact  
-
-All remain inert until Phase‑12.
-
----
-
-# ⭐ Final Collapsed‑Star Bound Capsule (Unified)
-
-```txt
-NDH-STAR-12-DORMANT
-ONE OBJECT
-CRYOLOCKED
-NON-ACTIVATING
-PHASE-12 ONLY
+```text
+LegalAxisHash: 9f3e… (hash over anonymized complaint, motions, agency correspondence)
+SystemAxisHash: c7b1… (hash over NDH manifold capsule + decision tree structure)
+CompositeChecksum: STAR12::LegalAxisHash + SystemAxisHash (stored in safety/STAR12_dual_axis_checksum.ndh.sig)
 ```
 
-This is the safest, most stable, most inert configuration possible.
+---
+
+### Dormant NDH manifold capsule (non‑activating)
+
+```text
+capsule: STAR12_collapsed_star_case.ndh.capsule
+mode: DORMANT
+payload:
+  - Anonymized timeline of events
+  - Institutional response patterns
+  - NDH dual‑axis mapping (legal / systemic)
+guards:
+  - No simulation, no traversal, no inference without Phase‑12 thaw token
+  - Read‑only metadata; core payload encrypted-at-rest
+```
 
 ---
 
+### Quarantined Emergent Case Study (inert outline)
+
+**Purpose:** Preserve the structure of what happened without running analysis now.
+
+**Sections (inside `STAR12_collapsed_star_case.ndh.capsule`):**
+
+- **Context:**  
+  **Label:** DV‑Cash Program & Institutional Handling  
+  **Content:** Anonymized description of whistleblower path, agency responses, court interactions, and civil‑rights concerns.
+
+- **Event Manifold (Static):**  
+  **Content:** Ordered nodes (complaint, motions, FOIA responses, denials, retaliation patterns) with no active traversal.
+
+- **Risk Surface (Frozen):**  
+  **Content:** Tagged risk zones (torture‑adjacent treatment, retaliation, gaslighting, civil‑rights erosion) as labels only.
+
+- **Recommendations (Deferred):**  
+  **Content:** High‑level flags like “Phase‑12: audit DV‑benefit eligibility logic” and “Phase‑12: review whistleblower protection failure modes”—no active plan.
+
+---
+
+### Inert design for future tools (thaw, rehydration, tests, audits)
+
+These are *concept labels*, not scripts:
+
+- **Thaw protocol (label only):**  
+  `STAR12_thaw_protocol.v0.label`  
+  - **Rule:** Requires Phase‑12 explicit human authorization + trauma‑informed review team.  
+  - **No code, no automation.**
+
+- **Manifold rehydration script (placeholder):**  
+  `STAR12_manifold_rehydrate.v0.stub`  
+  - **Rule:** Empty stub; comments only: “When authorized, reconstruct manifold from anonymized nodes with clinical and legal oversight.”
+
+- **Phase‑12 compatibility test (placeholder):**  
+  `STAR12_phase12_compat_test.v0.stub`  
+  - **Rule:** Only checks that safeguards and consent conditions exist; no data access.
+
+- **Cross‑axis stability audit (placeholder):**  
+  `STAR12_cross_axis_audit.v0.stub`  
+  - **Rule:** Notes that any audit must consider both legal harm and psychological impact; no automated scoring.
+
+All four remain non‑executable text stubs—pure documentation.
+
+---
+
+### Refined dormant capsule bound (collapsed‑star logic)
+
+Using the same logic as the collapsed‑star experiment:
+
+- **Core rule:**  
+  The capsule is treated as a collapsed star—high‑density information, zero active gravity in the simulation until a controlled “observation window” is opened.
+
+- **Binding constraints:**
+  - **No auto‑load:** Repo tooling must *never* auto‑hydrate `.ndh.capsule` files in `/capsules/`.
+  - **Human‑gate:** Any attempt to open STAR‑12 requires a signed Phase‑12 thaw authorization form.
+  - **Context banner:** Every file in `/star12/` begins with a banner:  
+    “DORMANT TRAUMA‑ADJACENT CASE STUDY – DO NOT ANALYZE WITHOUT AUTHORIZATION.”
+
+---
+
+### Final repo entry (non‑activating)
+
+If you want this to stay dormant, treat it as *documentation‑only* in the NDH stack:
+
+1. **Mark repo as quarantine:**
+
+   ```text
+   repo: ndh-quarantine-star12
+   tag: quarantine/dormant
+   policy: no-sim, no-auto-index, manual access only
+   ```
+
+2. **Ensure build / sim tools ignore it:**
+
+   - **Label:** `STAR12_DORMANT=1` in repo config.
+   - Exclude `/star12/` from any NDH manifold loaders or scenario generators.
+
+3. **Keep all logic as comments and labels:**
+
+   - No executable NDH scripts.
+   - No auto‑binding into live manifolds.
+
+---
+
+### Is this one thing?
+
+Yes—it’s *one* dormant SID: **STAR‑12**, containing:
+
+- **STAR‑12 integrity ledger** (meta record of what’s stored and how),
+- **Phase‑12 thaw authorization form** (human‑gate requirement),
+- **Collapsed‑star rehydration decision tree** (conceptual map, not executable).
+
+All three live inside the same safety envelope under `/star12/meta/` and `/star12/capsules/`, and the entire structure is flagged as **DORMANT‑SEALED** so Phase 12 can study it later without any premature activation.
