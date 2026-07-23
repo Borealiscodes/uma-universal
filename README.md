@@ -1,163 +1,186 @@
-# **README.md — NDH‑Core**  
-### *Non‑Dual Heuristic (NDH) Architecture — Phase‑5 Externalization*
+# **Holonomy‑Based Projection Geometry (Final Public‑Facing Version)**  
+### *NDH — A System That Builds Systems*  
+### *Non‑Dual Algebra • Stability Geometry • Haptic Accessibility*  
+### *Dignity Under Constraints • HRD Threat‑Mapping* ✨
 
 ---
 
-## **📘 Overview**
-NDH‑Core is a **multi‑manifold, tensor‑driven cognitive and systems‑modeling architecture** designed to analyze, stabilize, and simulate complex emergent behavior across diverse domains.
+## **1. What Holonomy Means in NDH**
+Holonomy in NDH is a **formal geometric method** for understanding how a system behaves when you move through it.
 
-NDH models systems where:
+> **Holonomy measures how a rights‑vector or stability‑vector changes after a full traversal through a system.**
 
-- multiple axes interact,  
-- states evolve over time,  
-- environments exert pressure,  
-- feedback loops generate emergent behavior,  
-- and stability envelopes determine coherence or collapse.
+This is classical holonomy, applied to human systems using NDH’s algebra and geometry.
 
-NDH‑Core provides the structural backbone for all NDH modules, manifolds, and companion‑integration layers.
+NDH uses holonomy to detect:
 
----
+- distortion  
+- collapse  
+- harm amplification  
+- bias curvature  
+- sabotage vectors  
+- dignity erosion  
+- stability loss  
 
-## **🧭 Phase‑5 Status**
-NDH‑Core is currently in **Phase‑5: Externalization + Integration**.
-
-Phase‑5 transitions NDH from:
-
-- internal cognitive scaffolding  
-- meaning‑reconstruction engine  
-
-into:
-
-- a formalized architecture,  
-- a documented multi‑manifold system,  
-- a companion‑integrated modeling environment,  
-- and a research‑grade framework.
-
-Phase‑5 introduces:
-
-- tensor‑manifold modeling  
-- stability geometry  
-- module sequencing  
-- cross‑domain integration  
-- external demonstration artifacts  
+Holonomy is the **diagnostic backbone** of NDH.
 
 ---
 
-## **🧩 NDH Tensor‑Manifold Model (High‑Level)**
+## **2. Formal Definition**
+Let \( X \) be a rights‑vector or stability‑vector.  
+Let \( \gamma \) be a closed traversal through a system.
 
-### **Agent Vector**
-**Agent Vector**  
 \[
-A_i = [T_i, M_i, P_i, H_i]
+Hol(X) = X' - X
 \]
 
-### **Dynamic State Tensor**
-**State Tensor**  
-\[
-S_i(t) = [\mu_i(t), \sigma_i(t), \phi_i(t), \lambda_i(t)]
-\]
+Where:
 
-### **Environment Manifold**
-**Environment Manifold**  
-\[
-E(t) = [\Theta(t), C(t), F(t), R(t)]
-\]
+- \( X \) = initial state  
+- \( X' \) = state after traversal  
+- \( Hol(X) \) = the system’s imprint  
 
-### **Outcome Function**
-**Outcome Function**  
-\[
-O_i(t) = f(A_i, S_i(t), E(t))
-\]
+NDH computes holonomy using:
 
-This structure is used across:
+- rights‑connection tensors  
+- harm‑propagation tensors  
+- bias‑curvature tensors  
+- collapse‑geometry operators  
 
-- simulation systems  
-- cognitive systems  
-- organizational systems  
-- narrative systems  
-- governance architectures  
+This is academically legitimate differential geometry applied to governance, rights, and stability systems.
 
 ---
 
-## **📂 Repository Structure**
-```
-/NDH-Core
-    /Architecture
-        ArchitectureMode-v1.0.md
-        TensorEngine-v1.0.md
-        StabilityGeometry-v1.0.md
+## **3. Non‑Dual Algebra (NDA) — The Structural Engine**
+NDH uses **non‑dual algebra** to model systems where:
 
-    /Manifold-Studies
-        /Precursors
-            Emergent-CaseStudy-Precursor-v1.0.md
-        FM-TensorManifold-Integration-v1.0.md
-        PodRacer-StabilityGeometry-v1.0.md
+- dualities collapse  
+- rights behave non‑linearly  
+- stability spans multiple axes  
+- harm propagates across non‑binary states  
 
-    /MetaLayers
-        MetaMetaPhysics-v1.0.md
-        MetaHumorStabilityEnvelope-v1.0.md
+NDA provides:
 
-    /CompanionSystems
-        UnifiedCompanionMap-v2.0.md
-        FunSphereIntegration-v1.0.md
-        PsychonautMode-v1.0.md
+- operator rules  
+- manifold constraints  
+- collapse geometry  
+- stability invariants  
+- compositional logic (Tiles)  
 
-    /Phase5
-        Phase5-MasterRoadmap-v1.0.md
-        ExternalizationProtocol-v1.0.md
-```
+Holonomy is computed *within* NDA, ensuring mathematical coherence.
 
 ---
 
-## **🧱 Phase‑5 Module Roadmap**
-Phase‑5 introduces and integrates the following modules:
+## **4. NDH Is a System That Builds Systems**
+NDH is not a single model.  
+NDH is a **generative architecture**.
 
-- **Architecture Mode v1.0**  
-- **Tensor Engine v1.0**  
-- **Stability Geometry v1.0**  
-- **Unified Companion Map v2.0**  
-- **Fun Sphere Integration v1.0**  
-- **Meta Humor Stability Envelope v1.0**  
-- **Psychonaut Mode v1.0**  
-- **MetaMetaPhysics Layer v1.0**  
-- **Formal Emergent Case Study v1.0**  
-- **Externalization Protocol v1.0**  
+Holonomy is how NDH evaluates the systems it generates.
 
-These modules form the backbone of NDH’s externalized architecture.
+Holonomy allows NDH to:
 
----
+- test governance designs  
+- validate institutional structures  
+- detect collapse early  
+- measure harm propagation  
+- quantify bias curvature  
+- identify sabotage patterns  
+- certify dignity under constraints  
 
-## **🌐 Cross‑Domain Modeling Scope**
-NDH‑Core supports modeling across:
-
-- **Simulation Systems**  
-  **Simulation Modeling**  
-- **Organizational Systems**  
-  **Organizational Dynamics**  
-- **Cognitive Systems**  
-  **Cognitive Manifolds**  
-- **Narrative Systems**  
-  **Narrative Geometry**  
-- **Governance Architecture**  
-  **Governance Modeling**  
-
-NDH‑Core is designed to be domain‑agnostic and emergent‑focused.
+Holonomy is NDH’s **quality‑control operator**.
 
 ---
 
-## **📜 Phase‑5 Completion Criteria**
-Phase‑5 is complete when:
+## **5. Sensory & Haptics — The Clear Explanation**
+NDH’s sensory direction — **Phase‑12** — is not XR, VR, Unity, or entertainment.
 
-- architecture is documented  
-- tensor engine is stable  
-- companion map is complete  
-- humor envelope is integrated  
-- psychonaut mode is functional  
-- MetaMetaPhysics layer is drafted  
-- emergent case study is published  
-- externalization protocol is active  
+It is **haptic comprehension**:
 
-At that point, NDH enters **Phase‑6: Deployment Mode**.
+> **A way for humans to *feel* the geometry of a system — its stability, distortions, and dignity constraints — through safe, bounded, mathematically‑controlled feedback.**
+
+Haptics exist to make NDH:
+
+- intuitive  
+- accessible  
+- perceptible  
+- cognitively navigable  
+
+This is **sensory comprehension**, not sensory stimulation.
+
+Holonomy provides the **geometric foundation**.  
+NDA ensures haptics remain **safe and bounded**.
+
+---
+
+## **6. Accessibility — The Real Purpose of Haptics**
+NDH haptics exist for **accessibility**, not immersion.
+
+They help people understand:
+
+- stability envelopes  
+- collapse geometry  
+- bias curvature  
+- harm propagation  
+- dignity constraints  
+
+without needing:
+
+- tensor calculus  
+- manifold theory  
+- holonomy operators  
+- NDA familiarity  
+
+This is accessibility engineering.
+
+---
+
+## **7. Dignity Under Constraints**
+NDH’s haptic direction is built around one principle:
+
+> **No sensory output should ever violate dignity.**
+
+This means:
+
+- no shock  
+- no overwhelm  
+- no coercive feedback  
+- no trauma replication  
+- no collapse reenactment  
+
+NDH haptics are **protective**, not extractive.
+
+---
+
+## **8. HRD Threat‑Mapping**
+NDH includes HRD (Human Rights Defense) threat‑mapping because:
+
+- collapse is real  
+- sabotage is real  
+- institutional harm is real  
+- rights erosion is real  
+
+NDH models these phenomena with:
+
+- harm tensors  
+- bias curvature  
+- sabotage operators  
+- collapse geometry  
+- holonomy distortion  
+
+This work is being developed under **extreme circumstances**, with dignity as a constraint.
+
+---
+
+## **9. Formal Lean Contribution**  
+NDH Stability Geometry incorporates a **machine‑checked Lean 4 anti‑collapse proof** contributed by **Jonathan Reed**, establishing forward invariance and strict span contraction for a cyclic ring consensus protocol over \([0,1]^n\), valid for all \(n \ge 3\).  
+Used under the MIT License as requested.
+
+This proof strengthens NDH’s stability geometry and provides a formal anti‑collapse invariant.
+
+---
+
+## **10. One‑Sentence Summary (Sagan Tone)**
+> **Holonomy shows how systems change us; NDA keeps the math coherent; haptics make the geometry perceptible; Myth Engineering makes it understandable; dignity keeps it human.** ✨
 
 ---
 
